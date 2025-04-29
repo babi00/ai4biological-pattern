@@ -1,0 +1,16 @@
+Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or exclu
+Leaf carbon (C) content per leaf dry mass
+Leaf dry mass (single leaf)
+Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)
+Leaf fresh mass
+Leaf nitrogen (N) content per leaf area
+Leaf nitrogen (N) content per leaf dry mass
+Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant
+Plant growth form
+Plant height vegetative
+Seed (seedbank) longevity
+Seedbank density
+Seedbank duration
+Seedbank number of layers
+Seedbank thickness of top layer
+Seedbank type
