@@ -7,7 +7,7 @@
         - `v4` : use ResNet to extract embeddings + a simple classifier with multi binary classification
         - `v5` : use BioCLIP to extract embdeggings + a simple classifier with multi binary classification
     - **models** : repository with models obtained with `annotate_unnotated_data_v*.ipynb`
-    - **repositories**
+    - **data repositories**
         > *prefix_specie_place* where the specie is the spece of the observations, the place is the region of the observations (*n_a* for North America - incl. Ocean) and prefix follows this strategy:
         >    - `PROVA` for toy example - only to use at earlier stage to build models
         >    - `annotations` - data obtained via `download_observations.ipynb` only of observations with annotations
