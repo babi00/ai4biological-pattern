@@ -1,0 +1,18 @@
+AccSpeciesName	ObservationID	TraitID	TraitName	DataName	StdValue	UnitName
+Dactylis glomerata	25163	42	Plant growth form	Plant growth form	Herbaceous Monocot	
+Dactylis glomerata	25163	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	29.57447	mg/g
+Achillea millefolium	28738	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	12.7762069	mg/g
+Achillea millefolium	28739	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	13.04973505	mg/g
+Achillea millefolium	28740	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	13.89798633	mg/g
+Dactylis glomerata	1043810	42	Plant growth form	Plant growth form	grass	
+Dactylis glomerata	1043810	42	Plant growth form	growth Form	grass	
+Dactylis glomerata	1043810	42	Plant growth form	Plant growth form 2	monocot	
+Dactylis glomerata	1043819	42	Plant growth form	Plant growth form	grass	
+Dactylis glomerata	1043819	42	Plant growth form	growth Form	grass	
+Trifolium pratense	941113	42	Plant growth form	Plant growth form	leguminous forb	
+Trifolium pratense	941113	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Whole plant aboveground vegetative dry mass per individual plant	0.2319	g
+Trifolium pratense	941113	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Shoot dry mass per plant	0.30138	g
+Trifolium pratense	941113	3106	Plant height vegetative	Plant height vegetative	0.248	m
+Trifolium pratense	941113	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	43.082	mg/g
+Trifolium pratense	941113	13	Leaf carbon (C) content per leaf dry mass	Leaf carbon content per dry mass	455.0	mg/g
+Trifolium pratense	941113	50	Leaf nitrogen (N) content per leaf area	Leaf nitrogen content per area (Narea)	1.558979818655	g m-2
