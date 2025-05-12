@@ -9,6 +9,9 @@ Dactylis glomerata	1043810	42	Plant growth form	growth Form	grass
 Dactylis glomerata	1043810	42	Plant growth form	Plant growth form 2	monocot	
 Dactylis glomerata	1043819	42	Plant growth form	Plant growth form	grass	
 Dactylis glomerata	1043819	42	Plant growth form	growth Form	grass	
+Achillea millefolium	1259027	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	5.47	mm2 mg-1
+Achillea millefolium	807324	55	Leaf dry mass (single leaf)	Leaf dry mass	77.9	mg
+Achillea millefolium	807334	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	20.75	mm2 mg-1
 Trifolium pratense	941113	42	Plant growth form	Plant growth form	leguminous forb	
 Trifolium pratense	941113	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Whole plant aboveground vegetative dry mass per individual plant	0.2319	g
 Trifolium pratense	941113	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Shoot dry mass per plant	0.30138	g
@@ -16,3 +19,11 @@ Trifolium pratense	941113	3106	Plant height vegetative	Plant height vegetative	0
 Trifolium pratense	941113	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	43.082	mg/g
 Trifolium pratense	941113	13	Leaf carbon (C) content per leaf dry mass	Leaf carbon content per dry mass	455.0	mg/g
 Trifolium pratense	941113	50	Leaf nitrogen (N) content per leaf area	Leaf nitrogen content per area (Narea)	1.558979818655	g m-2
+Achillea millefolium	807523	33	Seed (seedbank) longevity	Seedbank longevity	short-term persistent	
+Achillea millefolium	807524	33	Seed (seedbank) longevity	Seedbank longevity	transient	
+Achillea millefolium	807525	33	Seed (seedbank) longevity	Seedbank longevity	present	
+Dactylis glomerata	941959	42	Plant growth form	Plant growth form	Graminoid	
+Dactylis glomerata	941959	42	Plant growth form	growth Form	Bunch	
+Dactylis glomerata	941959	3106	Plant height vegetative	Plant height vegetative	0.9144	m
+Dactylis glomerata	941959	42	Plant growth form	Low Growing Grass	No	
+Dactylis glomerata	941959	42	Plant growth form	Shape and Orientation	Erect
