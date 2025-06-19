@@ -1,0 +1,738 @@
+index	AccSpeciesName	ObservationID	TraitID	TraitName	DataName	StdValue	UnitName
+73	Dactylis glomerata	23672	42	Plant growth form	Plant growth form	Herbaceous Monocot	
+175	Achillea millefolium	28740	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	13.89798633	mg/g
+231	Achillea millefolium	29085	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	20.5	mg/g
+334	Trifolium pratense	93264	42	Plant growth form	Plant growth form	herb	
+545	Achillea millefolium	94198	42	Plant growth form	Plant growth form	herbaceous dicotyl	
+657	Trifolium pratense	99878	42	Plant growth form	Shoot growth form, shoot architecture	Stem erect	
+667	Trifolium pratense	99880	42	Plant growth form	Shoot growth form, shoot architecture	Stem erect	
+116133	Trifolium pratense	172456	50	Leaf nitrogen (N) content per leaf area	Leaf nitrogen content per area (Narea)	1.96355793574085	g m-2
+889	Trifolium pratense	172459	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	47.6370763778687	mg/g
+888	Trifolium pratense	172459	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.333333333333333	g/g
+947	Trifolium pratense	172654	3106	Plant height vegetative	Plant height vegetative	0.1	m
+1399	Achillea millefolium	285412	42	Plant growth form	Plant growth form	herb	
+1503	Achillea millefolium	757714	55	Leaf dry mass (single leaf)	Leaf dry mass	23.2	mg
+1567	Dactylis glomerata	758309	55	Leaf dry mass (single leaf)	Leaf dry mass	200.1	mg
+1582	Dactylis glomerata	758311	163	Leaf fresh mass	Leaf fresh mass	0.5605	g
+1598	Dactylis glomerata	758313	163	Leaf fresh mass	Leaf fresh mass	0.6665	g
+1615	Dactylis glomerata	758315	55	Leaf dry mass (single leaf)	Leaf dry mass	150.3	mg
+1655	Dactylis glomerata	758320	55	Leaf dry mass (single leaf)	Leaf dry mass	115.4	mg
+1670	Dactylis glomerata	758322	163	Leaf fresh mass	Leaf fresh mass	0.176	g
+1719	Dactylis glomerata	758328	55	Leaf dry mass (single leaf)	Leaf dry mass	30.0	mg
+1782	Dactylis glomerata	758336	163	Leaf fresh mass	Leaf fresh mass	0.3739	g
+1791	Dactylis glomerata	758337	55	Leaf dry mass (single leaf)	Leaf dry mass	104.8	mg
+1798	Dactylis glomerata	758338	163	Leaf fresh mass	Leaf fresh mass	0.8695	g
+1806	Dactylis glomerata	758339	163	Leaf fresh mass	Leaf fresh mass	0.7395	g
+1848	Trifolium pratense	759176	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.259939859672569	g/g
+1864	Trifolium pratense	759178	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.217488076311606	g/g
+1880	Trifolium pratense	759180	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.24448586517552	g/g
+1878	Trifolium pratense	759180	163	Leaf fresh mass	Leaf fresh mass	0.3219	g
+1952	Trifolium pratense	759189	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.22018779342723	g/g
+2032	Trifolium pratense	759199	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.268925357331922	g/g
+2105	Dactylis glomerata	759783	3106	Plant height vegetative	Plant height vegetative	0.86	m
+2119	Dactylis glomerata	759797	3106	Plant height vegetative	Plant height vegetative	1.32	m
+2146	Achillea millefolium	761017	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.197936814958092	g/g
+2208	Achillea millefolium	761420	55	Leaf dry mass (single leaf)	Leaf dry mass	43.8	mg
+2251	Dactylis glomerata	773630	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	21.4	mg/g
+2274	Dactylis glomerata	773660	42	Plant growth form	Plant growth form	Grasses&Sedges	
+2410	Achillea millefolium	807515	33	Seed (seedbank) longevity	Seedbank longevity	present	
+2570	Achillea millefolium	807560	33	Seed (seedbank) longevity	Seedbank longevity	transient	
+3166	Trifolium pratense	915344	33	Seed (seedbank) longevity	Seedbank longevity	transient	
+3181	Trifolium pratense	915411	42	Plant growth form	Shoot growth form, shoot architecture	ascending	
+3346	Achillea millefolium	941049	42	Plant growth form	Plant growth form	herb	
+3437	Trifolium pratense	941075	42	Plant growth form	Plant growth form	leguminous forb	
+3453	Achillea millefolium	941077	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Whole plant aboveground vegetative dry mass per individual plant	1.13264	g
+3535	Dactylis glomerata	941959	42	Plant growth form	Plant growth form	Graminoid	
+3795	Achillea millefolium	957807	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.132024791538689	g/g
+116161	Achillea millefolium	957807	50	Leaf nitrogen (N) content per leaf area	Leaf nitrogen content per area (Narea)	1.6806882794001	g m-2
+116164	Achillea millefolium	957865	50	Leaf nitrogen (N) content per leaf area	Leaf nitrogen content per area (Narea)	1.79966393187381	g m-2
+4022	Achillea millefolium	978839	42	Plant growth form	Plant growth form	forb	
+4386	Dactylis glomerata	1054200	3106	Plant height vegetative	Plant height vegetative	0.3	m
+4462	Dactylis glomerata	1054205	163	Leaf fresh mass	Leaf fresh mass	0.25	g
+4552	Dactylis glomerata	1054243	163	Leaf fresh mass	Leaf fresh mass	0.2	g
+4598	Dactylis glomerata	1054246	55	Leaf dry mass (single leaf)	Leaf dry mass	32.0	mg
+4689	Dactylis glomerata	1054285	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.318	g/g
+4764	Dactylis glomerata	1054389	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.239	g/g
+4852	Dactylis glomerata	1054627	163	Leaf fresh mass	Leaf fresh mass	0.24	g
+4851	Dactylis glomerata	1054627	3106	Plant height vegetative	Plant height vegetative	0.31	m
+4957	Achillea millefolium	1054914	163	Leaf fresh mass	Leaf fresh mass	0.44	g
+5211	Achillea millefolium	1055722	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Whole plant aboveground vegetative dry mass per individual plant	2.464	g
+5419	Dactylis glomerata	1055824	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Whole plant aboveground vegetative dry mass per individual plant	15.811	g
+6689	Dactylis glomerata	1288820	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	30.2308	mg/g
+6687	Dactylis glomerata	1288820	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	21.9	mm2 mg-1
+6885	Trifolium pratense	1289060	55	Leaf dry mass (single leaf)	Leaf dry mass	8.59590218638755	mg
+7458	Achillea millefolium	1290177	42	Plant growth form	Plant growth form	H	
+7869	Achillea millefolium	1305929	3106	Plant height vegetative	Plant height vegetative	0.1284	m
+8108	Dactylis glomerata	1306052	3106	Plant height vegetative	Plant height vegetative	0.2969333333	m
+116182	Trifolium pratense	1306107	50	Leaf nitrogen (N) content per leaf area	Leaf nitrogen content per area (Narea)	1.49588671186511	g m-2
+8349	Achillea millefolium	1306214	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	20.8	mg/g
+8378	Dactylis glomerata	1306229	3106	Plant height vegetative	Plant height vegetative	0.2235	m
+8459	Achillea millefolium	1306297	3106	Plant height vegetative	Plant height vegetative	0.155	m
+116197	Achillea millefolium	1306394	50	Leaf nitrogen (N) content per leaf area	Leaf nitrogen content per area (Narea)	1.6413652572593	g m-2
+8726	Achillea millefolium	1307027	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	21.25	mg/g
+116203	Trifolium pratense	1307064	50	Leaf nitrogen (N) content per leaf area	Leaf nitrogen content per area (Narea)	1.8932509925011	g m-2
+8861	Trifolium pratense	1307123	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	39.19	mg/g
+9203	Dactylis glomerata	1309314	42	Plant growth form	Plant growth form	herbaceous	
+9304	Trifolium pratense	1311942	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	22.4	mm2 mg-1
+9530	Dactylis glomerata	1323942	13	Leaf carbon (C) content per leaf dry mass	Leaf carbon content per dry mass	442.879066666667	mg/g
+9648	Dactylis glomerata	1324693	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.233870967741935	g/g
+9780	Dactylis glomerata	1324835	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.231206569804169	g/g
+9845	Dactylis glomerata	1324841	55	Leaf dry mass (single leaf)	Leaf dry mass	45.7	mg
+9885	Trifolium pratense	1324895	163	Leaf fresh mass	Leaf fresh mass	0.0948	g
+9918	Trifolium pratense	1324898	163	Leaf fresh mass	Leaf fresh mass	0.1881	g
+9921	Trifolium pratense	1324898	3106	Plant height vegetative	Plant height vegetative	0.19	m
+9995	Trifolium pratense	1333992	42	Plant growth form	Plant growth form	Forb	
+10009	Achillea millefolium	1334764	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Shoot dry mass per plant	0.4021	g
+116215	Dactylis glomerata	1338890	50	Leaf nitrogen (N) content per leaf area	Leaf nitrogen content per area (Narea)	0.407894734941231	g m-2
+10328	Achillea millefolium	1397450	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	18.45	mg/g
+10354	Trifolium pratense	1418351	55	Leaf dry mass (single leaf)	Leaf dry mass	25.2825	mg
+10437	Trifolium pratense	1419189	55	Leaf dry mass (single leaf)	Leaf dry mass	23.2	mg
+10470	Trifolium pratense	1434524	55	Leaf dry mass (single leaf)	Leaf dry mass	48.3	mg
+10600	Dactylis glomerata	1489469	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	15.0	mg/g
+10642	Trifolium pratense	1580758	1111	Seedbank density	Seedbank density	14101.0	1/m2
+10646	Trifolium pratense	1580760	1111	Seedbank density	Seedbank density	372.5	1/m2
+10648	Trifolium pratense	1580777	3106	Plant height vegetative	Plant height (unspecified if vegetative or reproductive)	0.05	m
+11230	Dactylis glomerata	1664294	55	Leaf dry mass (single leaf)	Leaf dry mass	87.0	mg
+11240	Dactylis glomerata	1664295	55	Leaf dry mass (single leaf)	Leaf dry mass	111.0	mg
+11407	Achillea millefolium	1667648	55	Leaf dry mass (single leaf)	Leaf dry mass	38.2	mg
+11458	Achillea millefolium	1667653	163	Leaf fresh mass	Leaf fresh mass	0.1078	g
+11545	Trifolium pratense	1668785	163	Leaf fresh mass	Leaf fresh mass	0.1928	g
+11586	Trifolium pratense	1668789	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.206490727532097	g/g
+11643	Trifolium pratense	1668795	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	37.58876	mg/g
+11660	Achillea millefolium	1672127	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	21.9949224806202	mg/g
+11789	Achillea millefolium	1784521	3106	Plant height vegetative	Plant height observed	0.18	m
+11909	Trifolium pratense	1799451	3106	Plant height vegetative	Plant height (unspecified if vegetative or reproductive)	0.2	m
+11951	Dactylis glomerata	1800455	3106	Plant height vegetative	Plant height maximum	1.27	m
+11985	Achillea millefolium	2272782	2807	Seedbank number of layers	Seedbank number of layers	3.0	1/plant
+12001	Achillea millefolium	2272783	1111	Seedbank density	Seedbank density	0.0	1/m2
+12031	Achillea millefolium	2272785	2808	Seedbank thickness of top layer	Seedbank thickness of top layer (cm)	50.0	mm
+12109	Achillea millefolium	2272790	2807	Seedbank number of layers	Seedbank number of layers	1.0	1/plant
+12268	Achillea millefolium	2272800	1111	Seedbank density	Seedbank density	145.0	1/m2
+12388	Achillea millefolium	2272808	159	Seedbank type	Seedbank type	present	
+12495	Achillea millefolium	2272815	159	Seedbank type	Seedbank type	present	
+12557	Achillea millefolium	2272819	2807	Seedbank number of layers	Seedbank number of layers	2.0	1/plant
+12667	Achillea millefolium	2272826	2807	Seedbank number of layers	Seedbank number of layers	2.0	1/plant
+12719	Achillea millefolium	2272829	1111	Seedbank density	Seedbank density	1132.0	1/m2
+12922	Achillea millefolium	2272843	1111	Seedbank density	Seedbank density	0.0	1/m2
+13042	Achillea millefolium	2272851	159	Seedbank type	Seedbank type	transient	
+13176	Achillea millefolium	2272859	1111	Seedbank density	Seedbank density	0.0	1/m2
+13207	Achillea millefolium	2272861	1111	Seedbank density	Seedbank density	0.0	1/m2
+13279	Achillea millefolium	2272866	159	Seedbank type	Seedbank type	transient	
+13524	Achillea millefolium	2272881	1111	Seedbank density	Seedbank density	0.0	1/m2
+13596	Achillea millefolium	2272886	159	Seedbank type	Seedbank type	transient	
+13660	Achillea millefolium	2272890	159	Seedbank type	Seedbank type	transient	
+13680	Achillea millefolium	2272891	2807	Seedbank number of layers	Seedbank number of layers	1.0	1/plant
+13747	Achillea millefolium	2272895	2809	Seedbank duration	Seedbank duration (month)	12.0	month
+13772	Achillea millefolium	2272897	159	Seedbank type	Seedbank type	transient	
+13788	Achillea millefolium	2272898	159	Seedbank type	Seedbank type	transient	
+13806	Achillea millefolium	2272899	1111	Seedbank density	Seedbank density	0.0	1/m2
+14025	Achillea millefolium	2272914	2808	Seedbank thickness of top layer	Seedbank thickness of top layer (cm)	100.0	mm
+14187	Achillea millefolium	2272925	159	Seedbank type	Seedbank type	transient	
+14443	Achillea millefolium	2272941	159	Seedbank type	Seedbank type	transient	
+14506	Achillea millefolium	2272945	159	Seedbank type	Seedbank type	transient	
+14511	Achillea millefolium	2272945	2808	Seedbank thickness of top layer	Seedbank thickness of top layer (cm)	20.0	mm
+14528	Achillea millefolium	2272946	1111	Seedbank density	Seedbank density	53.0	1/m2
+14616	Achillea millefolium	2272952	2808	Seedbank thickness of top layer	Seedbank thickness of top layer (cm)	65.0	mm
+14645	Achillea millefolium	2272954	2807	Seedbank number of layers	Seedbank number of layers	1.0	1/plant
+14731	Achillea millefolium	2272960	159	Seedbank type	Seedbank type	transient	
+14776	Achillea millefolium	2272963	159	Seedbank type	Seedbank type	transient	
+15031	Achillea millefolium	2272980	159	Seedbank type	Seedbank type	transient	
+15119	Achillea millefolium	2272986	159	Seedbank type	Seedbank type	transient	
+15298	Achillea millefolium	2272998	2809	Seedbank duration	Seedbank duration (month)	24.0	month
+15539	Achillea millefolium	2273013	1111	Seedbank density	Seedbank density	0.0	1/m2
+15627	Achillea millefolium	2273019	159	Seedbank type	Seedbank type	transient	
+15810	Achillea millefolium	2273030	2809	Seedbank duration	Seedbank duration (month)	9.0	month
+15867	Achillea millefolium	2273034	159	Seedbank type	Seedbank type	transient	
+15931	Achillea millefolium	2273038	159	Seedbank type	Seedbank type	transient	
+16202	Achillea millefolium	2273055	159	Seedbank type	Seedbank type	transient	
+16396	Achillea millefolium	2273068	159	Seedbank type	Seedbank type	transient	
+16456	Achillea millefolium	2273072	159	Seedbank type	Seedbank type	transient	
+16463	Achillea millefolium	2273072	1111	Seedbank density	Seedbank density	0.0	1/m2
+16625	Achillea millefolium	2273083	2808	Seedbank thickness of top layer	Seedbank thickness of top layer (cm)	30.0	mm
+16936	Dactylis glomerata	2284237	2807	Seedbank number of layers	Seedbank number of layers	1.0	1/plant
+17541	Dactylis glomerata	2284279	1111	Seedbank density	Seedbank density	36.0	1/m2
+17620	Dactylis glomerata	2284284	1111	Seedbank density	Seedbank density	13.0	1/m2
+17709	Dactylis glomerata	2284291	159	Seedbank type	Seedbank type	short-term persistent	
+17724	Dactylis glomerata	2284292	159	Seedbank type	Seedbank type	short-term persistent	
+17935	Dactylis glomerata	2284305	1111	Seedbank density	Seedbank density	0.0	1/m2
+17958	Dactylis glomerata	2284307	159	Seedbank type	Seedbank type	transient	
+18189	Dactylis glomerata	2284322	159	Seedbank type	Seedbank type	transient	
+18399	Dactylis glomerata	2284335	2808	Seedbank thickness of top layer	Seedbank thickness of top layer (cm)	65.0	mm
+18514	Dactylis glomerata	2284342	1111	Seedbank density	Seedbank density	0.0	1/m2
+18522	Dactylis glomerata	2284343	159	Seedbank type	Seedbank type	transient	
+18546	Dactylis glomerata	2284344	1111	Seedbank density	Seedbank density	0.0	1/m2
+18570	Dactylis glomerata	2284346	159	Seedbank type	Seedbank type	transient	
+18738	Dactylis glomerata	2284356	1111	Seedbank density	Seedbank density	0.0	1/m2
+19706	Dactylis glomerata	2284418	159	Seedbank type	Seedbank type	transient	
+20016	Dactylis glomerata	2284437	1111	Seedbank density	Seedbank density	0.0	1/m2
+20328	Dactylis glomerata	2284457	159	Seedbank type	Seedbank type	transient	
+20368	Dactylis glomerata	2284459	1111	Seedbank density	Seedbank density	0.0	1/m2
+20400	Dactylis glomerata	2284461	1111	Seedbank density	Seedbank density	0.0	1/m2
+20488	Dactylis glomerata	2284467	159	Seedbank type	Seedbank type	transient	
+20496	Dactylis glomerata	2284467	1111	Seedbank density	Seedbank density	0.0	1/m2
+20624	Dactylis glomerata	2284475	1111	Seedbank density	Seedbank density	0.0	1/m2
+20842	Dactylis glomerata	2284490	159	Seedbank type	Seedbank type	transient	
+21057	Dactylis glomerata	2284504	159	Seedbank type	Seedbank type	transient	
+21137	Dactylis glomerata	2284509	159	Seedbank type	Seedbank type	transient	
+21145	Dactylis glomerata	2284509	1111	Seedbank density	Seedbank density	0.0	1/m2
+21193	Dactylis glomerata	2284512	1111	Seedbank density	Seedbank density	0.0	1/m2
+21273	Dactylis glomerata	2284517	1111	Seedbank density	Seedbank density	0.0	1/m2
+21321	Dactylis glomerata	2284520	1111	Seedbank density	Seedbank density	0.0	1/m2
+21489	Dactylis glomerata	2284531	159	Seedbank type	Seedbank type	transient	
+21673	Dactylis glomerata	2284542	1111	Seedbank density	Seedbank density	0.0	1/m2
+21761	Dactylis glomerata	2284548	159	Seedbank type	Seedbank type	transient	
+21857	Dactylis glomerata	2284554	159	Seedbank type	Seedbank type	transient	
+21893	Dactylis glomerata	2284556	2807	Seedbank number of layers	Seedbank number of layers	2.0	1/plant
+22304	Trifolium pratense	2310794	159	Seedbank type	Seedbank type	long-term persistent	
+22488	Trifolium pratense	2310807	1111	Seedbank density	Seedbank density	24.0	1/m2
+22544	Trifolium pratense	2310811	2807	Seedbank number of layers	Seedbank number of layers	6.0	1/plant
+22545	Trifolium pratense	2310811	2808	Seedbank thickness of top layer	Seedbank thickness of top layer (cm)	80.0	mm
+22596	Trifolium pratense	2310815	33	Seed (seedbank) longevity	Seed longevity (max possible)	6.0	year
+22622	Trifolium pratense	2310817	2809	Seedbank duration	Seedbank duration (month)	24.0	month
+22669	Trifolium pratense	2310820	1111	Seedbank density	Seedbank density	7.0	1/m2
+22733	Trifolium pratense	2310824	1111	Seedbank density	Seedbank density	440.0	1/m2
+22985	Trifolium pratense	2310840	2807	Seedbank number of layers	Seedbank number of layers	1.0	1/plant
+23034	Trifolium pratense	2310843	2808	Seedbank thickness of top layer	Seedbank thickness of top layer (cm)	50.0	mm
+23144	Trifolium pratense	2310851	159	Seedbank type	Seedbank type	present	
+23697	Trifolium pratense	2310889	159	Seedbank type	Seedbank type	transient	
+23769	Trifolium pratense	2310893	1111	Seedbank density	Seedbank density	0.0	1/m2
+24005	Trifolium pratense	2310908	2807	Seedbank number of layers	Seedbank number of layers	1.0	1/plant
+24025	Trifolium pratense	2310909	1111	Seedbank density	Seedbank density	0.0	1/m2
+24217	Trifolium pratense	2310921	1111	Seedbank density	Seedbank density	0.0	1/m2
+24233	Trifolium pratense	2310922	1111	Seedbank density	Seedbank density	0.0	1/m2
+24249	Trifolium pratense	2310923	1111	Seedbank density	Seedbank density	0.0	1/m2
+24313	Trifolium pratense	2310927	1111	Seedbank density	Seedbank density	0.0	1/m2
+24609	Trifolium pratense	2310946	159	Seedbank type	Seedbank type	transient	
+24617	Trifolium pratense	2310946	1111	Seedbank density	Seedbank density	0.0	1/m2
+24753	Trifolium pratense	2310955	159	Seedbank type	Seedbank type	transient	
+24760	Trifolium pratense	2310955	2809	Seedbank duration	Seedbank duration (month)	18.0	month
+24873	Trifolium pratense	2310962	1111	Seedbank density	Seedbank density	0.0	1/m2
+25193	Trifolium pratense	2310982	1111	Seedbank density	Seedbank density	0.0	1/m2
+25241	Trifolium pratense	2310985	1111	Seedbank density	Seedbank density	0.0	1/m2
+25552	Trifolium pratense	2311005	2809	Seedbank duration	Seedbank duration (month)	8.0	month
+25577	Trifolium pratense	2311007	159	Seedbank type	Seedbank type	transient	
+25969	Trifolium pratense	2311031	1111	Seedbank density	Seedbank density	0.0	1/m2
+26292	Trifolium pratense	2311052	2808	Seedbank thickness of top layer	Seedbank thickness of top layer (cm)	50.0	mm
+26512	Achillea millefolium	2328315	159	Seedbank type	Seedbank type	transient	
+26548	Achillea millefolium	2328319	159	Seedbank type	Seedbank type	transient	
+26695	Achillea millefolium	2328335	33	Seed (seedbank) longevity	Seedbank longevity index	0.5	year
+26825	Achillea millefolium	2328350	159	Seedbank type	Seedbank type	transient	
+26861	Achillea millefolium	2328354	159	Seedbank type	Seedbank type	transient	
+27043	Achillea millefolium	2328374	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+27086	Achillea millefolium	2328379	159	Seedbank type	Seedbank type	transient	
+27293	Achillea millefolium	2328402	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+27347	Achillea millefolium	2328408	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+27354	Achillea millefolium	2328409	159	Seedbank type	Seedbank type	transient	
+27363	Achillea millefolium	2328410	159	Seedbank type	Seedbank type	transient	
+27383	Achillea millefolium	2328412	33	Seed (seedbank) longevity	Seedbank longevity index	1.0	year
+27506	Achillea millefolium	2328426	159	Seedbank type	Seedbank type	transient	
+27597	Achillea millefolium	2328436	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+27954	Achillea millefolium	2328476	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+27987	Achillea millefolium	2328480	159	Seedbank type	Seedbank type	transient	
+28016	Achillea millefolium	2328483	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+28086	Achillea millefolium	2328491	159	Seedbank type	Seedbank type	transient	
+28158	Achillea millefolium	2328499	159	Seedbank type	Seedbank type	transient	
+28212	Achillea millefolium	2328505	159	Seedbank type	Seedbank type	transient	
+28248	Achillea millefolium	2328509	159	Seedbank type	Seedbank type	transient	
+28295	Achillea millefolium	2328514	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+28356	Achillea millefolium	2328521	159	Seedbank type	Seedbank type	transient	
+28456	Achillea millefolium	2328532	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+28463	Achillea millefolium	2328533	159	Seedbank type	Seedbank type	short-term persistent	
+28483	Achillea millefolium	2328535	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+28481	Achillea millefolium	2328535	159	Seedbank type	Seedbank type	transient	
+28510	Achillea millefolium	2328538	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+28731	Achillea millefolium	2328563	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+29042	Achillea millefolium	2328598	159	Seedbank type	Seedbank type	transient	
+29080	Achillea millefolium	2328602	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+29098	Achillea millefolium	2328604	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+29141	Achillea millefolium	2328609	159	Seedbank type	Seedbank type	transient	
+29293	Trifolium pratense	2341359	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+29503	Trifolium pratense	2341382	159	Seedbank type	Seedbank type	present	
+29528	Trifolium pratense	2341385	159	Seedbank type	Seedbank type	transient	
+29539	Trifolium pratense	2341386	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+29546	Trifolium pratense	2341387	159	Seedbank type	Seedbank type	transient	
+29847	Trifolium pratense	2341420	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+29856	Trifolium pratense	2341421	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+29863	Trifolium pratense	2341422	159	Seedbank type	Seedbank type	transient	
+29929	Trifolium pratense	2341429	33	Seed (seedbank) longevity	Seedbank longevity index	1.0	year
+29958	Trifolium pratense	2341432	33	Seed (seedbank) longevity	Seedbank longevity index	0.5	year
+29974	Trifolium pratense	2341434	159	Seedbank type	Seedbank type	short-term persistent	
+30333	Trifolium pratense	2341474	33	Seed (seedbank) longevity	Seedbank longevity index	0.5	year
+30377	Trifolium pratense	2341479	159	Seedbank type	Seedbank type	transient	
+30495	Trifolium pratense	2341492	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+30574	Trifolium pratense	2341501	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+30628	Trifolium pratense	2341507	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+30635	Trifolium pratense	2341508	159	Seedbank type	Seedbank type	transient	
+30653	Trifolium pratense	2341510	159	Seedbank type	Seedbank type	present	
+30688	Trifolium pratense	2341514	159	Seedbank type	Seedbank type	transient	
+30812	Trifolium pratense	2341528	159	Seedbank type	Seedbank type	transient	
+31124	Trifolium pratense	2341564	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+31205	Trifolium pratense	2341573	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+31214	Trifolium pratense	2341574	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+31418	Trifolium pratense	2341597	159	Seedbank type	Seedbank type	transient	
+31491	Trifolium pratense	2341605	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+31570	Trifolium pratense	2341614	159	Seedbank type	Seedbank type	transient	
+31603	Dactylis glomerata	2360480	159	Seedbank type	Seedbank type	present	
+31622	Dactylis glomerata	2360482	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+31739	Dactylis glomerata	2360495	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+31748	Dactylis glomerata	2360496	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+31996	Dactylis glomerata	2360523	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+32050	Dactylis glomerata	2360529	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+32084	Dactylis glomerata	2360533	159	Seedbank type	Seedbank type	transient	
+32201	Dactylis glomerata	2360546	159	Seedbank type	Seedbank type	transient	
+32518	Dactylis glomerata	2360581	159	Seedbank type	Seedbank type	transient	
+32527	Dactylis glomerata	2360582	159	Seedbank type	Seedbank type	short-term persistent	
+32536	Dactylis glomerata	2360583	159	Seedbank type	Seedbank type	short-term persistent	
+32618	Dactylis glomerata	2360592	159	Seedbank type	Seedbank type	transient	
+32946	Dactylis glomerata	2360628	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+32953	Dactylis glomerata	2360629	159	Seedbank type	Seedbank type	transient	
+33088	Dactylis glomerata	2360644	159	Seedbank type	Seedbank type	transient	
+33133	Dactylis glomerata	2360649	159	Seedbank type	Seedbank type	transient	
+33188	Dactylis glomerata	2360655	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+33341	Dactylis glomerata	2360672	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+33456	Dactylis glomerata	2360685	159	Seedbank type	Seedbank type	transient	
+33467	Dactylis glomerata	2360686	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+33465	Dactylis glomerata	2360686	159	Seedbank type	Seedbank type	transient	
+33683	Dactylis glomerata	2360710	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+33780	Dactylis glomerata	2360721	159	Seedbank type	Seedbank type	transient	
+33825	Dactylis glomerata	2360726	159	Seedbank type	Seedbank type	transient	
+33854	Dactylis glomerata	2360729	33	Seed (seedbank) longevity	Seedbank longevity index	0.5	year
+33926	Dactylis glomerata	2360737	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+34068	Dactylis glomerata	2360753	159	Seedbank type	Seedbank type	transient	
+34178	Dactylis glomerata	2360765	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+34393	Dactylis glomerata	2360789	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+34535	Dactylis glomerata	2360805	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+34562	Dactylis glomerata	2360808	33	Seed (seedbank) longevity	Seedbank longevity index	0.0	year
+34587	Dactylis glomerata	2360811	159	Seedbank type	Seedbank type	transient	
+34891	Achillea millefolium	2462198	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.177144	g/g
+34890	Achillea millefolium	2462198	3106	Plant height vegetative	Plant height vegetative	0.1265	m
+34934	Dactylis glomerata	2462238	3106	Plant height vegetative	Plant height vegetative	0.303	m
+34999	Trifolium pratense	2462341	13	Leaf carbon (C) content per leaf dry mass	Leaf carbon content per dry mass	444.9	mg/g
+35022	Trifolium pratense	2462343	3106	Plant height vegetative	Plant height vegetative	0.12875	m
+35263	Trifolium pratense	2469584	13	Leaf carbon (C) content per leaf dry mass	Leaf carbon content per dry mass	455.33	mg/g
+35720	Achillea millefolium	2470472	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.18451	g/g
+35765	Achillea millefolium	2474743	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Shoot dry mass per plant	0.265140654496188	g
+35809	Achillea millefolium	2474812	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.196852163556483	g/g
+35831	Achillea millefolium	2474837	42	Plant growth form	Plant growth form	herb	
+36052	Trifolium pratense	2475293	42	Plant growth form	Plant growth form	herb	
+36576	Trifolium pratense	2475319	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Shoot dry mass per plant	1.66342857142857	g
+36761	Achillea millefolium	2475334	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.214189189189189	g/g
+36780	Achillea millefolium	2475336	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.206217616580311	g/g
+36799	Achillea millefolium	2475338	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.176978417266187	g/g
+37057	Achillea millefolium	2475368	42	Plant growth form	Plant growth form	forb	
+37136	Achillea millefolium	2475828	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.368238213	g/g
+37198	Achillea millefolium	2475834	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	32.7340920153743	mg/g
+37262	Dactylis glomerata	2487790	3106	Plant height vegetative	Plant height vegetative	0.29	m
+37376	Achillea millefolium	2487850	42	Plant growth form	Plant growth form	herb	
+37397	Dactylis glomerata	2488046	42	Plant growth form	Plant growth form	herb	
+37600	Dactylis glomerata	2488146	55	Leaf dry mass (single leaf)	Leaf dry mass	57.0	mg
+37851	Dactylis glomerata	2488329	163	Leaf fresh mass	Leaf fresh mass	0.79	g
+37959	Achillea millefolium	2490426	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.21102248	g/g
+38130	Achillea millefolium	2491267	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.149456522	g/g
+38436	Dactylis glomerata	2501452	42	Plant growth form	Plant growth form	G	
+38866	Trifolium pratense	2506938	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Whole plant aboveground vegetative dry mass per individual plant	0.678	g
+39123	Trifolium pratense	2506951	42	Plant growth form	Plant growth form	herb	
+39366	Trifolium pratense	2506963	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Whole plant aboveground vegetative dry mass per individual plant	0.225	g
+39606	Trifolium pratense	2506975	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Whole plant aboveground vegetative dry mass per individual plant	1.514	g
+40263	Trifolium pratense	2507008	42	Plant growth form	Plant growth form	herb	
+40426	Trifolium pratense	2507016	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Whole plant aboveground vegetative dry mass per individual plant	0.233	g
+40443	Trifolium pratense	2507017	42	Plant growth form	Plant growth form	herb	
+40746	Trifolium pratense	2507032	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Whole plant aboveground vegetative dry mass per individual plant	0.388	g
+41066	Trifolium pratense	2507048	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Whole plant aboveground vegetative dry mass per individual plant	1.016	g
+41283	Trifolium pratense	2507059	42	Plant growth form	Plant growth form	herb	
+42243	Trifolium pratense	2507107	42	Plant growth form	Plant growth form	herb	
+43059	Trifolium pratense	2507148	42	Plant growth form	Plant growth form	herb	
+43062	Trifolium pratense	2507148	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Whole plant aboveground vegetative dry mass per individual plant	0.374	g
+43323	Trifolium pratense	2507161	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Shoot dry mass per plant	0.57	g
+43582	Trifolium pratense	2507174	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Whole plant aboveground vegetative dry mass per individual plant	10.402	g
+43619	Trifolium pratense	2507176	42	Plant growth form	Plant growth form	herb	
+44079	Trifolium pratense	2507199	42	Plant growth form	Plant growth form	herb	
+44439	Trifolium pratense	2507217	42	Plant growth form	Plant growth form	herb	
+44539	Trifolium pratense	2507222	42	Plant growth form	Plant growth form	herb	
+44582	Trifolium pratense	2507224	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Whole plant aboveground vegetative dry mass per individual plant	1.52	g
+44622	Trifolium pratense	2507226	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Whole plant aboveground vegetative dry mass per individual plant	1.049	g
+44762	Trifolium pratense	2507233	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Whole plant aboveground vegetative dry mass per individual plant	0.44	g
+45019	Trifolium pratense	2507246	42	Plant growth form	Plant growth form	herb	
+45239	Trifolium pratense	2507257	42	Plant growth form	Plant growth form	herb	
+45622	Trifolium pratense	2507276	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Whole plant aboveground vegetative dry mass per individual plant	0.686	g
+45942	Trifolium pratense	2507292	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Whole plant aboveground vegetative dry mass per individual plant	3.173	g
+46279	Trifolium pratense	2507309	42	Plant growth form	Plant growth form	herb	
+46322	Trifolium pratense	2507311	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Whole plant aboveground vegetative dry mass per individual plant	0.318	g
+46422	Trifolium pratense	2507316	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Whole plant aboveground vegetative dry mass per individual plant	1.953	g
+46579	Trifolium pratense	2507324	42	Plant growth form	Plant growth form	herb	
+46722	Trifolium pratense	2507331	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Whole plant aboveground vegetative dry mass per individual plant	0.94	g
+46902	Trifolium pratense	2507340	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Whole plant aboveground vegetative dry mass per individual plant	0.738	g
+46999	Trifolium pratense	2507345	42	Plant growth form	Plant growth form	herb	
+47182	Trifolium pratense	2507354	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Whole plant aboveground vegetative dry mass per individual plant	0.623	g
+47319	Trifolium pratense	2507361	42	Plant growth form	Plant growth form	herb	
+47586	Achillea millefolium	2508251	13	Leaf carbon (C) content per leaf dry mass	Leaf carbon content per dry mass	385.5663204	mg/g
+51410	Dactylis glomerata	2508335	55	Leaf dry mass (single leaf)	Leaf dry mass	128.0	mg
+47645	Trifolium pratense	2508521	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded (1)	21.235	mm2 mg-1
+116234	Trifolium pratense	2508522	50	Leaf nitrogen (N) content per leaf area	Leaf nitrogen content per area (Narea)	1.9566719874697	g m-2
+47779	Dactylis glomerata	2510505	3106	Plant height vegetative	Plant height vegetative	0.5588	m
+47879	Dactylis glomerata	2510613	163	Leaf fresh mass	Leaf fresh mass including petiole	0.14	g
+47889	Dactylis glomerata	2510614	3106	Plant height vegetative	Plant height vegetative	0.3175	m
+47901	Dactylis glomerata	2510615	163	Leaf fresh mass	Leaf fresh mass including petiole	0.16	g
+47923	Dactylis glomerata	2510649	163	Leaf fresh mass	Leaf fresh mass including petiole	1.37	g
+47937	Dactylis glomerata	2510650	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.285714285714286	g/g
+47955	Dactylis glomerata	2510808	3106	Plant height vegetative	Plant height vegetative	0.4572	m
+47977	Dactylis glomerata	2510823	3106	Plant height vegetative	Plant height vegetative	0.3048	m
+48034	Achillea millefolium	2513785	42	Plant growth form	Plant growth form	herbaceous	
+48081	Achillea millefolium	2513788	42	Plant growth form	Plant growth form	herbaceous	
+48161	Achillea millefolium	2513793	3106	Plant height vegetative	Plant height vegetative	0.04	m
+48177	Achillea millefolium	2513794	3106	Plant height vegetative	Plant height vegetative	0.035	m
+48430	Achillea millefolium	2513810	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Plant dry mass (aboveground)	0.8683	g
+48478	Dactylis glomerata	2514761	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	32.669	mg/g
+116239	Dactylis glomerata	2514763	50	Leaf nitrogen (N) content per leaf area	Leaf nitrogen content per area (Narea)	0.546940963613215	g m-2
+48521	Dactylis glomerata	2514764	13	Leaf carbon (C) content per leaf dry mass	Leaf carbon content per dry mass	457.35	mg/g
+48572	Dactylis glomerata	2514768	3106	Plant height vegetative	Plant height vegetative	0.67	m
+48601	Dactylis glomerata	2514770	55	Leaf dry mass (single leaf)	Leaf dry mass	23.35	mg
+48842	Dactylis glomerata	2514929	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	35.408	mg/g
+116264	Dactylis glomerata	2514930	50	Leaf nitrogen (N) content per leaf area	Leaf nitrogen content per area (Narea)	1.14728356116369	g m-2
+48853	Dactylis glomerata	2514930	55	Leaf dry mass (single leaf)	Leaf dry mass	14.35	mg
+48897	Achillea millefolium	2514963	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.146785	g/g
+48970	Achillea millefolium	2514968	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Plant dry mass (aboveground)	0.6539	g
+48993	Achillea millefolium	2514970	55	Leaf dry mass (single leaf)	Leaf dry mass	17.5	mg
+49040	Dactylis glomerata	2515083	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Plant dry mass (aboveground)	0.5021	g
+116276	Dactylis glomerata	2515084	50	Leaf nitrogen (N) content per leaf area	Leaf nitrogen content per area (Narea)	0.64918513505893	g m-2
+49048	Dactylis glomerata	2515084	3106	Plant height vegetative	Plant height vegetative	0.52	m
+49077	Dactylis glomerata	2515086	55	Leaf dry mass (single leaf)	Leaf dry mass	12.45	mg
+49095	Dactylis glomerata	2515087	13	Leaf carbon (C) content per leaf dry mass	Leaf carbon content per dry mass	438.433	mg/g
+49096	Dactylis glomerata	2515087	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Plant dry mass (aboveground)	0.5849	g
+49122	Dactylis glomerata	2515089	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	31.594	mg/g
+49175	Achillea millefolium	2515123	55	Leaf dry mass (single leaf)	Leaf dry mass	16.45	mg
+49191	Achillea millefolium	2515124	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.143636	g/g
+49206	Achillea millefolium	2515125	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	25.267	mg/g
+49204	Achillea millefolium	2515125	163	Leaf fresh mass	Leaf fresh mass	0.039	g
+49244	Achillea millefolium	2515128	3106	Plant height vegetative	Plant height vegetative	0.195	m
+49275	Achillea millefolium	2515130	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.296183	g/g
+49287	Achillea millefolium	2515131	55	Leaf dry mass (single leaf)	Leaf dry mass	14.8	mg
+49357	Dactylis glomerata	2515246	55	Leaf dry mass (single leaf)	Leaf dry mass	24.0	mg
+49426	Dactylis glomerata	2515251	3106	Plant height vegetative	Plant height vegetative	0.58	m
+49446	Dactylis glomerata	2515252	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Plant dry mass (aboveground)	0.7094	g
+49457	Achillea millefolium	2515283	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.193502	g/g
+49485	Achillea millefolium	2515285	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.1875	g/g
+49483	Achillea millefolium	2515285	55	Leaf dry mass (single leaf)	Leaf dry mass	12.0	mg
+49515	Achillea millefolium	2515287	13	Leaf carbon (C) content per leaf dry mass	Leaf carbon content per dry mass	430.0	mg/g
+116310	Achillea millefolium	2515288	50	Leaf nitrogen (N) content per leaf area	Leaf nitrogen content per area (Narea)	1.28788405797101	g m-2
+116315	Dactylis glomerata	2515393	50	Leaf nitrogen (N) content per leaf area	Leaf nitrogen content per area (Narea)	0.872119850187266	g m-2
+116316	Dactylis glomerata	2515394	50	Leaf nitrogen (N) content per leaf area	Leaf nitrogen content per area (Narea)	0.802963890628261	g m-2
+49642	Dactylis glomerata	2515396	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Plant dry mass (aboveground)	0.5191	g
+49680	Dactylis glomerata	2515399	163	Leaf fresh mass	Leaf fresh mass	0.0545	g
+49696	Dactylis glomerata	2515400	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	18.663	mg/g
+49712	Dactylis glomerata	2515401	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Plant dry mass (aboveground)	1.3282	g
+49735	Achillea millefolium	2515433	55	Leaf dry mass (single leaf)	Leaf dry mass	17.3	mg
+49752	Achillea millefolium	2515434	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	23.585	mg/g
+49750	Achillea millefolium	2515434	163	Leaf fresh mass	Leaf fresh mass	0.0505	g
+49861	Achillea millefolium	2515442	55	Leaf dry mass (single leaf)	Leaf dry mass	25.3	mg
+49968	Trifolium pratense	2546300	163	Leaf fresh mass	Leaf fresh mass	0.1198	g
+50016	Trifolium pratense	2546305	13	Leaf carbon (C) content per leaf dry mass	Leaf carbon content per dry mass	475.933	mg/g
+50094	Dactylis glomerata	2658140	3106	Plant height vegetative	Plant height vegetative	0.35	m
+116336	Trifolium pratense	2677540	50	Leaf nitrogen (N) content per leaf area	Leaf nitrogen content per area (Narea)	1.23288513020623	g m-2
+51454	Dactylis glomerata	2689073	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.24787	g/g
+51547	Achillea millefolium	2724987	163	Leaf fresh mass	Leaf fresh mass: in case of compound leaves leaf; petiole included	0.0963	g
+51601	Achillea millefolium	2724993	163	Leaf fresh mass	Leaf fresh mass: in case of compound leaves leaf; petiole included	0.0739	g
+51647	Achillea millefolium	2724998	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.217863608931804	g/g
+51682	Achillea millefolium	2725002	163	Leaf fresh mass	Leaf fresh mass: in case of compound leaves leaf; petiole included	0.1166	g
+51764	Achillea millefolium	2725011	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.276767676767677	g/g
+51809	Achillea millefolium	2725016	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.263196480938416	g/g
+51871	Achillea millefolium	2725023	163	Leaf fresh mass	Leaf fresh mass: in case of compound leaves leaf; petiole included	0.1248	g
+51889	Achillea millefolium	2725025	163	Leaf fresh mass	Leaf fresh mass: in case of compound leaves leaf; petiole included	0.0572	g
+51962	Achillea millefolium	2725033	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.304130162703379	g/g
+51989	Achillea millefolium	2725036	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.277844311377246	g/g
+52284	Achillea millefolium	2725069	55	Leaf dry mass (single leaf)	Leaf dry mass: in case of compound leaves leaf; petiole included	56.7	mg
+52302	Achillea millefolium	2725071	55	Leaf dry mass (single leaf)	Leaf dry mass: in case of compound leaves leaf; petiole included	31.2	mg
+52339	Achillea millefolium	2725075	163	Leaf fresh mass	Leaf fresh mass: in case of compound leaves leaf; petiole included	0.063	g
+52349	Achillea millefolium	2725076	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.185754189944134	g/g
+52529	Achillea millefolium	2725096	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.278439869989166	g/g
+52574	Achillea millefolium	2725101	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.327526132404181	g/g
+52590	Achillea millefolium	2725103	55	Leaf dry mass (single leaf)	Leaf dry mass: in case of compound leaves leaf; petiole included	15.3	mg
+52646	Achillea millefolium	2725109	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.262610088070456	g/g
+52644	Achillea millefolium	2725109	55	Leaf dry mass (single leaf)	Leaf dry mass: in case of compound leaves leaf; petiole included	32.8	mg
+52655	Achillea millefolium	2725110	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.298076923076923	g/g
+52726	Achillea millefolium	2725118	163	Leaf fresh mass	Leaf fresh mass: in case of compound leaves leaf; petiole included	0.1549	g
+52790	Achillea millefolium	2725125	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.234429065743945	g/g
+52879	Achillea millefolium	2725135	163	Leaf fresh mass	Leaf fresh mass: in case of compound leaves leaf; petiole included	0.247	g
+52888	Achillea millefolium	2725136	163	Leaf fresh mass	Leaf fresh mass: in case of compound leaves leaf; petiole included	0.1948	g
+52951	Achillea millefolium	2725143	163	Leaf fresh mass	Leaf fresh mass: in case of compound leaves leaf; petiole included	0.1563	g
+52968	Trifolium pratense	2727441	55	Leaf dry mass (single leaf)	Leaf dry mass: in case of compound leaves leaf; petiole included	19.2	mg
+53050	Trifolium pratense	2727450	163	Leaf fresh mass	Leaf fresh mass: in case of compound leaves leaf; petiole included	0.0822	g
+53123	Trifolium pratense	2727458	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.383177570093458	g/g
+53132	Trifolium pratense	2727459	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.484033613445378	g/g
+53212	Trifolium pratense	2727468	163	Leaf fresh mass	Leaf fresh mass: in case of compound leaves leaf; petiole included	0.1384	g
+53311	Trifolium pratense	2727479	163	Leaf fresh mass	Leaf fresh mass: in case of compound leaves leaf; petiole included	0.1641	g
+53337	Trifolium pratense	2727482	55	Leaf dry mass (single leaf)	Leaf dry mass: in case of compound leaves leaf; petiole included	19.7	mg
+53338	Trifolium pratense	2727482	163	Leaf fresh mass	Leaf fresh mass: in case of compound leaves leaf; petiole included	0.0608	g
+53364	Trifolium pratense	2727485	55	Leaf dry mass (single leaf)	Leaf dry mass: in case of compound leaves leaf; petiole included	26.8	mg
+53374	Trifolium pratense	2727486	163	Leaf fresh mass	Leaf fresh mass: in case of compound leaves leaf; petiole included	0.1996	g
+53411	Trifolium pratense	2727490	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.355182926829268	g/g
+53446	Trifolium pratense	2727494	163	Leaf fresh mass	Leaf fresh mass: in case of compound leaves leaf; petiole included	0.5093	g
+53455	Trifolium pratense	2727495	163	Leaf fresh mass	Leaf fresh mass: in case of compound leaves leaf; petiole included	0.07	g
+53528	Trifolium pratense	2727503	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.35609756097561	g/g
+53535	Trifolium pratense	2727504	55	Leaf dry mass (single leaf)	Leaf dry mass: in case of compound leaves leaf; petiole included	21.4	mg
+53560	Achillea millefolium	2730915	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	14.988	mg/g
+53576	Achillea millefolium	2730917	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	16.323	mg/g
+53852	Achillea millefolium	2949869	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Shoot dry mass	0.0191	g
+53912	Dactylis glomerata	2949911	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.275	g/g
+53934	Dactylis glomerata	2949924	42	Plant growth form	Plant growth form	grass	
+54125	Achillea millefolium	2950046	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Whole plant aboveground vegetative dry mass per individual plant	0.1087	g
+54152	Achillea millefolium	2950066	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Whole plant aboveground vegetative dry mass per individual plant	0.0147	g
+54218	Dactylis glomerata	2950109	42	Plant growth form	Plant growth form	grass	
+54312	Dactylis glomerata	2950164	3106	Plant height vegetative	Vegetative plant height elongated	0.047	m
+54354	Dactylis glomerata	2950198	3106	Plant height vegetative	Plant height vegetative	0.13	m
+54362	Achillea millefolium	2950208	42	Plant growth form	Plant growth form	herb	
+54366	Achillea millefolium	2950208	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	13.852119	mm2 mg-1
+54438	Dactylis glomerata	2950256	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Shoot dry mass	0.0099	g
+54497	Dactylis glomerata	2950288	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	25.692877	mm2 mg-1
+54650	Achillea millefolium	2950386	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	24.075322	mm2 mg-1
+54723	Dactylis glomerata	2950424	3106	Plant height vegetative	Plant height vegetative	0.17	m
+54751	Dactylis glomerata	2950439	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.2601626	g/g
+54763	Achillea millefolium	2950445	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Whole plant aboveground vegetative dry mass per individual plant	0.182	g
+54805	Dactylis glomerata	2950467	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Whole plant aboveground vegetative dry mass per individual plant	0.205	g
+54885	Achillea millefolium	2950532	42	Plant growth form	Plant growth form	herb	
+54949	Achillea millefolium	2950562	3106	Plant height vegetative	Plant height vegetative	0.04	m
+55047	Dactylis glomerata	2950618	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Whole plant aboveground vegetative dry mass per individual plant	0.28	g
+55194	Dactylis glomerata	2950704	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.528169	g/g
+55223	Dactylis glomerata	2950724	42	Plant growth form	Plant growth form	grass	
+55251	Achillea millefolium	2950736	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen concentration  (NIRS based)	18.13133333	mg/g
+55326	Achillea millefolium	2950796	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen concentration  (NIRS based)	23.465	mg/g
+55341	Dactylis glomerata	2950804	3106	Plant height vegetative	Plant height vegetative	0.131	m
+55431	Achillea millefolium	2950856	3106	Plant height vegetative	Plant height vegetative	0.024	m
+55465	Achillea millefolium	2950876	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.3	g/g
+55585	Dactylis glomerata	2950964	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	33.05166	mm2 mg-1
+55631	Achillea millefolium	2950996	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Shoot dry mass	1.0071	g
+55689	Dactylis glomerata	2951024	3106	Plant height vegetative	Plant height vegetative	0.115	m
+55809	Dactylis glomerata	2951104	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Shoot dry mass	0.4048	g
+55843	Dactylis glomerata	2951124	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen concentration  (NIRS based)	23.86233333	mg/g
+55838	Dactylis glomerata	2951124	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	15.18436	mm2 mg-1
+55868	Dactylis glomerata	2951144	42	Plant growth form	Plant growth form	grass	
+55934	Dactylis glomerata	2951184	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Shoot dry mass	0.2272	g
+55938	Dactylis glomerata	2951184	3106	Plant height vegetative	Plant height vegetative	0.114	m
+55955	Achillea millefolium	2951196	3106	Plant height vegetative	Plant height vegetative	0.026	m
+55963	Dactylis glomerata	2951204	42	Plant growth form	Plant growth form	grass	
+55985	Achillea millefolium	2951216	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	11.93799	mm2 mg-1
+56005	Dactylis glomerata	2951224	3106	Plant height vegetative	Plant height vegetative	0.083	m
+56040	Dactylis glomerata	2951244	3106	Plant height vegetative	Plant height vegetative	0.184	m
+56066	Dactylis glomerata	2951264	42	Plant growth form	Plant growth form	grass	
+56211	Dactylis glomerata	2951344	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen concentration  (NIRS based)	18.436	mg/g
+56380	Achillea millefolium	2951476	13	Leaf carbon (C) content per leaf dry mass	Leaf carbon concentration (NIRS based)	433.39	mg/g
+56376	Achillea millefolium	2951476	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	14.29497	mm2 mg-1
+56416	Dactylis glomerata	2951504	42	Plant growth form	Plant growth form	grass	
+56443	Dactylis glomerata	2951524	42	Plant growth form	Plant growth form	grass	
+56506	Dactylis glomerata	2951564	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen concentration  (NIRS based)	25.11733333	mg/g
+56499	Dactylis glomerata	2951564	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Shoot dry mass	0.1442	g
+56501	Dactylis glomerata	2951564	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	32.87516	mm2 mg-1
+56537	Achillea millefolium	2951596	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.2408163	g/g
+56576	Dactylis glomerata	2951624	42	Plant growth form	Plant growth form	grass	
+58192	Achillea millefolium	3033965	42	Plant growth form	Plant growth form	H	
+58888	Achillea millefolium	3033974	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	10.17421603	mm2 mg-1
+59193	Achillea millefolium	3033978	42	Plant growth form	Plant growth form	H	
+59349	Achillea millefolium	3033980	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.2010353753	g/g
+60255	Dactylis glomerata	3035189	42	Plant growth form	Plant growth form	H	
+60403	Dactylis glomerata	3035241	42	Plant growth form	Plant growth form	H	
+61157	Achillea millefolium	3043018	42	Plant growth form	Plant growth form	H	
+61764	Achillea millefolium	3049046	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	9.920034409	mm2 mg-1
+61919	Trifolium pratense	3049073	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	26.35364246	mm2 mg-1
+62074	Trifolium pratense	3049110	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	26.40502377	mm2 mg-1
+64587	Achillea millefolium	3050029	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	12.1	mm2 mg-1
+66541	Dactylis glomerata	3056833	42	Plant growth form	Plant growth form	H	
+66619	Dactylis glomerata	3056834	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.26168404789	g/g
+66923	Dactylis glomerata	3056838	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.28864432216	g/g
+67225	Dactylis glomerata	3056842	42	Plant growth form	Plant growth form	H	
+67985	Dactylis glomerata	3056852	42	Plant growth form	Plant growth form	H	
+69150	Trifolium pratense	3057555	42	Plant growth form	Plant growth form	H	
+69863	Trifolium pratense	3057564	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.18570254725	g/g
+70256	Trifolium pratense	3057569	42	Plant growth form	Plant growth form	H	
+70651	Trifolium pratense	3057574	42	Plant growth form	Plant growth form	H	
+71679	Achillea millefolium	3058273	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.33282674772	g/g
+72216	Dactylis glomerata	3061824	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	25.40305091	mm2 mg-1
+72679	Achillea millefolium	3064754	42	Plant growth form	Plant growth form	H	
+73890	Dactylis glomerata	3078527	42	Plant growth form	Plant growth form	H	
+74852	Achillea millefolium	3081968	42	Plant growth form	Plant growth form	H	
+74926	Achillea millefolium	3081969	42	Plant growth form	Plant growth form	H	
+75152	Achillea millefolium	3082309	42	Plant growth form	Plant growth form	H	
+75304	Achillea millefolium	3082311	42	Plant growth form	Plant growth form	H	
+76445	Dactylis glomerata	3084113	42	Plant growth form	Plant growth form	H	
+77129	Dactylis glomerata	3084122	42	Plant growth form	Plant growth form	H	
+77661	Dactylis glomerata	3084161	42	Plant growth form	Plant growth form	H	
+78117	Dactylis glomerata	3084167	42	Plant growth form	Plant growth form	H	
+78956	Dactylis glomerata	3084309	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	30.04	mm2 mg-1
+79340	Dactylis glomerata	3084501	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf water content per leaf water-saturated mass (LWC, 1-LDMC)	0.223	g/g
+80474	Dactylis glomerata	3089190	42	Plant growth form	Plant growth form	H	
+80552	Dactylis glomerata	3089191	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	25.818068182	mm2 mg-1
+81080	Trifolium pratense	3089278	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	19.441724138	mm2 mg-1
+81155	Trifolium pratense	3089279	42	Plant growth form	Plant growth form	H	
+81623	Trifolium pratense	3089285	42	Plant growth form	Plant growth form	H	
+81932	Dactylis glomerata	3089339	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	26.87147541	mm2 mg-1
+82383	Dactylis glomerata	3089345	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf water content per leaf water-saturated mass (LWC, 1-LDMC)	0.23280692817	g/g
+82458	Dactylis glomerata	3089346	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf water content per leaf water-saturated mass (LWC, 1-LDMC)	0.22911051213	g/g
+83459	Dactylis glomerata	3090695	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	16.494845361	mm2 mg-1
+85280	Achillea millefolium	3100128	42	Plant growth form	Plant growth form	H	
+85804	Trifolium pratense	3104875	42	Plant growth form	Plant growth form	H	
+85990	Trifolium pratense	3104878	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	26.683035714	mm2 mg-1
+91302	Achillea millefolium	3117794	42	Plant growth form	Plant growth form	H	
+91905	Achillea millefolium	3162913	42	Plant growth form	Plant growth form	H	
+91907	Achillea millefolium	3162913	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	7.796567299	mm2 mg-1
+93097	Dactylis glomerata	3276847	42	Plant growth form	Plant growth form original	Graminoid	
+93127	Dactylis glomerata	3276852	42	Plant growth form	Plant growth form original	Graminoid	
+93145	Dactylis glomerata	3276855	42	Plant growth form	Plant growth form original	Graminoid	
+93233	Trifolium pratense	3303472	42	Plant growth form	Plant growth form original	Forb/herb	
+93245	Trifolium pratense	3303474	42	Plant growth form	Plant growth form original	Forb/herb	
+93524	Achillea millefolium	3932418	42	Plant growth form	Plant growth form original	Forb/herb	
+93636	Dactylis glomerata	3954219	42	Plant growth form	Plant growth form original	Graminoid	
+93720	Dactylis glomerata	3970632	42	Plant growth form	Plant growth form original	Graminoid	
+93886	Achillea millefolium	3988720	42	Plant growth form	Plant growth form original	Forb/herb	
+94315	Achillea millefolium	4413370	42	Plant growth form	Plant growth form	herb	
+95162	Achillea millefolium	4420290	42	Plant growth form	Plant growth form	herb	
+95303	Dactylis glomerata	4427606	42	Plant growth form	Plant growth form	graminoid	
+95542	Dactylis glomerata	4427625	403	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	Plant dry mass (aboveground)	26.6356	g
+96739	Achillea millefolium	4430551	42	Plant growth form	Plant growth form	herb	
+97622	Achillea millefolium	4440869	42	Plant growth form	Plant growth form	herb	
+97690	Dactylis glomerata	4448289	42	Plant growth form	Plant growth form	graminoid	
+98462	Achillea millefolium	5502736	42	Plant growth form	Plant growth form	Free-standing	
+98833	Achillea millefolium	5826679	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.22	g/g
+98905	Achillea millefolium	5826685	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.14982217	g/g
+99619	Dactylis glomerata	5954784	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	13.328	mm2 mg-1
+99667	Achillea millefolium	5955620	159	Seedbank type	Seedbank soil	transient|unk	
+99700	Dactylis glomerata	5956054	159	Seedbank type	Seedbank soil	transient|veg	
+100010	Achillea millefolium	5995032	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.146	g/g
+100056	Achillea millefolium	5995038	3106	Plant height vegetative	Plant height (unspecified if vegetative or reproductive)	0.085	m
+100106	Achillea millefolium	5995044	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.267	g/g
+100233	Achillea millefolium	5995060	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	10.596	mm2 mg-1
+100409	Achillea millefolium	5995082	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	13.565	mm2 mg-1
+100458	Achillea millefolium	5995088	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.159	g/g
+100473	Dactylis glomerata	5995580	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	40.398	mm2 mg-1
+100586	Dactylis glomerata	5995594	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.146	g/g
+100634	Dactylis glomerata	5995600	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.183	g/g
+100633	Dactylis glomerata	5995600	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	31.678	mm2 mg-1
+100682	Dactylis glomerata	5995606	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.3	g/g
+100697	Dactylis glomerata	5995608	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	29.6	mm2 mg-1
+100785	Dactylis glomerata	5995619	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	27.043	mm2 mg-1
+100801	Dactylis glomerata	5995621	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	26.798	mm2 mg-1
+100842	Dactylis glomerata	5995626	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.241	g/g
+100928	Dactylis glomerata	5995637	3106	Plant height vegetative	Plant height (unspecified if vegetative or reproductive)	0.76	m
+101058	Dactylis glomerata	5995653	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.381	g/g
+101088	Dactylis glomerata	5995657	3106	Plant height vegetative	Plant height (unspecified if vegetative or reproductive)	0.335	m
+101153	Dactylis glomerata	5995665	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	18.4	mm2 mg-1
+101178	Dactylis glomerata	5995668	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.264	g/g
+101257	Dactylis glomerata	5995678	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	16.076	mm2 mg-1
+101274	Dactylis glomerata	5995680	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.486	g/g
+101272	Dactylis glomerata	5995680	3106	Plant height vegetative	Plant height (unspecified if vegetative or reproductive)	0.265	m
+101305	Dactylis glomerata	5995684	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	11.9	mm2 mg-1
+101328	Dactylis glomerata	5995687	3106	Plant height vegetative	Plant height (unspecified if vegetative or reproductive)	0.223	m
+101456	Dactylis glomerata	5995703	3106	Plant height vegetative	Plant height (unspecified if vegetative or reproductive)	0.165	m
+101490	Trifolium pratense	5996845	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.267	g/g
+101546	Trifolium pratense	5996852	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.37	g/g
+101560	Trifolium pratense	5996854	3106	Plant height vegetative	Plant height (unspecified if vegetative or reproductive)	0.059	m
+101576	Trifolium pratense	5996856	3106	Plant height vegetative	Plant height (unspecified if vegetative or reproductive)	0.228	m
+101720	Trifolium pratense	5996874	3106	Plant height vegetative	Plant height (unspecified if vegetative or reproductive)	0.095	m
+101745	Trifolium pratense	5996877	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	22.457	mm2 mg-1
+101752	Trifolium pratense	5996878	3106	Plant height vegetative	Plant height (unspecified if vegetative or reproductive)	0.115	m
+101794	Trifolium pratense	5996883	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.238	g/g
+101896	Trifolium pratense	5996896	3106	Plant height vegetative	Plant height (unspecified if vegetative or reproductive)	0.119	m
+102017	Trifolium pratense	5996911	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	21.801	mm2 mg-1
+102129	Trifolium pratense	6004589	42	Plant growth form	Plant growth form	herb	
+102385	Achillea millefolium	6005202	55	Leaf dry mass (single leaf)	Leaf dry mass: in case of compound leaves undefined if leaf or leaflet; undefined if petiole in- or excluded	133.3	mg
+102407	Achillea millefolium	6005204	55	Leaf dry mass (single leaf)	Leaf dry mass: in case of compound leaves undefined if leaf or leaflet; undefined if petiole in- or excluded	219.0	mg
+102426	Achillea millefolium	6005206	42	Plant growth form	Plant growth form	herb	
+102484	Trifolium pratense	6005404	55	Leaf dry mass (single leaf)	Leaf dry mass: in case of compound leaves undefined if leaf or leaflet; undefined if petiole in- or excluded	100.1	mg
+102591	Achillea millefolium	6005462	42	Plant growth form	Plant growth form	herb	
+102627	Trifolium pratense	6005826	55	Leaf dry mass (single leaf)	Leaf dry mass: in case of compound leaves undefined if leaf or leaflet; undefined if petiole in- or excluded	227.4	mg
+102954	Trifolium pratense	6007324	42	Plant growth form	Plant growth form	forb	
+102976	Trifolium pratense	6007366	42	Plant growth form	Plant growth form	forb	
+102987	Trifolium pratense	6007387	42	Plant growth form	Plant growth form	forb	
+103029	Trifolium pratense	6007669	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.206731316	g/g
+103107	Trifolium pratense	6007718	42	Plant growth form	Plant growth form	forb	
+103171	Trifolium pratense	6007847	42	Plant growth form	Plant growth form	forb	
+103169	Trifolium pratense	6007847	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.208593708	g/g
+103311	Dactylis glomerata	6057478	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	22.1751180455759	mm2 mg-1
+103362	Dactylis glomerata	6057693	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.279578700994734	g/g
+116449	Dactylis glomerata	6057696	50	Leaf nitrogen (N) content per leaf area	Leaf nitrogen content per area (Narea)	0.783742812100384	g m-2
+103413	Dactylis glomerata	6057697	13	Leaf carbon (C) content per leaf dry mass	Leaf carbon content per dry mass	501.8110263	mg/g
+103416	Dactylis glomerata	6057697	3106	Plant height vegetative	Plant height (unspecified if vegetative or reproductive)	1.288	m
+103438	Dactylis glomerata	6057699	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	27.45575472	mg/g
+116453	Dactylis glomerata	6057700	50	Leaf nitrogen (N) content per leaf area	Leaf nitrogen content per area (Narea)	0.967518988624181	g m-2
+103614	Trifolium pratense	6066231	3106	Plant height vegetative	Plant height (unspecified if vegetative or reproductive)	0.495	m
+103699	Trifolium pratense	6066243	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	21.10204082	mm2 mg-1
+103761	Dactylis glomerata	6073067	3106	Plant height vegetative	Plant height vegetative	0.42	m
+103769	Dactylis glomerata	6073245	3106	Plant height vegetative	Plant height vegetative	0.5	m
+104094	Dactylis glomerata	6080596	13	Leaf carbon (C) content per leaf dry mass	Leaf carbon content per dry mass	446.5	mg/g
+104178	Trifolium pratense	6081044	13	Leaf carbon (C) content per leaf dry mass	Leaf carbon content per dry mass	464.566820676462	mg/g
+104219	Trifolium pratense	6081047	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	33.48135451778	mg/g
+104304	Trifolium pratense	6081053	13	Leaf carbon (C) content per leaf dry mass	Leaf carbon content per dry mass	437.746432173178	mg/g
+104332	Trifolium pratense	6081055	13	Leaf carbon (C) content per leaf dry mass	Leaf carbon content per dry mass	461.418235231603	mg/g
+104862	Dactylis glomerata	6086754	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	24.37	mm2 mg-1
+105030	Dactylis glomerata	6086767	3106	Plant height vegetative	Plant height (unspecified if vegetative or reproductive)	0.92	m
+105031	Dactylis glomerata	6086767	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	23.77	mm2 mg-1
+105186	Dactylis glomerata	6086779	3106	Plant height vegetative	Plant height (unspecified if vegetative or reproductive)	0.855	m
+105277	Dactylis glomerata	6086786	3106	Plant height vegetative	Plant height (unspecified if vegetative or reproductive)	1.32	m
+105330	Dactylis glomerata	6086790	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	23.39	mm2 mg-1
+105499	Dactylis glomerata	6086803	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	28.81	mm2 mg-1
+105772	Dactylis glomerata	6086824	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	36.24	mm2 mg-1
+105891	Trifolium pratense	6089457	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	24.9018633540373	mm2 mg-1
+105906	Trifolium pratense	6089458	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	24.5849137931034	mm2 mg-1
+106025	Trifolium pratense	6089466	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	20.595951417004	mm2 mg-1
+106128	Trifolium pratense	6089473	3106	Plant height vegetative	Plant height (unspecified if vegetative or reproductive)	0.12	m
+106145	Trifolium pratense	6089474	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	18.4591304347826	mm2 mg-1
+106699	Trifolium pratense	6089511	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	18.4783783783784	mm2 mg-1
+107863	Trifolium pratense	6089590	3106	Plant height vegetative	Plant height (unspecified if vegetative or reproductive)	0.05	m
+108198	Trifolium pratense	6089613	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	27.8704545454545	mm2 mg-1
+108618	Achillea millefolium	6089991	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	12.2	mm2 mg-1
+108656	Achillea millefolium	6089994	3106	Plant height vegetative	Plant height (unspecified if vegetative or reproductive)	0.115	m
+108709	Achillea millefolium	6089998	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	22.2666666666667	mm2 mg-1
+108956	Achillea millefolium	6090017	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	16.7171717171717	mm2 mg-1
+109229	Achillea millefolium	6090038	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	9.76	mm2 mg-1
+109306	Achillea millefolium	6090044	3106	Plant height vegetative	Plant height (unspecified if vegetative or reproductive)	0.25	m
+109670	Achillea millefolium	6090072	3106	Plant height vegetative	Plant height (unspecified if vegetative or reproductive)	0.065	m
+109710	Achillea millefolium	6090075	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	12.0	mm2 mg-1
+110214	Dactylis glomerata	6210630	42	Plant growth form	Plant growth form	Herbaceous	
+110400	Achillea millefolium	6210644	42	Plant growth form	Plant growth form	Herbaceous	
+116464	Achillea millefolium	6210644	50	Leaf nitrogen (N) content per leaf area	Leaf nitrogen content per area (Narea)	2.00829638987876	g m-2
+110707	Dactylis glomerata	6214908	42	Plant growth form	Plant growth form	grass	
+110753	Dactylis glomerata	6214913	42	Plant growth form	Plant growth form	grass	
+110886	Dactylis glomerata	6214927	3106	Plant height vegetative	Plant height (unspecified if vegetative or reproductive)	0.51	m
+110947	Dactylis glomerata	6214934	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.15766	g/g
+116487	Dactylis glomerata	6214934	50	Leaf nitrogen (N) content per leaf area	Leaf nitrogen content per area (Narea)	0.726305369957931	g m-2
+110967	Dactylis glomerata	6214936	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.1978	g/g
+111052	Dactylis glomerata	6215125	13	Leaf carbon (C) content per leaf dry mass	Leaf carbon content per dry mass	444.58243164323	mg/g
+111054	Dactylis glomerata	6215125	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.264809218832498	g/g
+111055	Dactylis glomerata	6215125	3106	Plant height vegetative	Plant height vegetative	0.6775	m
+111080	Dactylis glomerata	6347745	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.2767765191	g/g
+111078	Dactylis glomerata	6347745	3106	Plant height vegetative	Plant height vegetative	0.9833333333	m
+111086	Dactylis glomerata	6348774	42	Plant growth form	Plant growth form	perennial grass	
+111127	Achillea millefolium	6358976	42	Plant growth form	Plant growth form	perennial forb	
+111177	Achillea millefolium	6358981	42	Plant growth form	Plant growth form	perennial forb	
+111364	Achillea millefolium	6359144	13	Leaf carbon (C) content per leaf dry mass	Leaf carbon content per dry mass	399.0	mg/g
+111397	Achillea millefolium	6359148	42	Plant growth form	Plant growth form	perennial forb	
+111592	Achillea millefolium	6359326	55	Leaf dry mass (single leaf)	Leaf dry mass: in case of compound leaves undefined if leaf or leaflet; undefined if petiole in- or excluded	5.8	mg
+111602	Achillea millefolium	6359327	55	Leaf dry mass (single leaf)	Leaf dry mass: in case of compound leaves undefined if leaf or leaflet; undefined if petiole in- or excluded	19.3	mg
+111654	Achillea millefolium	6359332	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	30.36585366	mm2 mg-1
+111674	Achillea millefolium	6359334	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	30.0	mm2 mg-1
+111725	Achillea millefolium	6359340	42	Plant growth form	Plant growth form	perennial forb	
+111745	Achillea millefolium	6359342	42	Plant growth form	Plant growth form	perennial forb	
+111782	Achillea millefolium	6359345	55	Leaf dry mass (single leaf)	Leaf dry mass: in case of compound leaves undefined if leaf or leaflet; undefined if petiole in- or excluded	7.3	mg
+111865	Achillea millefolium	6359354	42	Plant growth form	Plant growth form	perennial forb	
+112044	Achillea millefolium	6359371	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	25.49591599	mm2 mg-1
+112162	Achillea millefolium	6359383	55	Leaf dry mass (single leaf)	Leaf dry mass: in case of compound leaves undefined if leaf or leaflet; undefined if petiole in- or excluded	6.24	mg
+112165	Achillea millefolium	6359384	42	Plant growth form	Plant growth form	perennial forb	
+112315	Achillea millefolium	6359399	42	Plant growth form	Plant growth form	perennial forb	
+112365	Achillea millefolium	6359404	42	Plant growth form	Plant growth form	perennial forb	
+112755	Achillea millefolium	6359443	42	Plant growth form	Plant growth form	perennial forb	
+112964	Achillea millefolium	6359463	3117	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	SLA: undefined if petiole in- or excluded	17.30769231	mm2 mg-1
+113135	Achillea millefolium	6361570	55	Leaf dry mass (single leaf)	Leaf dry mass: in case of compound leaves undefined if leaf or leaflet; undefined if petiole in- or excluded	55.1	mg
+113136	Achillea millefolium	6361571	42	Plant growth form	Plant growth form	perennial forb	
+113575	Achillea millefolium	6361625	55	Leaf dry mass (single leaf)	Leaf dry mass: in case of compound leaves undefined if leaf or leaflet; undefined if petiole in- or excluded	81.5	mg
+113616	Achillea millefolium	6361631	42	Plant growth form	Plant growth form	perennial forb	
+113736	Achillea millefolium	6361646	42	Plant growth form	Plant growth form	perennial forb	
+113863	Achillea millefolium	6361661	55	Leaf dry mass (single leaf)	Leaf dry mass: in case of compound leaves undefined if leaf or leaflet; undefined if petiole in- or excluded	129.2	mg
+114039	Achillea millefolium	6361683	55	Leaf dry mass (single leaf)	Leaf dry mass: in case of compound leaves undefined if leaf or leaflet; undefined if petiole in- or excluded	98.3	mg
+114112	Achillea millefolium	6361693	42	Plant growth form	Plant growth form	perennial forb	
+114224	Achillea millefolium	6361707	42	Plant growth form	Plant growth form	perennial forb	
+116498	Achillea millefolium	6487685	50	Leaf nitrogen (N) content per leaf area	Leaf nitrogen content per area (Narea)	1.28257664650481	g m-2
+114337	Achillea millefolium	6487685	3106	Plant height vegetative	Plant height vegetative	0.405833333333333	m
+114371	Dactylis glomerata	6487772	47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	Leaf dry matter content per leaf water-saturated mass (LDMC)	0.280342867564364	g/g
+114469	Dactylis glomerata	6487781	3106	Plant height vegetative	Plant height vegetative	0.725333333333333	m
+114491	Dactylis glomerata	6487783	3106	Plant height vegetative	Plant height vegetative	0.500625	m
+114669	Dactylis glomerata	6487799	14	Leaf nitrogen (N) content per leaf dry mass	Leaf nitrogen content per dry mass (Nmass)	15.788700657346	mg/g
+116529	Dactylis glomerata	6487800	50	Leaf nitrogen (N) content per leaf area	Leaf nitrogen content per area (Narea)	0.83656061374275	g m-2
+116531	Dactylis glomerata	6487802	50	Leaf nitrogen (N) content per leaf area	Leaf nitrogen content per area (Narea)	0.901145146478813	g m-2

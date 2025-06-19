@@ -1,0 +1,24 @@
+# Ignore Python virtual environments
+.venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Do not commit the models (too heavy)
+guido_TRY_trait_analysis/models/
+
+#Do not commit images unless necessary
+guido_TRY_trait_analysis/img/
+
+invasive_plants_analysis/support_files/
+
+download_and_analyze_from_iNaturalist/
+
