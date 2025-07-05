@@ -1,5 +1,5 @@
-filename,url,license_code,observation_id,quality_grade,latitude,longitude
-lythrum_wilsonii_001.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/366921712/medium.jpeg,cc-by-nc,207439987,needs_id,-36.3064,140.77575
-lythrum_wilsonii_002.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/366921984/medium.jpeg,cc-by-nc,207439987,needs_id,-36.3064,140.77575
-lythrum_wilsonii_003.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/366923655/medium.jpeg,cc-by-nc,207439987,needs_id,-36.3064,140.77575
-lythrum_wilsonii_004.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/261305996/medium.jpeg,cc-by-nc,151446691,needs_id,-24.9590640689,140.3922405546
+filename,url,license_code,observation_id,quality_grade,latitude,longitude,label
+lythrum_wilsonii_001.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/366921712/medium.jpeg,cc-by-nc,207439987,needs_id,-36.3064,140.77575,native
+lythrum_wilsonii_002.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/366921984/medium.jpeg,cc-by-nc,207439987,needs_id,-36.3064,140.77575,native
+lythrum_wilsonii_003.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/366923655/medium.jpeg,cc-by-nc,207439987,needs_id,-36.3064,140.77575,native
+lythrum_wilsonii_004.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/261305996/medium.jpeg,cc-by-nc,151446691,needs_id,-24.9590640689,140.3922405546,native
