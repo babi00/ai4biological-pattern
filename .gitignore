@@ -24,4 +24,5 @@ download_and_analyze_from_iNaturalist/
 
 invasive_plants_analysis/barbara_files/
 
-!invasive_plants_analysis/support_files/taxas/taxas/filtered_metadata
+!invasive_plants_analysis/support_files/taxas/taxas/filtered_metadata/
+!invasive_plants_analysis/support_files/taxas/taxas/filtered_metadata/** 
