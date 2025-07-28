@@ -1,23 +1,23 @@
 filename,url,license_code,observation_id,quality_grade,latitude,longitude,label
-lythrum_vulneraria_001.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/213473097/medium.jpg,cc-by-nc,125853600,needs_id,18.8740538889,-98.2672209444,native
-lythrum_vulneraria_002.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/213473120/medium.jpg,cc-by-nc,125853600,needs_id,18.8740538889,-98.2672209444,native
-lythrum_vulneraria_003.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/213473124/medium.jpg,cc-by-nc,125853600,needs_id,18.8740538889,-98.2672209444,native
-lythrum_vulneraria_004.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/213473135/medium.jpg,cc-by-nc,125853600,needs_id,18.8740538889,-98.2672209444,native
-lythrum_vulneraria_005.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/213473145/medium.jpg,cc-by-nc,125853600,needs_id,18.8740538889,-98.2672209444,native
-lythrum_vulneraria_006.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/201738303/medium.jpg,cc-by-nc,119347600,research,21.027969102,-101.2262462907,native
-lythrum_vulneraria_007.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/148416631/medium.jpg,cc-by-nc,89849190,needs_id,18.8773101667,-98.2883301389,native
-lythrum_vulneraria_008.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/148416647/medium.jpg,cc-by-nc,89849190,needs_id,18.8773101667,-98.2883301389,native
-lythrum_vulneraria_009.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/148416674/medium.jpg,cc-by-nc,89849190,needs_id,18.8773101667,-98.2883301389,native
-lythrum_vulneraria_010.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/146819565/medium.jpg,cc-by-nc,88943441,research,18.8748694444,-98.2667193333,native
-lythrum_vulneraria_011.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/146819578/medium.jpg,cc-by-nc,88943441,research,18.8748694444,-98.2667193333,native
-lythrum_vulneraria_012.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/146819595/medium.jpg,cc-by-nc,88943441,research,18.8748694444,-98.2667193333,native
-lythrum_vulneraria_013.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/135806249/medium.jpeg,cc-by-nc-nd,82729889,research,19.7398861308,-100.3657923639,native
-lythrum_vulneraria_014.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/135806308/medium.jpeg,cc-by-nc-nd,82729889,research,19.7398861308,-100.3657923639,native
-lythrum_vulneraria_015.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/135806345/medium.jpeg,cc-by-nc-nd,82729889,research,19.7398861308,-100.3657923639,native
-lythrum_vulneraria_016.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/79700849/medium.jpeg,cc-by-sa,50190837,research,19.6647624969,-101.2105865478,native
-lythrum_vulneraria_017.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/79700882/medium.jpeg,cc-by-sa,50190837,research,19.6647624969,-101.2105865478,native
-lythrum_vulneraria_018.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/79700910/medium.jpeg,cc-by-sa,50190837,research,19.6647624969,-101.2105865478,native
-lythrum_vulneraria_019.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/79700934/medium.jpeg,cc-by-sa,50190837,research,19.6647624969,-101.2105865478,native
-lythrum_vulneraria_020.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/79700968/medium.jpeg,cc-by-sa,50190837,research,19.6647624969,-101.2105865478,native
-lythrum_vulneraria_021.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/79701005/medium.jpeg,cc-by-sa,50190837,research,19.6647624969,-101.2105865478,native
-lythrum_vulneraria_022.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/9631151/medium.jpeg,cc-by-nc-nd,7413641,research,21.0374270328,-101.2668571473,native
+lythrum_vulneraria_001.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/213473097/medium.jpg,cc-by-nc,125853600,needs_id,18.8740538889,-98.2672209444,Non Invasive
+lythrum_vulneraria_002.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/213473120/medium.jpg,cc-by-nc,125853600,needs_id,18.8740538889,-98.2672209444,Non Invasive
+lythrum_vulneraria_003.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/213473124/medium.jpg,cc-by-nc,125853600,needs_id,18.8740538889,-98.2672209444,Non Invasive
+lythrum_vulneraria_004.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/213473135/medium.jpg,cc-by-nc,125853600,needs_id,18.8740538889,-98.2672209444,Non Invasive
+lythrum_vulneraria_005.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/213473145/medium.jpg,cc-by-nc,125853600,needs_id,18.8740538889,-98.2672209444,Non Invasive
+lythrum_vulneraria_006.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/201738303/medium.jpg,cc-by-nc,119347600,research,21.027969102,-101.2262462907,Non Invasive
+lythrum_vulneraria_007.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/148416631/medium.jpg,cc-by-nc,89849190,needs_id,18.8773101667,-98.2883301389,Non Invasive
+lythrum_vulneraria_008.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/148416647/medium.jpg,cc-by-nc,89849190,needs_id,18.8773101667,-98.2883301389,Non Invasive
+lythrum_vulneraria_009.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/148416674/medium.jpg,cc-by-nc,89849190,needs_id,18.8773101667,-98.2883301389,Non Invasive
+lythrum_vulneraria_010.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/146819565/medium.jpg,cc-by-nc,88943441,research,18.8748694444,-98.2667193333,Non Invasive
+lythrum_vulneraria_011.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/146819578/medium.jpg,cc-by-nc,88943441,research,18.8748694444,-98.2667193333,Non Invasive
+lythrum_vulneraria_012.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/146819595/medium.jpg,cc-by-nc,88943441,research,18.8748694444,-98.2667193333,Non Invasive
+lythrum_vulneraria_013.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/135806249/medium.jpeg,cc-by-nc-nd,82729889,research,19.7398861308,-100.3657923639,Non Invasive
+lythrum_vulneraria_014.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/135806308/medium.jpeg,cc-by-nc-nd,82729889,research,19.7398861308,-100.3657923639,Non Invasive
+lythrum_vulneraria_015.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/135806345/medium.jpeg,cc-by-nc-nd,82729889,research,19.7398861308,-100.3657923639,Non Invasive
+lythrum_vulneraria_016.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/79700849/medium.jpeg,cc-by-sa,50190837,research,19.6647624969,-101.2105865478,Non Invasive
+lythrum_vulneraria_017.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/79700882/medium.jpeg,cc-by-sa,50190837,research,19.6647624969,-101.2105865478,Non Invasive
+lythrum_vulneraria_018.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/79700910/medium.jpeg,cc-by-sa,50190837,research,19.6647624969,-101.2105865478,Non Invasive
+lythrum_vulneraria_019.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/79700934/medium.jpeg,cc-by-sa,50190837,research,19.6647624969,-101.2105865478,Non Invasive
+lythrum_vulneraria_020.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/79700968/medium.jpeg,cc-by-sa,50190837,research,19.6647624969,-101.2105865478,Non Invasive
+lythrum_vulneraria_021.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/79701005/medium.jpeg,cc-by-sa,50190837,research,19.6647624969,-101.2105865478,Non Invasive
+lythrum_vulneraria_022.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/9631151/medium.jpeg,cc-by-nc-nd,7413641,research,21.0374270328,-101.2668571473,Non Invasive

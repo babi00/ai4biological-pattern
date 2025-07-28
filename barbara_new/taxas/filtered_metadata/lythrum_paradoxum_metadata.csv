@@ -1,9 +1,9 @@
 filename,url,license_code,observation_id,quality_grade,latitude,longitude,label
-lythrum_paradoxum_001.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/477160272/medium.jpeg,cc-by-sa,265631225,needs_id,-29.6921229722,147.4468139722,native
-lythrum_paradoxum_002.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/477160236/medium.jpeg,cc-by-sa,265631225,needs_id,-29.6921229722,147.4468139722,native
-lythrum_paradoxum_003.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/477160217/medium.jpeg,cc-by-sa,265631225,needs_id,-29.6921229722,147.4468139722,native
-lythrum_paradoxum_004.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/477160230/medium.jpeg,cc-by-sa,265631225,needs_id,-29.6921229722,147.4468139722,native
-lythrum_paradoxum_005.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/477160233/medium.jpg,cc-by-sa,265631225,needs_id,-29.6921229722,147.4468139722,native
-lythrum_paradoxum_006.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/477180481/medium.jpeg,cc-by-sa,265631225,needs_id,-29.6921229722,147.4468139722,native
-lythrum_paradoxum_007.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/255900570/medium.jpg,cc-by-nc,148583477,research,-23.4727451997,134.9924150997,native
-lythrum_paradoxum_008.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/255900573/medium.jpg,cc-by-nc,148583477,research,-23.4727451997,134.9924150997,native
+lythrum_paradoxum_001.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/477160272/medium.jpeg,cc-by-sa,265631225,needs_id,-29.6921229722,147.4468139722,Non Invasive
+lythrum_paradoxum_002.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/477160236/medium.jpeg,cc-by-sa,265631225,needs_id,-29.6921229722,147.4468139722,Non Invasive
+lythrum_paradoxum_003.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/477160217/medium.jpeg,cc-by-sa,265631225,needs_id,-29.6921229722,147.4468139722,Non Invasive
+lythrum_paradoxum_004.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/477160230/medium.jpeg,cc-by-sa,265631225,needs_id,-29.6921229722,147.4468139722,Non Invasive
+lythrum_paradoxum_005.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/477160233/medium.jpg,cc-by-sa,265631225,needs_id,-29.6921229722,147.4468139722,Non Invasive
+lythrum_paradoxum_006.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/477180481/medium.jpeg,cc-by-sa,265631225,needs_id,-29.6921229722,147.4468139722,Non Invasive
+lythrum_paradoxum_007.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/255900570/medium.jpg,cc-by-nc,148583477,research,-23.4727451997,134.9924150997,Non Invasive
+lythrum_paradoxum_008.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/255900573/medium.jpg,cc-by-nc,148583477,research,-23.4727451997,134.9924150997,Non Invasive

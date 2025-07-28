@@ -1,75 +1,82 @@
 filename,url,license_code,observation_id,quality_grade,latitude,longitude,label
-lythrum_volgense_001.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/413004881/medium.jpeg,cc-by-nc,232465739,research,49.7157683,31.5673466,native
-lythrum_volgense_002.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/413004906/medium.jpeg,cc-by-nc,232465739,research,49.7157683,31.5673466,native
-lythrum_volgense_003.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/408560721/medium.jpeg,cc-by,230119737,research,53.29418,60.0384028333,native
-lythrum_volgense_004.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/395701460/medium.jpeg,cc0,223330924,research,51.5374129968,43.1135742366,native
-lythrum_volgense_005.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/395701504/medium.jpeg,cc0,223330924,research,51.5374129968,43.1135742366,native
-lythrum_volgense_006.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/313372148/medium.jpeg,cc-by-nc,179949223,research,49.7154652735,31.5756401047,native
-lythrum_volgense_007.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/313372200/medium.jpeg,cc-by-nc,179949223,research,49.7154652735,31.5756401047,native
-lythrum_volgense_008.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/297344688/medium.jpg,cc-by,171358532,research,51.094126,40.331152,native
-lythrum_volgense_009.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/297325822/medium.jpg,cc-by,171348440,research,51.1010053997,40.3322591,native
-lythrum_volgense_010.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/297325678/medium.jpg,cc-by,171348440,research,51.1010053997,40.3322591,native
-lythrum_volgense_011.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/297325690/medium.jpg,cc-by,171348440,research,51.1010053997,40.3322591,native
-lythrum_volgense_012.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/297325692/medium.jpg,cc-by,171348440,research,51.1010053997,40.3322591,native
-lythrum_volgense_013.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/297325758/medium.jpg,cc-by,171348440,research,51.1010053997,40.3322591,native
-lythrum_volgense_014.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/297325793/medium.jpg,cc-by,171348440,research,51.1010053997,40.3322591,native
-lythrum_volgense_015.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/297325909/medium.jpg,cc-by,171348440,research,51.1010053997,40.3322591,native
-lythrum_volgense_016.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/297325949/medium.jpg,cc-by,171348440,research,51.1010053997,40.3322591,native
-lythrum_volgense_017.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/297325964/medium.jpg,cc-by,171348440,research,51.1010053997,40.3322591,native
-lythrum_volgense_018.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/297325972/medium.jpg,cc-by,171348440,research,51.1010053997,40.3322591,native
-lythrum_volgense_019.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/297326160/medium.jpg,cc-by,171348440,research,51.1010053997,40.3322591,native
-lythrum_volgense_020.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295542360/medium.jpg,cc-by-nc,170399359,research,51.063935,40.1341859722,native
-lythrum_volgense_021.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295542320/medium.jpg,cc-by-nc,170399359,research,51.063935,40.1341859722,native
-lythrum_volgense_022.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295542288/medium.jpg,cc-by-nc,170399359,research,51.063935,40.1341859722,native
-lythrum_volgense_023.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295542257/medium.jpg,cc-by-nc,170399359,research,51.063935,40.1341859722,native
-lythrum_volgense_024.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295542219/medium.jpg,cc-by-nc,170399359,research,51.063935,40.1341859722,native
-lythrum_volgense_025.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295542403/medium.jpg,cc-by-nc,170399359,research,51.063935,40.1341859722,native
-lythrum_volgense_026.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295541830/medium.jpg,cc-by-nc,170399356,research,51.063231,40.135984,native
-lythrum_volgense_027.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295541871/medium.jpg,cc-by-nc,170399356,research,51.063231,40.135984,native
-lythrum_volgense_028.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295541904/medium.jpg,cc-by-nc,170399356,research,51.063231,40.135984,native
-lythrum_volgense_029.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295541938/medium.jpg,cc-by-nc,170399356,research,51.063231,40.135984,native
-lythrum_volgense_030.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295541997/medium.jpg,cc-by-nc,170399356,research,51.063231,40.135984,native
-lythrum_volgense_031.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295539521/medium.jpg,cc-by-nc,170398222,research,51.065553,40.138238,native
-lythrum_volgense_032.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295539543/medium.jpg,cc-by-nc,170398222,research,51.065553,40.138238,native
-lythrum_volgense_033.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295539566/medium.jpg,cc-by-nc,170398222,research,51.065553,40.138238,native
-lythrum_volgense_034.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295539580/medium.jpg,cc-by-nc,170398222,research,51.065553,40.138238,native
-lythrum_volgense_035.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295527648/medium.jpg,cc-by-nc,170394888,research,51.1165149722,40.362383,native
-lythrum_volgense_036.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295527600/medium.jpg,cc-by-nc,170394888,research,51.1165149722,40.362383,native
-lythrum_volgense_037.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295527578/medium.jpg,cc-by-nc,170394888,research,51.1165149722,40.362383,native
-lythrum_volgense_038.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295527665/medium.jpg,cc-by-nc,170394888,research,51.1165149722,40.362383,native
-lythrum_volgense_039.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295527725/medium.jpg,cc-by-nc,170394659,research,51.1165519722,40.3623899722,native
-lythrum_volgense_040.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295527766/medium.jpg,cc-by-nc,170394659,research,51.1165519722,40.3623899722,native
-lythrum_volgense_041.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295527805/medium.jpg,cc-by-nc,170394659,research,51.1165519722,40.3623899722,native
-lythrum_volgense_042.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295527832/medium.jpg,cc-by-nc,170394659,research,51.1165519722,40.3623899722,native
-lythrum_volgense_043.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295527874/medium.jpg,cc-by-nc,170394659,research,51.1165519722,40.3623899722,native
-lythrum_volgense_044.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295528025/medium.jpg,cc-by-nc,170394659,research,51.1165519722,40.3623899722,native
-lythrum_volgense_045.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295528077/medium.jpg,cc-by-nc,170394659,research,51.1165519722,40.3623899722,native
-lythrum_volgense_046.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295528126/medium.jpg,cc-by-nc,170394659,research,51.1165519722,40.3623899722,native
-lythrum_volgense_047.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295528169/medium.jpg,cc-by-nc,170394659,research,51.1165519722,40.3623899722,native
-lythrum_volgense_048.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295528196/medium.jpg,cc-by-nc,170394659,research,51.1165519722,40.3623899722,native
-lythrum_volgense_049.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295528221/medium.jpg,cc-by-nc,170394659,research,51.1165519722,40.3623899722,native
-lythrum_volgense_050.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295366912/medium.jpg,cc-by,170309336,research,51.0655652,40.1382442,native
-lythrum_volgense_051.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295366922/medium.jpg,cc-by,170309336,research,51.0655652,40.1382442,native
-lythrum_volgense_052.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295365176/medium.jpg,cc-by,170309309,research,51.0717428997,40.1384041,native
-lythrum_volgense_053.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295365193/medium.jpg,cc-by,170309309,research,51.0717428997,40.1384041,native
-lythrum_volgense_054.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295365195/medium.jpg,cc-by,170309309,research,51.0717428997,40.1384041,native
-lythrum_volgense_055.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/292989641/medium.jpg,cc-by-nc,169025960,needs_id,50.3298731614,30.6114788459,native
-lythrum_volgense_056.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/292989516/medium.jpg,cc-by-nc,169025960,needs_id,50.3298731614,30.6114788459,native
-lythrum_volgense_057.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/292989492/medium.jpg,cc-by-nc,169025960,needs_id,50.3298731614,30.6114788459,native
-lythrum_volgense_058.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/292989652/medium.jpg,cc-by-nc,169025960,needs_id,50.3298731614,30.6114788459,native
-lythrum_volgense_059.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/292989533/medium.jpg,cc-by-nc,169025960,needs_id,50.3298731614,30.6114788459,native
-lythrum_volgense_060.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/292989555/medium.jpg,cc-by-nc,169025960,needs_id,50.3298731614,30.6114788459,native
-lythrum_volgense_061.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/292989469/medium.jpg,cc-by-nc,169025960,needs_id,50.3298731614,30.6114788459,native
-lythrum_volgense_062.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/233106172/medium.jpg,cc-by-nc,136570610,research,47.2076515404,39.4022875211,native
-lythrum_volgense_063.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/233106161/medium.jpg,cc-by-nc,136570610,research,47.2076515404,39.4022875211,native
-lythrum_volgense_064.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/233106147/medium.jpg,cc-by-nc,136570610,research,47.2076515404,39.4022875211,native
-lythrum_volgense_065.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/233106183/medium.jpg,cc-by-nc,136570610,research,47.2076515404,39.4022875211,native
-lythrum_volgense_066.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/233104962/medium.jpg,cc-by-nc,136569983,research,47.8688355296,42.5977654204,native
-lythrum_volgense_067.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/233104973/medium.jpg,cc-by-nc,136569983,research,47.8688355296,42.5977654204,native
-lythrum_volgense_068.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/226398680/medium.jpg,cc-by-nc,132957031,research,57.1426583333,65.47995,native
-lythrum_volgense_069.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/226398646/medium.jpg,cc-by-nc,132957031,research,57.1426583333,65.47995,native
-lythrum_volgense_070.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/226398592/medium.jpg,cc-by-nc,132957031,research,57.1426583333,65.47995,native
-lythrum_volgense_071.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/226398563/medium.jpg,cc-by-nc,132957031,research,57.1426583333,65.47995,native
-lythrum_volgense_072.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/226398615/medium.jpg,cc-by-nc,132957031,research,57.1426583333,65.47995,native
-lythrum_volgense_073.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/226398699/medium.jpg,cc-by-nc,132957031,research,57.1426583333,65.47995,native
-lythrum_volgense_074.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/239820663/medium.jpg,cc-by-nc,132957031,research,57.1426583333,65.47995,native
+lythrum_volgense_001.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/413004881/medium.jpeg,cc-by-nc,232465739,research,49.7157683,31.5673466,Non Invasive
+lythrum_volgense_002.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/413004906/medium.jpeg,cc-by-nc,232465739,research,49.7157683,31.5673466,Non Invasive
+lythrum_volgense_003.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/408560721/medium.jpeg,cc-by,230119737,research,53.29418,60.0384028333,Non Invasive
+lythrum_volgense_004.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/395701460/medium.jpeg,cc0,223330924,research,51.5374129968,43.1135742366,Non Invasive
+lythrum_volgense_005.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/395701504/medium.jpeg,cc0,223330924,research,51.5374129968,43.1135742366,Non Invasive
+lythrum_volgense_006.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/313372148/medium.jpeg,cc-by-nc,179949223,research,49.7154652735,31.5756401047,Non Invasive
+lythrum_volgense_007.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/313372200/medium.jpeg,cc-by-nc,179949223,research,49.7154652735,31.5756401047,Non Invasive
+lythrum_volgense_008.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/297344688/medium.jpg,cc-by,171358532,research,51.094126,40.331152,Non Invasive
+lythrum_volgense_009.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/297325822/medium.jpg,cc-by,171348440,research,51.1010053997,40.3322591,Non Invasive
+lythrum_volgense_010.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/297325678/medium.jpg,cc-by,171348440,research,51.1010053997,40.3322591,Non Invasive
+lythrum_volgense_011.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/297325690/medium.jpg,cc-by,171348440,research,51.1010053997,40.3322591,Non Invasive
+lythrum_volgense_012.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/297325692/medium.jpg,cc-by,171348440,research,51.1010053997,40.3322591,Non Invasive
+lythrum_volgense_013.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/297325758/medium.jpg,cc-by,171348440,research,51.1010053997,40.3322591,Non Invasive
+lythrum_volgense_014.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/297325793/medium.jpg,cc-by,171348440,research,51.1010053997,40.3322591,Non Invasive
+lythrum_volgense_015.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/297325909/medium.jpg,cc-by,171348440,research,51.1010053997,40.3322591,Non Invasive
+lythrum_volgense_016.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/297325949/medium.jpg,cc-by,171348440,research,51.1010053997,40.3322591,Non Invasive
+lythrum_volgense_017.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/297325964/medium.jpg,cc-by,171348440,research,51.1010053997,40.3322591,Non Invasive
+lythrum_volgense_018.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/297325972/medium.jpg,cc-by,171348440,research,51.1010053997,40.3322591,Non Invasive
+lythrum_volgense_019.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/297326160/medium.jpg,cc-by,171348440,research,51.1010053997,40.3322591,Non Invasive
+lythrum_volgense_020.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295542360/medium.jpg,cc-by-nc,170399359,research,51.063935,40.1341859722,Non Invasive
+lythrum_volgense_021.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295542320/medium.jpg,cc-by-nc,170399359,research,51.063935,40.1341859722,Non Invasive
+lythrum_volgense_022.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295542288/medium.jpg,cc-by-nc,170399359,research,51.063935,40.1341859722,Non Invasive
+lythrum_volgense_023.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295542257/medium.jpg,cc-by-nc,170399359,research,51.063935,40.1341859722,Non Invasive
+lythrum_volgense_024.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295542219/medium.jpg,cc-by-nc,170399359,research,51.063935,40.1341859722,Non Invasive
+lythrum_volgense_025.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295542403/medium.jpg,cc-by-nc,170399359,research,51.063935,40.1341859722,Non Invasive
+lythrum_volgense_026.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295541830/medium.jpg,cc-by-nc,170399356,research,51.063231,40.135984,Non Invasive
+lythrum_volgense_027.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295541871/medium.jpg,cc-by-nc,170399356,research,51.063231,40.135984,Non Invasive
+lythrum_volgense_028.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295541904/medium.jpg,cc-by-nc,170399356,research,51.063231,40.135984,Non Invasive
+lythrum_volgense_029.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295541938/medium.jpg,cc-by-nc,170399356,research,51.063231,40.135984,Non Invasive
+lythrum_volgense_030.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295541997/medium.jpg,cc-by-nc,170399356,research,51.063231,40.135984,Non Invasive
+lythrum_volgense_031.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295539521/medium.jpg,cc-by-nc,170398222,research,51.065553,40.138238,Non Invasive
+lythrum_volgense_032.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295539543/medium.jpg,cc-by-nc,170398222,research,51.065553,40.138238,Non Invasive
+lythrum_volgense_033.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295539566/medium.jpg,cc-by-nc,170398222,research,51.065553,40.138238,Non Invasive
+lythrum_volgense_034.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295539580/medium.jpg,cc-by-nc,170398222,research,51.065553,40.138238,Non Invasive
+lythrum_volgense_035.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295527648/medium.jpg,cc-by-nc,170394888,research,51.1165149722,40.362383,Non Invasive
+lythrum_volgense_036.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295527600/medium.jpg,cc-by-nc,170394888,research,51.1165149722,40.362383,Non Invasive
+lythrum_volgense_037.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295527578/medium.jpg,cc-by-nc,170394888,research,51.1165149722,40.362383,Non Invasive
+lythrum_volgense_038.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295527665/medium.jpg,cc-by-nc,170394888,research,51.1165149722,40.362383,Non Invasive
+lythrum_volgense_039.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295527725/medium.jpg,cc-by-nc,170394659,research,51.1165519722,40.3623899722,Non Invasive
+lythrum_volgense_040.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295527766/medium.jpg,cc-by-nc,170394659,research,51.1165519722,40.3623899722,Non Invasive
+lythrum_volgense_041.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295527805/medium.jpg,cc-by-nc,170394659,research,51.1165519722,40.3623899722,Non Invasive
+lythrum_volgense_042.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295527832/medium.jpg,cc-by-nc,170394659,research,51.1165519722,40.3623899722,Non Invasive
+lythrum_volgense_043.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295527874/medium.jpg,cc-by-nc,170394659,research,51.1165519722,40.3623899722,Non Invasive
+lythrum_volgense_044.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295528025/medium.jpg,cc-by-nc,170394659,research,51.1165519722,40.3623899722,Non Invasive
+lythrum_volgense_045.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295528077/medium.jpg,cc-by-nc,170394659,research,51.1165519722,40.3623899722,Non Invasive
+lythrum_volgense_046.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295528126/medium.jpg,cc-by-nc,170394659,research,51.1165519722,40.3623899722,Non Invasive
+lythrum_volgense_047.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295528169/medium.jpg,cc-by-nc,170394659,research,51.1165519722,40.3623899722,Non Invasive
+lythrum_volgense_048.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295528196/medium.jpg,cc-by-nc,170394659,research,51.1165519722,40.3623899722,Non Invasive
+lythrum_volgense_049.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295528221/medium.jpg,cc-by-nc,170394659,research,51.1165519722,40.3623899722,Non Invasive
+lythrum_volgense_050.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295366912/medium.jpg,cc-by,170309336,research,51.0655652,40.1382442,Non Invasive
+lythrum_volgense_051.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295366922/medium.jpg,cc-by,170309336,research,51.0655652,40.1382442,Non Invasive
+lythrum_volgense_052.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295365176/medium.jpg,cc-by,170309309,research,51.0717428997,40.1384041,Non Invasive
+lythrum_volgense_053.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295365193/medium.jpg,cc-by,170309309,research,51.0717428997,40.1384041,Non Invasive
+lythrum_volgense_054.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/295365195/medium.jpg,cc-by,170309309,research,51.0717428997,40.1384041,Non Invasive
+lythrum_volgense_055.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/292989641/medium.jpg,cc-by-nc,169025960,needs_id,50.3298731614,30.6114788459,Non Invasive
+lythrum_volgense_056.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/292989516/medium.jpg,cc-by-nc,169025960,needs_id,50.3298731614,30.6114788459,Non Invasive
+lythrum_volgense_057.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/292989492/medium.jpg,cc-by-nc,169025960,needs_id,50.3298731614,30.6114788459,Non Invasive
+lythrum_volgense_058.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/292989652/medium.jpg,cc-by-nc,169025960,needs_id,50.3298731614,30.6114788459,Non Invasive
+lythrum_volgense_059.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/292989533/medium.jpg,cc-by-nc,169025960,needs_id,50.3298731614,30.6114788459,Non Invasive
+lythrum_volgense_060.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/292989555/medium.jpg,cc-by-nc,169025960,needs_id,50.3298731614,30.6114788459,Non Invasive
+lythrum_volgense_061.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/292989469/medium.jpg,cc-by-nc,169025960,needs_id,50.3298731614,30.6114788459,Non Invasive
+lythrum_volgense_062.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/233106172/medium.jpg,cc-by-nc,136570610,research,47.2076515404,39.4022875211,Non Invasive
+lythrum_volgense_063.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/233106161/medium.jpg,cc-by-nc,136570610,research,47.2076515404,39.4022875211,Non Invasive
+lythrum_volgense_064.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/233106147/medium.jpg,cc-by-nc,136570610,research,47.2076515404,39.4022875211,Non Invasive
+lythrum_volgense_065.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/233106183/medium.jpg,cc-by-nc,136570610,research,47.2076515404,39.4022875211,Non Invasive
+lythrum_volgense_066.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/233104962/medium.jpg,cc-by-nc,136569983,research,47.8688355296,42.5977654204,Non Invasive
+lythrum_volgense_067.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/233104973/medium.jpg,cc-by-nc,136569983,research,47.8688355296,42.5977654204,Non Invasive
+lythrum_volgense_068.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/226398680/medium.jpg,cc-by-nc,132957031,research,57.1426583333,65.47995,Non Invasive
+lythrum_volgense_069.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/226398646/medium.jpg,cc-by-nc,132957031,research,57.1426583333,65.47995,Non Invasive
+lythrum_volgense_070.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/226398592/medium.jpg,cc-by-nc,132957031,research,57.1426583333,65.47995,Non Invasive
+lythrum_volgense_071.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/226398563/medium.jpg,cc-by-nc,132957031,research,57.1426583333,65.47995,Non Invasive
+lythrum_volgense_072.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/226398615/medium.jpg,cc-by-nc,132957031,research,57.1426583333,65.47995,Non Invasive
+lythrum_volgense_073.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/226398699/medium.jpg,cc-by-nc,132957031,research,57.1426583333,65.47995,Non Invasive
+lythrum_volgense_074.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/239820663/medium.jpg,cc-by-nc,132957031,research,57.1426583333,65.47995,Non Invasive
+lythrum_volgense_075.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/173272438/medium.jpg,cc-by-nc,103518067,research,52.0297997044,29.3253112272,Non Invasive
+lythrum_volgense_076.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/173272448/medium.jpg,cc-by-nc,103518067,research,52.0297997044,29.3253112272,Non Invasive
+lythrum_volgense_077.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/168938047/medium.jpg,cc-by-nc,101177744,research,52.0595551044,29.2688163447,Non Invasive
+lythrum_volgense_078.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/168938049/medium.jpg,cc-by-nc,101177744,research,52.0595551044,29.2688163447,Non Invasive
+lythrum_volgense_079.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/168938055/medium.jpg,cc-by-nc,101177744,research,52.0595551044,29.2688163447,Non Invasive
+lythrum_volgense_080.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/168938078/medium.jpg,cc-by-nc,101177744,research,52.0595551044,29.2688163447,Non Invasive
+lythrum_volgense_081.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/168938080/medium.jpg,cc-by-nc,101177744,research,52.0595551044,29.2688163447,Non Invasive

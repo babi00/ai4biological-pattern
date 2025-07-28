@@ -1,225 +1,227 @@
 filename,url,license_code,observation_id,quality_grade,latitude,longitude,label
-lythrum_maritimum_001.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/521086018/medium.jpg,cc-by-nc,289704050,needs_id,20.7684952649,-156.2367444333,native
-lythrum_maritimum_002.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/521086005/medium.jpg,cc-by-nc,289704050,needs_id,20.7684952649,-156.2367444333,native
-lythrum_maritimum_003.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/521086027/medium.jpg,cc-by-nc,289704050,needs_id,20.7684952649,-156.2367444333,native
-lythrum_maritimum_004.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/519455274/medium.jpg,cc-by-nc,288833125,needs_id,19.7059250325,-155.9007425773,native
-lythrum_maritimum_005.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/496159887/medium.jpeg,cc-by-nc,276262462,research,20.7676458,-156.2362436997,native
-lythrum_maritimum_008.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/489084614/medium.jpg,cc-by-nc,271875484,research,20.76805,-156.2361,native
-lythrum_maritimum_009.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/489084601/medium.jpg,cc-by-nc,271875484,research,20.76805,-156.2361,native
-lythrum_maritimum_010.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/489084604/medium.jpg,cc-by-nc,271875484,research,20.76805,-156.2361,native
-lythrum_maritimum_011.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/487721657/medium.jpeg,cc-by-nc,271154706,needs_id,20.7680166667,-156.2362805556,native
-lythrum_maritimum_012.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/486623057/medium.jpeg,cc-by-nc,270576411,needs_id,22.1509254997,-159.6417701,native
-lythrum_maritimum_013.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/484354524/medium.jpeg,cc0,269392026,needs_id,19.4130555556,-155.2407083333,native
-lythrum_maritimum_014.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/484354517/medium.jpeg,cc0,269392026,needs_id,19.4130555556,-155.2407083333,native
-lythrum_maritimum_015.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/484354523/medium.jpeg,cc0,269392026,needs_id,19.4130555556,-155.2407083333,native
-lythrum_maritimum_016.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/479103314/medium.jpg,cc-by,266646349,needs_id,20.8154656741,-156.5496811769,native
-lythrum_maritimum_017.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/478779086/medium.jpeg,cc-by-nc,266471193,research,20.7682774877,-156.2374637978,native
-lythrum_maritimum_018.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/477332200/medium.jpeg,cc-by-nd,265719421,needs_id,20.7675117086,-156.2362798353,native
-lythrum_maritimum_019.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/477332138/medium.jpeg,cc-by-nd,265719421,needs_id,20.7675117086,-156.2362798353,native
-lythrum_maritimum_020.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/476304164/medium.jpg,cc-by-nd,265194383,research,20.7677982434,-156.2362971518,native
-lythrum_maritimum_021.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/471125082/medium.jpg,cc-by-nc,262232141,research,22.151,-159.6398,native
-lythrum_maritimum_022.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/471125092/medium.jpg,cc-by-nc,262232141,research,22.151,-159.6398,native
-lythrum_maritimum_023.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/470543559/medium.jpg,cc-by-nc,261865913,research,20.7671887289,-156.236142983,native
-lythrum_maritimum_024.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/461462051/medium.jpeg,cc0,257262694,research,20.7525916667,-156.2129305556,native
-lythrum_maritimum_025.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/461462070/medium.jpeg,cc0,257262694,research,20.7525916667,-156.2129305556,native
-lythrum_maritimum_026.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/461367866/medium.jpeg,cc-by,257215866,research,20.7538583333,-156.2140472222,native
-lythrum_maritimum_027.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/461367876/medium.jpeg,cc-by,257215866,research,20.7538583333,-156.2140472222,native
-lythrum_maritimum_028.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/460140550/medium.jpeg,cc-by-sa,256613935,needs_id,4.8146519722,-73.6309739722,native
-lythrum_maritimum_029.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/460140610/medium.jpeg,cc-by-sa,256613935,needs_id,4.8146519722,-73.6309739722,native
-lythrum_maritimum_030.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/459544098/medium.jpg,cc-by,256324016,research,21.3274710224,-157.7692787406,native
-lythrum_maritimum_031.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/459544105/medium.jpg,cc-by,256324016,research,21.3274710224,-157.7692787406,native
-lythrum_maritimum_032.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/459544106/medium.jpg,cc-by,256324016,research,21.3274710224,-157.7692787406,native
-lythrum_maritimum_033.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/459544108/medium.jpg,cc-by,256324016,research,21.3274710224,-157.7692787406,native
-lythrum_maritimum_034.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/459324310/medium.jpeg,cc0,256216633,research,19.8332919624,-155.5958713603,native
-lythrum_maritimum_035.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/459324304/medium.jpeg,cc0,256216633,research,19.8332919624,-155.5958713603,native
-lythrum_maritimum_036.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/459324311/medium.jpeg,cc0,256216633,research,19.8332919624,-155.5958713603,native
-lythrum_maritimum_037.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/458962279/medium.jpg,cc-by-nc,256038683,research,20.94712,-156.5464333333,native
-lythrum_maritimum_038.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/458962268/medium.jpg,cc-by-nc,256038683,research,20.94712,-156.5464333333,native
-lythrum_maritimum_039.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/458753550/medium.jpeg,cc-by-nc,255936192,research,21.3303716821,-157.7666591071,native
-lythrum_maritimum_040.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/458588739/medium.jpeg,cc-by,255846899,research,20.7680027778,-156.2362444444,native
-lythrum_maritimum_041.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/455936799/medium.jpeg,cc-by,254534291,research,-31.1604515,-64.36676063,native
-lythrum_maritimum_042.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/453101433/medium.jpg,cc-by-nc,253086590,research,19.8161999,-155.6231062997,native
-lythrum_maritimum_043.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/452273735/medium.jpeg,cc-by-nc,252631542,research,22.1050735455,-159.6615082867,native
-lythrum_maritimum_044.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/452133006/medium.jpeg,cc-by-nc,252557848,research,20.7678136645,-156.236188467,native
-lythrum_maritimum_045.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/452133071/medium.jpeg,cc-by-nc,252557848,research,20.7678136645,-156.236188467,native
-lythrum_maritimum_046.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/452119687/medium.jpeg,cc-by-nc,252551612,research,21.526039388,-157.8498694069,native
-lythrum_maritimum_047.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/452119709/medium.jpeg,cc-by-nc,252551612,research,21.526039388,-157.8498694069,native
-lythrum_maritimum_048.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/451652192/medium.jpeg,cc-by-nc,252315931,research,19.816495,-155.6219333333,native
-lythrum_maritimum_049.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/444843885/medium.jpeg,cc-by-nc,248908523,research,20.7707852279,-156.2393978125,native
-lythrum_maritimum_050.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/444843957/medium.jpeg,cc-by-nc,248908523,research,20.7707852279,-156.2393978125,native
-lythrum_maritimum_051.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/441802448/medium.jpeg,cc-by-nc,247374614,needs_id,21.5177386459,-157.9111584,native
-lythrum_maritimum_052.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/441802467/medium.jpeg,cc-by-nc,247374614,needs_id,21.5177386459,-157.9111584,native
-lythrum_maritimum_053.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/438326255/medium.jpeg,cc-by-nc,245655362,needs_id,20.6994148722,-156.2427813937,native
-lythrum_maritimum_054.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/438326249/medium.jpeg,cc-by-nc,245655362,needs_id,20.6994148722,-156.2427813937,native
-lythrum_maritimum_055.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/435692905/medium.jpeg,cc-by-nc,244260711,research,22.1495394568,-159.6374280425,native
-lythrum_maritimum_056.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/435692917/medium.jpeg,cc-by-nc,244260711,research,22.1495394568,-159.6374280425,native
-lythrum_maritimum_057.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/422553260/medium.jpeg,cc-by-nc,237430407,research,20.7679243718,-156.2363054123,native
-lythrum_maritimum_058.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/422553270/medium.jpeg,cc-by-nc,237430407,research,20.7679243718,-156.2363054123,native
-lythrum_maritimum_059.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/422356491/medium.jpeg,cc-by-nc,237330915,research,20.7588683281,-156.28003936,native
-lythrum_maritimum_060.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/422356515/medium.jpeg,cc-by-nc,237330915,research,20.7588683281,-156.28003936,native
-lythrum_maritimum_061.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/417772987/medium.jpeg,cc-by-nc,234954067,research,20.7678866667,-156.236145,native
-lythrum_maritimum_062.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/414771408/medium.jpeg,cc-by-nc,233389900,research,20.7133868004,-156.3001309799,native
-lythrum_maritimum_063.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/414771478/medium.jpeg,cc-by-nc,233389900,research,20.7133868004,-156.3001309799,native
-lythrum_maritimum_064.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/414496143/medium.jpeg,cc0,233242757,research,20.71315078,-156.3002077,native
-lythrum_maritimum_065.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/413384842/medium.jpeg,cc0,232665092,research,20.94707526,-156.5463572,native
-lythrum_maritimum_066.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/406779426/medium.jpeg,cc-by,229178613,needs_id,19.7782659578,-155.6382220116,native
-lythrum_maritimum_067.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/397171964/medium.jpg,cc-by-nc,224114378,needs_id,20.7677833333,-156.2361616667,native
-lythrum_maritimum_068.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/397171929/medium.jpg,cc-by-nc,224114378,needs_id,20.7677833333,-156.2361616667,native
-lythrum_maritimum_069.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/397171990/medium.jpg,cc-by-nc,224114378,needs_id,20.7677833333,-156.2361616667,native
-lythrum_maritimum_070.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/397085016/medium.jpg,cc-by-nc,224070022,research,20.7682283333,-156.236205,native
-lythrum_maritimum_071.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/397085054/medium.jpg,cc-by-nc,224070022,research,20.7682283333,-156.236205,native
-lythrum_maritimum_072.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/397085166/medium.jpg,cc-by-nc,224070022,research,20.7682283333,-156.236205,native
-lythrum_maritimum_073.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/382307550/medium.jpg,cc-by-nc,216185963,research,21.4486822227,-157.9267212075,native
-lythrum_maritimum_074.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/382307585/medium.jpg,cc-by-nc,216185963,research,21.4486822227,-157.9267212075,native
-lythrum_maritimum_075.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/369881383/medium.jpg,cc-by-nc,209025050,needs_id,20.743495,-156.21405,native
-lythrum_maritimum_076.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/362191319/medium.jpg,cc-by-nc,204870206,research,20.7677653967,-156.2361778122,native
-lythrum_maritimum_077.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/362191328/medium.jpg,cc-by-nc,204870206,research,20.7677653967,-156.2361778122,native
-lythrum_maritimum_078.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/359892730/medium.jpeg,cc-by-nc,203678418,research,21.1382531435,-156.961058516,native
-lythrum_maritimum_079.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/351841379/medium.jpg,cc-by-nc,199505696,needs_id,20.706732743,-156.3064163737,native
-lythrum_maritimum_080.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/351841370/medium.jpg,cc-by-nc,199505696,needs_id,20.706732743,-156.3064163737,native
-lythrum_maritimum_081.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/351841357/medium.jpg,cc-by-nc,199505696,needs_id,20.706732743,-156.3064163737,native
-lythrum_maritimum_082.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/347211939/medium.jpeg,cc-by-nc,197176469,research,20.7557683333,-156.21507,native
-lythrum_maritimum_083.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/347211899/medium.jpeg,cc-by-nc,197176463,research,20.7556133333,-156.2150466667,native
-lythrum_maritimum_084.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/347211092/medium.jpeg,cc-by-nc,197176021,research,20.755725,-156.2156733333,native
-lythrum_maritimum_085.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/347091687/medium.jpeg,cc-by-nc,197116281,research,20.7173516667,-156.140565,native
-lythrum_maritimum_086.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/345855560/medium.jpg,cc-by-nc,196442786,research,20.749402,-156.212264,native
-lythrum_maritimum_087.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/345855559/medium.jpg,cc-by-nc,196442786,research,20.749402,-156.212264,native
-lythrum_maritimum_088.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/345855558/medium.jpg,cc-by-nc,196442786,research,20.749402,-156.212264,native
-lythrum_maritimum_089.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/345855566/medium.jpg,cc-by-nc,196442786,research,20.749402,-156.212264,native
-lythrum_maritimum_090.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/345050151/medium.jpg,cc-by-nc,196050282,needs_id,20.7538495204,-156.2258999521,native
-lythrum_maritimum_091.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/345050150/medium.jpg,cc-by-nc,196050282,needs_id,20.7538495204,-156.2258999521,native
-lythrum_maritimum_092.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/339513363/medium.jpg,cc0,193281689,research,20.7558624954,-156.2181401679,native
-lythrum_maritimum_093.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/339513366/medium.jpg,cc0,193281689,research,20.7558624954,-156.2181401679,native
-lythrum_maritimum_094.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/339513255/medium.jpg,cc0,193281673,research,20.7464433888,-156.2138486334,native
-lythrum_maritimum_095.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/339513249/medium.jpg,cc0,193281673,research,20.7464433888,-156.2138486334,native
-lythrum_maritimum_096.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/339513231/medium.jpg,cc0,193281671,research,20.7453099818,-156.2134351471,native
-lythrum_maritimum_097.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/339513234/medium.jpg,cc0,193281671,research,20.7453099818,-156.2134351471,native
-lythrum_maritimum_098.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/334695953/medium.jpg,cc-by-nc,190867078,research,-35.1530083333,-57.3991033333,native
-lythrum_maritimum_099.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/334695994/medium.jpg,cc-by-nc,190867078,research,-35.1530083333,-57.3991033333,native
-lythrum_maritimum_100.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/334435042/medium.jpeg,cc-by-nc,190735914,research,-35.1527869722,-57.399236,native
-lythrum_maritimum_101.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/324645149/medium.jpg,cc-by-nc,185843602,research,20.736245,-156.2036583333,native
-lythrum_maritimum_102.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/324645199/medium.jpg,cc-by-nc,185843602,research,20.736245,-156.2036583333,native
-lythrum_maritimum_103.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/324426110/medium.jpg,cc-by,185735341,research,20.7556192175,-156.2157769639,native
-lythrum_maritimum_104.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/324426131/medium.jpg,cc-by,185735341,research,20.7556192175,-156.2157769639,native
-lythrum_maritimum_105.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/318017703/medium.jpg,cc-by-nc,182400376,research,19.244575,-155.8775783333,native
-lythrum_maritimum_106.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/318017749/medium.jpg,cc-by-nc,182400376,research,19.244575,-155.8775783333,native
-lythrum_maritimum_107.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/315704868/medium.jpg,cc-by-nc,181166657,needs_id,19.4428116667,-155.3215333333,native
-lythrum_maritimum_108.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/307873702/medium.jpeg,cc-by-nc,177068173,research,19.8301807198,-155.5954293623,native
-lythrum_maritimum_109.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/307873797/medium.jpeg,cc-by-nc,177068173,research,19.8301807198,-155.5954293623,native
-lythrum_maritimum_110.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/305704436/medium.jpeg,cc-by-nc,175880608,research,22.148309474,-159.6356387506,native
-lythrum_maritimum_111.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/305704495/medium.jpeg,cc-by-nc,175880608,research,22.148309474,-159.6356387506,native
-lythrum_maritimum_112.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/304913285/medium.jpg,cc-by-nc,175448110,research,20.8112283333,-156.2362666667,native
-lythrum_maritimum_113.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/304913302/medium.jpg,cc-by-nc,175448110,research,20.8112283333,-156.2362666667,native
-lythrum_maritimum_114.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/304913326/medium.jpg,cc-by-nc,175448110,research,20.8112283333,-156.2362666667,native
-lythrum_maritimum_115.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/304900520/medium.jpg,cc-by-nc,175441349,research,19.8331535222,-155.595587063,native
-lythrum_maritimum_116.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/296548608/medium.jpg,cc-by-nc,170933560,research,19.8338383333,-155.5960216667,native
-lythrum_maritimum_117.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/293835808/medium.jpeg,cc-by,169484010,needs_id,20.8031377778,-156.864125,native
-lythrum_maritimum_118.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/293835874/medium.jpeg,cc-by,169484010,needs_id,20.8031377778,-156.864125,native
-lythrum_maritimum_119.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/290312398/medium.jpg,cc-by-nc,167577183,research,20.7686284048,-156.2373252677,native
-lythrum_maritimum_120.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/290312503/medium.jpg,cc-by-nc,167577183,research,20.7686284048,-156.2373252677,native
-lythrum_maritimum_121.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/266138078/medium.jpg,cc-by-nc,154048381,research,20.7674227811,-156.2362635463,native
-lythrum_maritimum_122.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/266138135/medium.jpg,cc-by-nc,154048381,research,20.7674227811,-156.2362635463,native
-lythrum_maritimum_123.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/266140386/medium.jpg,cc-by-nc,154048381,research,20.7674227811,-156.2362635463,native
-lythrum_maritimum_124.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/260420088/medium.jpg,cc-by-nc,150972683,needs_id,20.7674656017,-156.2358808426,native
-lythrum_maritimum_125.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/260420111/medium.jpg,cc-by-nc,150972683,needs_id,20.7674656017,-156.2358808426,native
-lythrum_maritimum_126.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/260420155/medium.jpg,cc-by-nc,150972683,needs_id,20.7674656017,-156.2358808426,native
-lythrum_maritimum_127.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/260420178/medium.jpg,cc-by-nc,150972683,needs_id,20.7674656017,-156.2358808426,native
-lythrum_maritimum_128.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/257888311/medium.jpg,cc-by-nc,149643921,needs_id,20.7154816019,-156.1391997069,native
-lythrum_maritimum_129.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/257696954/medium.jpg,cc-by-nc,149537939,needs_id,20.76733,-156.2362866667,native
-lythrum_maritimum_130.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/257697019/medium.jpg,cc-by-nc,149537939,needs_id,20.76733,-156.2362866667,native
-lythrum_maritimum_131.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/257697289/medium.jpg,cc-by-nc,149537939,needs_id,20.76733,-156.2362866667,native
-lythrum_maritimum_132.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/257697196/medium.jpg,cc-by-nc,149537939,needs_id,20.76733,-156.2362866667,native
-lythrum_maritimum_133.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/257697245/medium.jpg,cc-by-nc,149537939,needs_id,20.76733,-156.2362866667,native
-lythrum_maritimum_134.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/253270645/medium.jpg,cc-by-nc,147212337,research,20.7711111,-156.24,native
-lythrum_maritimum_135.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/248723916/medium.jpg,cc-by-nc-sa,144861303,needs_id,20.767507595,-156.235908495,native
-lythrum_maritimum_136.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/245504348/medium.jpg,cc-by-nc,143164942,research,20.7523333333,-156.2128616667,native
-lythrum_maritimum_137.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/245504358/medium.jpg,cc-by-nc,143164942,research,20.7523333333,-156.2128616667,native
-lythrum_maritimum_138.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/245504365/medium.jpg,cc-by-nc,143164942,research,20.7523333333,-156.2128616667,native
-lythrum_maritimum_139.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/245504376/medium.jpg,cc-by-nc,143164942,research,20.7523333333,-156.2128616667,native
-lythrum_maritimum_140.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/241497544/medium.jpg,cc-by,141026638,needs_id,20.7557241667,-156.2167888889,native
-lythrum_maritimum_141.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/239462901/medium.jpg,cc-by-nc,139944177,needs_id,20.7780781944,-156.2945934537,native
-lythrum_maritimum_142.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/237406971/medium.jpeg,cc-by-nc,138877128,research,19.8328126713,-155.5959792967,native
-lythrum_maritimum_143.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/237406953/medium.jpeg,cc-by-nc,138877128,research,19.8328126713,-155.5959792967,native
-lythrum_maritimum_144.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/236216986/medium.jpeg,cc-by-nc,138227290,research,21.3411303588,-157.8089450818,native
-lythrum_maritimum_145.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/236216976/medium.jpeg,cc-by-nc,138227290,research,21.3411303588,-157.8089450818,native
-lythrum_maritimum_146.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/234080648/medium.jpeg,cc-by-nc,137098474,casual,20.796831,-156.327109,native
-lythrum_maritimum_147.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/232073756/medium.jpg,cc-by-nc,136013260,research,20.7680041599,-156.2363957302,native
-lythrum_maritimum_148.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/232073765/medium.jpg,cc-by-nc,136013260,research,20.7680041599,-156.2363957302,native
-lythrum_maritimum_149.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/231615064/medium.jpg,cc-by-nc,135767037,research,20.9470484413,-156.5464183451,native
-lythrum_maritimum_150.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/231615045/medium.jpg,cc-by-nc,135767037,research,20.9470484413,-156.5464183451,native
-lythrum_maritimum_151.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/231615054/medium.jpg,cc-by-nc,135767037,research,20.9470484413,-156.5464183451,native
-lythrum_maritimum_152.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/231587291/medium.jpg,cc-by-nc,135752774,research,20.7180707529,-156.1481203047,native
-lythrum_maritimum_153.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/231587320/medium.jpg,cc-by-nc,135752774,research,20.7180707529,-156.1481203047,native
-lythrum_maritimum_154.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/224685955/medium.jpg,cc-by-nc,131979074,research,20.7439383333,-156.2128616667,native
-lythrum_maritimum_155.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/224685922/medium.jpg,cc-by-nc,131979074,research,20.7439383333,-156.2128616667,native
-lythrum_maritimum_156.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/224685942/medium.jpg,cc-by-nc,131979074,research,20.7439383333,-156.2128616667,native
-lythrum_maritimum_157.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/224451437/medium.jpg,cc-by,131854892,research,19.4575461067,-155.343141888,native
-lythrum_maritimum_158.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/224158950/medium.jpg,cc-by,131697951,research,19.4728379722,-155.2619719722,native
-lythrum_maritimum_159.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/224124345/medium.jpg,cc-by,131681043,research,19.4408681216,-155.3091204438,native
-lythrum_maritimum_160.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/223806578/medium.jpg,cc-by-nc,131507090,research,20.75563,-156.2152416667,native
-lythrum_maritimum_161.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/215831715/medium.jpg,cc-by-nc,127152071,research,20.9465276543,-156.5485891142,native
-lythrum_maritimum_162.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/215831615/medium.jpg,cc-by-nc,127152071,research,20.9465276543,-156.5485891142,native
-lythrum_maritimum_163.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/215832055/medium.jpg,cc-by-nc,127152071,research,20.9465276543,-156.5485891142,native
-lythrum_maritimum_164.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/209116080/medium.jpg,cc-by-nc,123447658,needs_id,20.7680706,-156.237401,native
-lythrum_maritimum_165.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/209116105/medium.jpeg,cc-by-nc,123447658,needs_id,20.7680706,-156.237401,native
-lythrum_maritimum_166.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/209114908/medium.jpg,cc-by-nc,123447645,needs_id,20.7680706,-156.237401,native
-lythrum_maritimum_167.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/209114936/medium.jpeg,cc-by-nc,123447645,needs_id,20.7680706,-156.237401,native
-lythrum_maritimum_168.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/209114964/medium.jpeg,cc-by-nc,123447645,needs_id,20.7680706,-156.237401,native
-lythrum_maritimum_169.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/207789718/medium.jpg,cc-by,122709105,research,20.7673938526,-156.2357782481,native
-lythrum_maritimum_170.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/203937522/medium.jpg,cc-by,120568238,research,20.768596458,-156.2364440291,native
-lythrum_maritimum_171.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/203789531/medium.jpeg,cc-by-nc,120485550,needs_id,21.345323,-157.8043319722,native
-lythrum_maritimum_172.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/203789543/medium.jpeg,cc-by-nc,120485550,needs_id,21.345323,-157.8043319722,native
-lythrum_maritimum_173.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/203446853/medium.jpg,cc-by-nc,120296051,needs_id,20.7274838321,-156.2862538096,native
-lythrum_maritimum_174.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/203446874/medium.jpg,cc-by-nc,120296051,needs_id,20.7274838321,-156.2862538096,native
-lythrum_maritimum_175.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/182329720/medium.jpeg,cc-by-nc,108368695,research,20.7682774877,-156.2374637978,native
-lythrum_maritimum_176.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/180891779/medium.jpeg,cc-by,107540337,research,20.7673971489,-156.2363964157,native
-lythrum_maritimum_177.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/172302278/medium.jpg,cc-by-nc,103004311,needs_id,21.5123368783,-158.1899229815,native
-lythrum_maritimum_178.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/172302265/medium.jpg,cc-by-nc,103004311,needs_id,21.5123368783,-158.1899229815,native
-lythrum_maritimum_179.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/171738575/medium.jpg,cc-by,102702007,research,20.7556833333,-156.2149,native
-lythrum_maritimum_180.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/171738580/medium.jpg,cc-by,102702007,research,20.7556833333,-156.2149,native
-lythrum_maritimum_181.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/171738587/medium.jpg,cc-by,102702007,research,20.7556833333,-156.2149,native
-lythrum_maritimum_182.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/171386709/medium.jpg,cc-by-nc,102515206,needs_id,21.4565693009,-158.0571251692,native
-lythrum_maritimum_183.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/171386700/medium.jpg,cc-by-nc,102515206,needs_id,21.4565693009,-158.0571251692,native
-lythrum_maritimum_184.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/171386714/medium.jpg,cc-by-nc,102515206,needs_id,21.4565693009,-158.0571251692,native
-lythrum_maritimum_185.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/165205353/medium.jpg,cc-by-nc,99141020,needs_id,22.1359333333,-159.6699233333,native
-lythrum_maritimum_186.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/165205355/medium.jpg,cc-by-nc,99141020,needs_id,22.1359333333,-159.6699233333,native
-lythrum_maritimum_187.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/164848140/medium.jpg,cc-by-nc,98944001,needs_id,22.10525,-159.66147,native
-lythrum_maritimum_188.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/164848150/medium.jpg,cc-by-nc,98944001,needs_id,22.10525,-159.66147,native
-lythrum_maritimum_189.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/164848132/medium.jpg,cc-by-nc,98944001,needs_id,22.10525,-159.66147,native
-lythrum_maritimum_190.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/161814520/medium.jpeg,cc-by-nc-sa,97310296,needs_id,20.76802136,-156.23601924,native
-lythrum_maritimum_191.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/147714692/medium.jpg,cc-by-nc,89447730,research,20.7678666667,-156.2362216667,native
-lythrum_maritimum_192.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/144211077/medium.jpeg,cc-by-nc,87468499,research,20.7681687907,-156.240612479,native
-lythrum_maritimum_193.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/119445514/medium.jpg,cc-by-nc,73180289,research,21.34715,-157.7991783333,native
-lythrum_maritimum_194.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/119445521/medium.jpg,cc-by-nc,73180289,research,21.34715,-157.7991783333,native
-lythrum_maritimum_195.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/119445526/medium.jpg,cc-by-nc,73180289,research,21.34715,-157.7991783333,native
-lythrum_maritimum_196.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/119445531/medium.jpg,cc-by-nc,73180289,research,21.34715,-157.7991783333,native
-lythrum_maritimum_197.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/112967891/medium.jpeg,cc-by-nc,69600581,research,-33.0836163889,-71.659795,native
-lythrum_maritimum_198.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/112967994/medium.jpeg,cc-by-nc,69600581,research,-33.0836163889,-71.659795,native
-lythrum_maritimum_199.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/112091990/medium.jpeg,cc-by-nc,69122117,research,-33.08354,-71.6598180556,native
-lythrum_maritimum_200.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/112092087/medium.jpeg,cc-by-nc,69122117,research,-33.08354,-71.6598180556,native
-lythrum_maritimum_201.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/112092093/medium.jpeg,cc-by-nc,69122117,research,-33.08354,-71.6598180556,native
-lythrum_maritimum_202.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/112092094/medium.jpeg,cc-by-nc,69122117,research,-33.08354,-71.6598180556,native
-lythrum_maritimum_203.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/112092099/medium.jpeg,cc-by-nc,69122117,research,-33.08354,-71.6598180556,native
-lythrum_maritimum_204.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/112092101/medium.jpeg,cc-by-nc,69122117,research,-33.08354,-71.6598180556,native
-lythrum_maritimum_205.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/91503774/medium.jpg,cc-by-nc,57287559,research,20.8320299775,-156.2750588781,native
-lythrum_maritimum_206.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/91501942/medium.jpg,cc-by-nc,57287559,research,20.8320299775,-156.2750588781,native
-lythrum_maritimum_207.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/57676296/medium.jpeg,cc-by-nc,36491649,research,20.7681169444,-156.2363030556,native
-lythrum_maritimum_208.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/57676288/medium.jpeg,cc-by-nc,36491649,research,20.7681169444,-156.2363030556,native
-lythrum_maritimum_209.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/57676305/medium.jpeg,cc-by-nc,36491649,research,20.7681169444,-156.2363030556,native
-lythrum_maritimum_210.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/55290013/medium.jpeg,cc0,35077207,research,19.6652298098,-155.3881989419,native
-lythrum_maritimum_211.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/55290022/medium.jpeg,cc0,35077207,research,19.6652298098,-155.3881989419,native
-lythrum_maritimum_212.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/55223265/medium.jpeg,cc-by-nc-nd,35037690,research,20.7681576,-156.2379935,native
-lythrum_maritimum_213.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/55223260/medium.jpeg,cc-by-nc-nd,35037690,research,20.7681576,-156.2379935,native
-lythrum_maritimum_214.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/55223279/medium.jpeg,cc-by-nc-nd,35037690,research,20.7681576,-156.2379935,native
-lythrum_maritimum_215.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/42387048/medium.jpg,cc0,27254885,research,19.4636000754,-155.3304111656,native
-lythrum_maritimum_216.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/42387054/medium.jpg,cc0,27254885,research,19.4636000754,-155.3304111656,native
-lythrum_maritimum_217.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/42387073/medium.jpg,cc0,27254885,research,19.4636000754,-155.3304111656,native
-lythrum_maritimum_218.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/41404714/medium.jpg,cc0,26656403,needs_id,19.9720530696,-155.5870494297,native
-lythrum_maritimum_219.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/41404805/medium.jpg,cc0,26656403,needs_id,19.9720530696,-155.5870494297,native
-lythrum_maritimum_220.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/41404775/medium.jpg,cc0,26656403,needs_id,19.9720530696,-155.5870494297,native
-lythrum_maritimum_221.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/34317603/medium.jpeg,cc-by-nc,22165882,research,-32.2355351021,-71.5242982283,native
-lythrum_maritimum_222.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/31328266/medium.jpg,cc-by-nc,20293376,needs_id,19.4118533596,-155.2416283679,native
-lythrum_maritimum_223.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/30083995/medium.jpeg,cc-by-nc,19546256,needs_id,20.7298550408,-156.2073367506,native
-lythrum_maritimum_224.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/30084011/medium.jpeg,cc-by-nc,19546256,needs_id,20.7298550408,-156.2073367506,native
-lythrum_maritimum_225.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/25812153/medium.jpeg,cc-by-nc,17057905,research,19.8330166667,-155.5955566667,native
-lythrum_maritimum_226.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/25812160/medium.jpeg,cc-by-nc,17057905,research,19.8330166667,-155.5955566667,native
+lythrum_maritimum_001.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/521086018/medium.jpg,cc-by-nc,289704050,needs_id,20.7684952649,-156.2367444333,Non Invasive
+lythrum_maritimum_002.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/521086005/medium.jpg,cc-by-nc,289704050,needs_id,20.7684952649,-156.2367444333,Non Invasive
+lythrum_maritimum_003.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/521086027/medium.jpg,cc-by-nc,289704050,needs_id,20.7684952649,-156.2367444333,Non Invasive
+lythrum_maritimum_004.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/519455274/medium.jpg,cc-by-nc,288833125,needs_id,19.7059250325,-155.9007425773,Non Invasive
+lythrum_maritimum_005.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/496159887/medium.jpeg,cc-by-nc,276262462,research,20.7676458,-156.2362436997,Non Invasive
+lythrum_maritimum_006.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/494910334/medium.jpeg,cc-by-nc,275410384,needs_id,19.946753482,-98.2726631686,Non Invasive
+lythrum_maritimum_007.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/493093799/medium.jpeg,cc-by-nc,274261965,needs_id,19.9523547734,-98.2753131911,Non Invasive
+lythrum_maritimum_008.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/489084614/medium.jpg,cc-by-nc,271875484,research,20.76805,-156.2361,Non Invasive
+lythrum_maritimum_009.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/489084601/medium.jpg,cc-by-nc,271875484,research,20.76805,-156.2361,Non Invasive
+lythrum_maritimum_010.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/489084604/medium.jpg,cc-by-nc,271875484,research,20.76805,-156.2361,Non Invasive
+lythrum_maritimum_011.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/487721657/medium.jpeg,cc-by-nc,271154706,needs_id,20.7680166667,-156.2362805556,Non Invasive
+lythrum_maritimum_012.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/486623057/medium.jpeg,cc-by-nc,270576411,needs_id,22.1509254997,-159.6417701,Non Invasive
+lythrum_maritimum_013.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/484354524/medium.jpeg,cc0,269392026,needs_id,19.4130555556,-155.2407083333,Non Invasive
+lythrum_maritimum_014.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/484354517/medium.jpeg,cc0,269392026,needs_id,19.4130555556,-155.2407083333,Non Invasive
+lythrum_maritimum_015.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/484354523/medium.jpeg,cc0,269392026,needs_id,19.4130555556,-155.2407083333,Non Invasive
+lythrum_maritimum_016.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/479103314/medium.jpg,cc-by,266646349,needs_id,20.8154656741,-156.5496811769,Non Invasive
+lythrum_maritimum_017.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/478779086/medium.jpeg,cc-by-nc,266471193,research,20.7682774877,-156.2374637978,Non Invasive
+lythrum_maritimum_018.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/477332200/medium.jpeg,cc-by-nd,265719421,needs_id,20.7675117086,-156.2362798353,Non Invasive
+lythrum_maritimum_019.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/477332138/medium.jpeg,cc-by-nd,265719421,needs_id,20.7675117086,-156.2362798353,Non Invasive
+lythrum_maritimum_020.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/476304164/medium.jpg,cc-by-nd,265194383,research,20.7677982434,-156.2362971518,Non Invasive
+lythrum_maritimum_021.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/471125082/medium.jpg,cc-by-nc,262232141,research,22.151,-159.6398,Non Invasive
+lythrum_maritimum_022.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/471125092/medium.jpg,cc-by-nc,262232141,research,22.151,-159.6398,Non Invasive
+lythrum_maritimum_023.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/470543559/medium.jpg,cc-by-nc,261865913,research,20.7671887289,-156.236142983,Non Invasive
+lythrum_maritimum_024.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/461462051/medium.jpeg,cc0,257262694,research,20.7525916667,-156.2129305556,Non Invasive
+lythrum_maritimum_025.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/461462070/medium.jpeg,cc0,257262694,research,20.7525916667,-156.2129305556,Non Invasive
+lythrum_maritimum_026.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/461367866/medium.jpeg,cc-by,257215866,research,20.7538583333,-156.2140472222,Non Invasive
+lythrum_maritimum_027.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/461367876/medium.jpeg,cc-by,257215866,research,20.7538583333,-156.2140472222,Non Invasive
+lythrum_maritimum_028.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/460140550/medium.jpeg,cc-by-sa,256613935,needs_id,4.8146519722,-73.6309739722,Non Invasive
+lythrum_maritimum_029.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/460140610/medium.jpeg,cc-by-sa,256613935,needs_id,4.8146519722,-73.6309739722,Non Invasive
+lythrum_maritimum_030.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/459544098/medium.jpg,cc-by,256324016,research,21.3274710224,-157.7692787406,Non Invasive
+lythrum_maritimum_031.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/459544105/medium.jpg,cc-by,256324016,research,21.3274710224,-157.7692787406,Non Invasive
+lythrum_maritimum_032.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/459544106/medium.jpg,cc-by,256324016,research,21.3274710224,-157.7692787406,Non Invasive
+lythrum_maritimum_033.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/459544108/medium.jpg,cc-by,256324016,research,21.3274710224,-157.7692787406,Non Invasive
+lythrum_maritimum_034.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/459324310/medium.jpeg,cc0,256216633,research,19.8332919624,-155.5958713603,Non Invasive
+lythrum_maritimum_035.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/459324304/medium.jpeg,cc0,256216633,research,19.8332919624,-155.5958713603,Non Invasive
+lythrum_maritimum_036.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/459324311/medium.jpeg,cc0,256216633,research,19.8332919624,-155.5958713603,Non Invasive
+lythrum_maritimum_037.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/458962279/medium.jpg,cc-by-nc,256038683,research,20.94712,-156.5464333333,Non Invasive
+lythrum_maritimum_038.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/458962268/medium.jpg,cc-by-nc,256038683,research,20.94712,-156.5464333333,Non Invasive
+lythrum_maritimum_039.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/458753550/medium.jpeg,cc-by-nc,255936192,research,21.3303716821,-157.7666591071,Non Invasive
+lythrum_maritimum_040.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/458588739/medium.jpeg,cc-by,255846899,research,20.7680027778,-156.2362444444,Non Invasive
+lythrum_maritimum_041.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/455936799/medium.jpeg,cc-by,254534291,research,-31.1604515,-64.36676063,Non Invasive
+lythrum_maritimum_042.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/453101433/medium.jpg,cc-by-nc,253086590,research,19.8161999,-155.6231062997,Non Invasive
+lythrum_maritimum_043.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/452273735/medium.jpeg,cc-by-nc,252631542,research,22.1050735455,-159.6615082867,Non Invasive
+lythrum_maritimum_044.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/452133006/medium.jpeg,cc-by-nc,252557848,research,20.7678136645,-156.236188467,Non Invasive
+lythrum_maritimum_045.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/452133071/medium.jpeg,cc-by-nc,252557848,research,20.7678136645,-156.236188467,Non Invasive
+lythrum_maritimum_046.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/452119687/medium.jpeg,cc-by-nc,252551612,research,21.526039388,-157.8498694069,Non Invasive
+lythrum_maritimum_047.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/452119709/medium.jpeg,cc-by-nc,252551612,research,21.526039388,-157.8498694069,Non Invasive
+lythrum_maritimum_048.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/451652192/medium.jpeg,cc-by-nc,252315931,research,19.816495,-155.6219333333,Non Invasive
+lythrum_maritimum_049.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/444843885/medium.jpeg,cc-by-nc,248908523,research,20.7707852279,-156.2393978125,Non Invasive
+lythrum_maritimum_050.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/444843957/medium.jpeg,cc-by-nc,248908523,research,20.7707852279,-156.2393978125,Non Invasive
+lythrum_maritimum_051.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/441802448/medium.jpeg,cc-by-nc,247374614,needs_id,21.5177386459,-157.9111584,Non Invasive
+lythrum_maritimum_052.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/441802467/medium.jpeg,cc-by-nc,247374614,needs_id,21.5177386459,-157.9111584,Non Invasive
+lythrum_maritimum_053.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/438326255/medium.jpeg,cc-by-nc,245655362,needs_id,20.6994148722,-156.2427813937,Non Invasive
+lythrum_maritimum_054.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/438326249/medium.jpeg,cc-by-nc,245655362,needs_id,20.6994148722,-156.2427813937,Non Invasive
+lythrum_maritimum_055.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/435692905/medium.jpeg,cc-by-nc,244260711,research,22.1495394568,-159.6374280425,Non Invasive
+lythrum_maritimum_056.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/435692917/medium.jpeg,cc-by-nc,244260711,research,22.1495394568,-159.6374280425,Non Invasive
+lythrum_maritimum_057.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/422553260/medium.jpeg,cc-by-nc,237430407,research,20.7679243718,-156.2363054123,Non Invasive
+lythrum_maritimum_058.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/422553270/medium.jpeg,cc-by-nc,237430407,research,20.7679243718,-156.2363054123,Non Invasive
+lythrum_maritimum_059.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/422356491/medium.jpeg,cc-by-nc,237330915,research,20.7588683281,-156.28003936,Non Invasive
+lythrum_maritimum_060.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/422356515/medium.jpeg,cc-by-nc,237330915,research,20.7588683281,-156.28003936,Non Invasive
+lythrum_maritimum_061.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/417772987/medium.jpeg,cc-by-nc,234954067,research,20.7678866667,-156.236145,Non Invasive
+lythrum_maritimum_062.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/414771408/medium.jpeg,cc-by-nc,233389900,research,20.7133868004,-156.3001309799,Non Invasive
+lythrum_maritimum_063.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/414771478/medium.jpeg,cc-by-nc,233389900,research,20.7133868004,-156.3001309799,Non Invasive
+lythrum_maritimum_064.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/414496143/medium.jpeg,cc0,233242757,research,20.71315078,-156.3002077,Non Invasive
+lythrum_maritimum_065.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/413384842/medium.jpeg,cc0,232665092,research,20.94707526,-156.5463572,Non Invasive
+lythrum_maritimum_066.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/406779426/medium.jpeg,cc-by,229178613,needs_id,19.7782659578,-155.6382220116,Non Invasive
+lythrum_maritimum_067.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/397171964/medium.jpg,cc-by-nc,224114378,needs_id,20.7677833333,-156.2361616667,Non Invasive
+lythrum_maritimum_068.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/397171929/medium.jpg,cc-by-nc,224114378,needs_id,20.7677833333,-156.2361616667,Non Invasive
+lythrum_maritimum_069.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/397171990/medium.jpg,cc-by-nc,224114378,needs_id,20.7677833333,-156.2361616667,Non Invasive
+lythrum_maritimum_070.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/397085016/medium.jpg,cc-by-nc,224070022,research,20.7682283333,-156.236205,Non Invasive
+lythrum_maritimum_071.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/397085054/medium.jpg,cc-by-nc,224070022,research,20.7682283333,-156.236205,Non Invasive
+lythrum_maritimum_072.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/397085166/medium.jpg,cc-by-nc,224070022,research,20.7682283333,-156.236205,Non Invasive
+lythrum_maritimum_073.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/382307550/medium.jpg,cc-by-nc,216185963,research,21.4486822227,-157.9267212075,Non Invasive
+lythrum_maritimum_074.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/382307585/medium.jpg,cc-by-nc,216185963,research,21.4486822227,-157.9267212075,Non Invasive
+lythrum_maritimum_075.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/369881383/medium.jpg,cc-by-nc,209025050,needs_id,20.743495,-156.21405,Non Invasive
+lythrum_maritimum_076.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/362191319/medium.jpg,cc-by-nc,204870206,research,20.7677653967,-156.2361778122,Non Invasive
+lythrum_maritimum_077.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/362191328/medium.jpg,cc-by-nc,204870206,research,20.7677653967,-156.2361778122,Non Invasive
+lythrum_maritimum_078.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/359892730/medium.jpeg,cc-by-nc,203678418,research,21.1382531435,-156.961058516,Non Invasive
+lythrum_maritimum_079.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/351841379/medium.jpg,cc-by-nc,199505696,needs_id,20.706732743,-156.3064163737,Non Invasive
+lythrum_maritimum_080.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/351841370/medium.jpg,cc-by-nc,199505696,needs_id,20.706732743,-156.3064163737,Non Invasive
+lythrum_maritimum_081.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/351841357/medium.jpg,cc-by-nc,199505696,needs_id,20.706732743,-156.3064163737,Non Invasive
+lythrum_maritimum_082.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/347211939/medium.jpeg,cc-by-nc,197176469,research,20.7557683333,-156.21507,Non Invasive
+lythrum_maritimum_083.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/347211899/medium.jpeg,cc-by-nc,197176463,research,20.7556133333,-156.2150466667,Non Invasive
+lythrum_maritimum_084.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/347211092/medium.jpeg,cc-by-nc,197176021,research,20.755725,-156.2156733333,Non Invasive
+lythrum_maritimum_085.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/347091687/medium.jpeg,cc-by-nc,197116281,research,20.7173516667,-156.140565,Non Invasive
+lythrum_maritimum_086.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/345855560/medium.jpg,cc-by-nc,196442786,research,20.749402,-156.212264,Non Invasive
+lythrum_maritimum_087.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/345855559/medium.jpg,cc-by-nc,196442786,research,20.749402,-156.212264,Non Invasive
+lythrum_maritimum_088.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/345855558/medium.jpg,cc-by-nc,196442786,research,20.749402,-156.212264,Non Invasive
+lythrum_maritimum_089.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/345855566/medium.jpg,cc-by-nc,196442786,research,20.749402,-156.212264,Non Invasive
+lythrum_maritimum_090.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/345050151/medium.jpg,cc-by-nc,196050282,needs_id,20.7538495204,-156.2258999521,Non Invasive
+lythrum_maritimum_091.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/345050150/medium.jpg,cc-by-nc,196050282,needs_id,20.7538495204,-156.2258999521,Non Invasive
+lythrum_maritimum_092.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/339513363/medium.jpg,cc0,193281689,research,20.7558624954,-156.2181401679,Non Invasive
+lythrum_maritimum_093.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/339513366/medium.jpg,cc0,193281689,research,20.7558624954,-156.2181401679,Non Invasive
+lythrum_maritimum_094.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/339513255/medium.jpg,cc0,193281673,research,20.7464433888,-156.2138486334,Non Invasive
+lythrum_maritimum_095.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/339513249/medium.jpg,cc0,193281673,research,20.7464433888,-156.2138486334,Non Invasive
+lythrum_maritimum_096.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/339513231/medium.jpg,cc0,193281671,research,20.7453099818,-156.2134351471,Non Invasive
+lythrum_maritimum_097.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/339513234/medium.jpg,cc0,193281671,research,20.7453099818,-156.2134351471,Non Invasive
+lythrum_maritimum_098.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/334695953/medium.jpg,cc-by-nc,190867078,research,-35.1530083333,-57.3991033333,Non Invasive
+lythrum_maritimum_099.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/334695994/medium.jpg,cc-by-nc,190867078,research,-35.1530083333,-57.3991033333,Non Invasive
+lythrum_maritimum_100.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/334435042/medium.jpeg,cc-by-nc,190735914,research,-35.1527869722,-57.399236,Non Invasive
+lythrum_maritimum_101.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/324645149/medium.jpg,cc-by-nc,185843602,research,20.736245,-156.2036583333,Non Invasive
+lythrum_maritimum_102.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/324645199/medium.jpg,cc-by-nc,185843602,research,20.736245,-156.2036583333,Non Invasive
+lythrum_maritimum_103.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/324426110/medium.jpg,cc-by,185735341,research,20.7556192175,-156.2157769639,Non Invasive
+lythrum_maritimum_104.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/324426131/medium.jpg,cc-by,185735341,research,20.7556192175,-156.2157769639,Non Invasive
+lythrum_maritimum_105.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/318017703/medium.jpg,cc-by-nc,182400376,research,19.244575,-155.8775783333,Non Invasive
+lythrum_maritimum_106.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/318017749/medium.jpg,cc-by-nc,182400376,research,19.244575,-155.8775783333,Non Invasive
+lythrum_maritimum_107.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/315704868/medium.jpg,cc-by-nc,181166657,needs_id,19.4428116667,-155.3215333333,Non Invasive
+lythrum_maritimum_108.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/307873702/medium.jpeg,cc-by-nc,177068173,research,19.8301807198,-155.5954293623,Non Invasive
+lythrum_maritimum_109.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/307873797/medium.jpeg,cc-by-nc,177068173,research,19.8301807198,-155.5954293623,Non Invasive
+lythrum_maritimum_110.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/305704436/medium.jpeg,cc-by-nc,175880608,research,22.148309474,-159.6356387506,Non Invasive
+lythrum_maritimum_111.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/305704495/medium.jpeg,cc-by-nc,175880608,research,22.148309474,-159.6356387506,Non Invasive
+lythrum_maritimum_112.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/304913285/medium.jpg,cc-by-nc,175448110,research,20.8112283333,-156.2362666667,Non Invasive
+lythrum_maritimum_113.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/304913302/medium.jpg,cc-by-nc,175448110,research,20.8112283333,-156.2362666667,Non Invasive
+lythrum_maritimum_114.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/304913326/medium.jpg,cc-by-nc,175448110,research,20.8112283333,-156.2362666667,Non Invasive
+lythrum_maritimum_115.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/304900520/medium.jpg,cc-by-nc,175441349,research,19.8331535222,-155.595587063,Non Invasive
+lythrum_maritimum_116.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/296548608/medium.jpg,cc-by-nc,170933560,research,19.8338383333,-155.5960216667,Non Invasive
+lythrum_maritimum_117.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/293835808/medium.jpeg,cc-by,169484010,needs_id,20.8031377778,-156.864125,Non Invasive
+lythrum_maritimum_118.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/293835874/medium.jpeg,cc-by,169484010,needs_id,20.8031377778,-156.864125,Non Invasive
+lythrum_maritimum_119.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/290312398/medium.jpg,cc-by-nc,167577183,research,20.7686284048,-156.2373252677,Non Invasive
+lythrum_maritimum_120.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/290312503/medium.jpg,cc-by-nc,167577183,research,20.7686284048,-156.2373252677,Non Invasive
+lythrum_maritimum_121.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/266138078/medium.jpg,cc-by-nc,154048381,research,20.7674227811,-156.2362635463,Non Invasive
+lythrum_maritimum_122.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/266138135/medium.jpg,cc-by-nc,154048381,research,20.7674227811,-156.2362635463,Non Invasive
+lythrum_maritimum_123.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/266140386/medium.jpg,cc-by-nc,154048381,research,20.7674227811,-156.2362635463,Non Invasive
+lythrum_maritimum_124.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/260420088/medium.jpg,cc-by-nc,150972683,needs_id,20.7674656017,-156.2358808426,Non Invasive
+lythrum_maritimum_125.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/260420111/medium.jpg,cc-by-nc,150972683,needs_id,20.7674656017,-156.2358808426,Non Invasive
+lythrum_maritimum_126.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/260420155/medium.jpg,cc-by-nc,150972683,needs_id,20.7674656017,-156.2358808426,Non Invasive
+lythrum_maritimum_127.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/260420178/medium.jpg,cc-by-nc,150972683,needs_id,20.7674656017,-156.2358808426,Non Invasive
+lythrum_maritimum_128.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/257888311/medium.jpg,cc-by-nc,149643921,needs_id,20.7154816019,-156.1391997069,Non Invasive
+lythrum_maritimum_129.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/257696954/medium.jpg,cc-by-nc,149537939,needs_id,20.76733,-156.2362866667,Non Invasive
+lythrum_maritimum_130.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/257697019/medium.jpg,cc-by-nc,149537939,needs_id,20.76733,-156.2362866667,Non Invasive
+lythrum_maritimum_131.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/257697289/medium.jpg,cc-by-nc,149537939,needs_id,20.76733,-156.2362866667,Non Invasive
+lythrum_maritimum_132.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/257697196/medium.jpg,cc-by-nc,149537939,needs_id,20.76733,-156.2362866667,Non Invasive
+lythrum_maritimum_133.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/257697245/medium.jpg,cc-by-nc,149537939,needs_id,20.76733,-156.2362866667,Non Invasive
+lythrum_maritimum_134.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/253270645/medium.jpg,cc-by-nc,147212337,research,20.7711111,-156.24,Non Invasive
+lythrum_maritimum_135.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/248723916/medium.jpg,cc-by-nc-sa,144861303,needs_id,20.767507595,-156.235908495,Non Invasive
+lythrum_maritimum_136.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/245504348/medium.jpg,cc-by-nc,143164942,research,20.7523333333,-156.2128616667,Non Invasive
+lythrum_maritimum_137.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/245504358/medium.jpg,cc-by-nc,143164942,research,20.7523333333,-156.2128616667,Non Invasive
+lythrum_maritimum_138.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/245504365/medium.jpg,cc-by-nc,143164942,research,20.7523333333,-156.2128616667,Non Invasive
+lythrum_maritimum_139.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/245504376/medium.jpg,cc-by-nc,143164942,research,20.7523333333,-156.2128616667,Non Invasive
+lythrum_maritimum_140.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/241497544/medium.jpg,cc-by,141026638,needs_id,20.7557241667,-156.2167888889,Non Invasive
+lythrum_maritimum_141.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/239462901/medium.jpg,cc-by-nc,139944177,needs_id,20.7780781944,-156.2945934537,Non Invasive
+lythrum_maritimum_142.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/237406971/medium.jpeg,cc-by-nc,138877128,research,19.8328126713,-155.5959792967,Non Invasive
+lythrum_maritimum_143.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/237406953/medium.jpeg,cc-by-nc,138877128,research,19.8328126713,-155.5959792967,Non Invasive
+lythrum_maritimum_144.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/236216986/medium.jpeg,cc-by-nc,138227290,research,21.3411303588,-157.8089450818,Non Invasive
+lythrum_maritimum_145.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/236216976/medium.jpeg,cc-by-nc,138227290,research,21.3411303588,-157.8089450818,Non Invasive
+lythrum_maritimum_146.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/234080648/medium.jpeg,cc-by-nc,137098474,casual,20.796831,-156.327109,Non Invasive
+lythrum_maritimum_147.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/232073756/medium.jpg,cc-by-nc,136013260,research,20.7680041599,-156.2363957302,Non Invasive
+lythrum_maritimum_148.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/232073765/medium.jpg,cc-by-nc,136013260,research,20.7680041599,-156.2363957302,Non Invasive
+lythrum_maritimum_149.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/231615064/medium.jpg,cc-by-nc,135767037,research,20.9470484413,-156.5464183451,Non Invasive
+lythrum_maritimum_150.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/231615045/medium.jpg,cc-by-nc,135767037,research,20.9470484413,-156.5464183451,Non Invasive
+lythrum_maritimum_151.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/231615054/medium.jpg,cc-by-nc,135767037,research,20.9470484413,-156.5464183451,Non Invasive
+lythrum_maritimum_152.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/231587291/medium.jpg,cc-by-nc,135752774,research,20.7180707529,-156.1481203047,Non Invasive
+lythrum_maritimum_153.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/231587320/medium.jpg,cc-by-nc,135752774,research,20.7180707529,-156.1481203047,Non Invasive
+lythrum_maritimum_154.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/224685955/medium.jpg,cc-by-nc,131979074,research,20.7439383333,-156.2128616667,Non Invasive
+lythrum_maritimum_155.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/224685922/medium.jpg,cc-by-nc,131979074,research,20.7439383333,-156.2128616667,Non Invasive
+lythrum_maritimum_156.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/224685942/medium.jpg,cc-by-nc,131979074,research,20.7439383333,-156.2128616667,Non Invasive
+lythrum_maritimum_157.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/224451437/medium.jpg,cc-by,131854892,research,19.4575461067,-155.343141888,Non Invasive
+lythrum_maritimum_158.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/224158950/medium.jpg,cc-by,131697951,research,19.4728379722,-155.2619719722,Non Invasive
+lythrum_maritimum_159.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/224124345/medium.jpg,cc-by,131681043,research,19.4408681216,-155.3091204438,Non Invasive
+lythrum_maritimum_160.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/223806578/medium.jpg,cc-by-nc,131507090,research,20.75563,-156.2152416667,Non Invasive
+lythrum_maritimum_161.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/215831715/medium.jpg,cc-by-nc,127152071,research,20.9465276543,-156.5485891142,Non Invasive
+lythrum_maritimum_162.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/215831615/medium.jpg,cc-by-nc,127152071,research,20.9465276543,-156.5485891142,Non Invasive
+lythrum_maritimum_163.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/215832055/medium.jpg,cc-by-nc,127152071,research,20.9465276543,-156.5485891142,Non Invasive
+lythrum_maritimum_164.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/209116080/medium.jpg,cc-by-nc,123447658,needs_id,20.7680706,-156.237401,Non Invasive
+lythrum_maritimum_165.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/209116105/medium.jpeg,cc-by-nc,123447658,needs_id,20.7680706,-156.237401,Non Invasive
+lythrum_maritimum_166.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/209114908/medium.jpg,cc-by-nc,123447645,needs_id,20.7680706,-156.237401,Non Invasive
+lythrum_maritimum_167.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/209114936/medium.jpeg,cc-by-nc,123447645,needs_id,20.7680706,-156.237401,Non Invasive
+lythrum_maritimum_168.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/209114964/medium.jpeg,cc-by-nc,123447645,needs_id,20.7680706,-156.237401,Non Invasive
+lythrum_maritimum_169.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/207789718/medium.jpg,cc-by,122709105,research,20.7673938526,-156.2357782481,Non Invasive
+lythrum_maritimum_170.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/203937522/medium.jpg,cc-by,120568238,research,20.768596458,-156.2364440291,Non Invasive
+lythrum_maritimum_171.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/203789531/medium.jpeg,cc-by-nc,120485550,needs_id,21.345323,-157.8043319722,Non Invasive
+lythrum_maritimum_172.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/203789543/medium.jpeg,cc-by-nc,120485550,needs_id,21.345323,-157.8043319722,Non Invasive
+lythrum_maritimum_173.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/203446853/medium.jpg,cc-by-nc,120296051,needs_id,20.7274838321,-156.2862538096,Non Invasive
+lythrum_maritimum_174.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/203446874/medium.jpg,cc-by-nc,120296051,needs_id,20.7274838321,-156.2862538096,Non Invasive
+lythrum_maritimum_175.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/182329720/medium.jpeg,cc-by-nc,108368695,research,20.7682774877,-156.2374637978,Non Invasive
+lythrum_maritimum_176.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/180891779/medium.jpeg,cc-by,107540337,research,20.7673971489,-156.2363964157,Non Invasive
+lythrum_maritimum_177.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/172302278/medium.jpg,cc-by-nc,103004311,needs_id,21.5123368783,-158.1899229815,Non Invasive
+lythrum_maritimum_178.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/172302265/medium.jpg,cc-by-nc,103004311,needs_id,21.5123368783,-158.1899229815,Non Invasive
+lythrum_maritimum_179.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/171738575/medium.jpg,cc-by,102702007,research,20.7556833333,-156.2149,Non Invasive
+lythrum_maritimum_180.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/171738580/medium.jpg,cc-by,102702007,research,20.7556833333,-156.2149,Non Invasive
+lythrum_maritimum_181.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/171738587/medium.jpg,cc-by,102702007,research,20.7556833333,-156.2149,Non Invasive
+lythrum_maritimum_182.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/171386709/medium.jpg,cc-by-nc,102515206,needs_id,21.4565693009,-158.0571251692,Non Invasive
+lythrum_maritimum_183.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/171386700/medium.jpg,cc-by-nc,102515206,needs_id,21.4565693009,-158.0571251692,Non Invasive
+lythrum_maritimum_184.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/171386714/medium.jpg,cc-by-nc,102515206,needs_id,21.4565693009,-158.0571251692,Non Invasive
+lythrum_maritimum_185.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/165205353/medium.jpg,cc-by-nc,99141020,needs_id,22.1359333333,-159.6699233333,Non Invasive
+lythrum_maritimum_186.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/165205355/medium.jpg,cc-by-nc,99141020,needs_id,22.1359333333,-159.6699233333,Non Invasive
+lythrum_maritimum_187.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/164848140/medium.jpg,cc-by-nc,98944001,needs_id,22.10525,-159.66147,Non Invasive
+lythrum_maritimum_188.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/164848150/medium.jpg,cc-by-nc,98944001,needs_id,22.10525,-159.66147,Non Invasive
+lythrum_maritimum_189.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/164848132/medium.jpg,cc-by-nc,98944001,needs_id,22.10525,-159.66147,Non Invasive
+lythrum_maritimum_190.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/161814520/medium.jpeg,cc-by-nc-sa,97310296,needs_id,20.76802136,-156.23601924,Non Invasive
+lythrum_maritimum_191.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/147714692/medium.jpg,cc-by-nc,89447730,research,20.7678666667,-156.2362216667,Non Invasive
+lythrum_maritimum_192.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/144211077/medium.jpeg,cc-by-nc,87468499,research,20.7681687907,-156.240612479,Non Invasive
+lythrum_maritimum_193.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/119445514/medium.jpg,cc-by-nc,73180289,research,21.34715,-157.7991783333,Non Invasive
+lythrum_maritimum_194.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/119445521/medium.jpg,cc-by-nc,73180289,research,21.34715,-157.7991783333,Non Invasive
+lythrum_maritimum_195.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/119445526/medium.jpg,cc-by-nc,73180289,research,21.34715,-157.7991783333,Non Invasive
+lythrum_maritimum_196.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/119445531/medium.jpg,cc-by-nc,73180289,research,21.34715,-157.7991783333,Non Invasive
+lythrum_maritimum_197.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/112967891/medium.jpeg,cc-by-nc,69600581,research,-33.0836163889,-71.659795,Non Invasive
+lythrum_maritimum_198.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/112967994/medium.jpeg,cc-by-nc,69600581,research,-33.0836163889,-71.659795,Non Invasive
+lythrum_maritimum_199.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/112091990/medium.jpeg,cc-by-nc,69122117,research,-33.08354,-71.6598180556,Non Invasive
+lythrum_maritimum_200.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/112092087/medium.jpeg,cc-by-nc,69122117,research,-33.08354,-71.6598180556,Non Invasive
+lythrum_maritimum_201.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/112092093/medium.jpeg,cc-by-nc,69122117,research,-33.08354,-71.6598180556,Non Invasive
+lythrum_maritimum_202.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/112092094/medium.jpeg,cc-by-nc,69122117,research,-33.08354,-71.6598180556,Non Invasive
+lythrum_maritimum_203.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/112092099/medium.jpeg,cc-by-nc,69122117,research,-33.08354,-71.6598180556,Non Invasive
+lythrum_maritimum_204.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/112092101/medium.jpeg,cc-by-nc,69122117,research,-33.08354,-71.6598180556,Non Invasive
+lythrum_maritimum_205.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/91503774/medium.jpg,cc-by-nc,57287559,research,20.8320299775,-156.2750588781,Non Invasive
+lythrum_maritimum_206.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/91501942/medium.jpg,cc-by-nc,57287559,research,20.8320299775,-156.2750588781,Non Invasive
+lythrum_maritimum_207.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/57676296/medium.jpeg,cc-by-nc,36491649,research,20.7681169444,-156.2363030556,Non Invasive
+lythrum_maritimum_208.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/57676288/medium.jpeg,cc-by-nc,36491649,research,20.7681169444,-156.2363030556,Non Invasive
+lythrum_maritimum_209.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/57676305/medium.jpeg,cc-by-nc,36491649,research,20.7681169444,-156.2363030556,Non Invasive
+lythrum_maritimum_210.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/55290013/medium.jpeg,cc0,35077207,research,19.6652298098,-155.3881989419,Non Invasive
+lythrum_maritimum_211.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/55290022/medium.jpeg,cc0,35077207,research,19.6652298098,-155.3881989419,Non Invasive
+lythrum_maritimum_212.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/55223265/medium.jpeg,cc-by-nc-nd,35037690,research,20.7681576,-156.2379935,Non Invasive
+lythrum_maritimum_213.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/55223260/medium.jpeg,cc-by-nc-nd,35037690,research,20.7681576,-156.2379935,Non Invasive
+lythrum_maritimum_214.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/55223279/medium.jpeg,cc-by-nc-nd,35037690,research,20.7681576,-156.2379935,Non Invasive
+lythrum_maritimum_215.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/42387048/medium.jpg,cc0,27254885,research,19.4636000754,-155.3304111656,Non Invasive
+lythrum_maritimum_216.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/42387054/medium.jpg,cc0,27254885,research,19.4636000754,-155.3304111656,Non Invasive
+lythrum_maritimum_217.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/42387073/medium.jpg,cc0,27254885,research,19.4636000754,-155.3304111656,Non Invasive
+lythrum_maritimum_218.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/41404714/medium.jpg,cc0,26656403,needs_id,19.9720530696,-155.5870494297,Non Invasive
+lythrum_maritimum_219.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/41404805/medium.jpg,cc0,26656403,needs_id,19.9720530696,-155.5870494297,Non Invasive
+lythrum_maritimum_220.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/41404775/medium.jpg,cc0,26656403,needs_id,19.9720530696,-155.5870494297,Non Invasive
+lythrum_maritimum_221.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/34317603/medium.jpeg,cc-by-nc,22165882,research,-32.2355351021,-71.5242982283,Non Invasive
+lythrum_maritimum_222.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/31328266/medium.jpg,cc-by-nc,20293376,needs_id,19.4118533596,-155.2416283679,Non Invasive
+lythrum_maritimum_223.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/30083995/medium.jpeg,cc-by-nc,19546256,needs_id,20.7298550408,-156.2073367506,Non Invasive
+lythrum_maritimum_224.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/30084011/medium.jpeg,cc-by-nc,19546256,needs_id,20.7298550408,-156.2073367506,Non Invasive
+lythrum_maritimum_225.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/25812153/medium.jpeg,cc-by-nc,17057905,research,19.8330166667,-155.5955566667,Non Invasive
+lythrum_maritimum_226.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/25812160/medium.jpeg,cc-by-nc,17057905,research,19.8330166667,-155.5955566667,Non Invasive

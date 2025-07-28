@@ -1,327 +1,363 @@
 filename,url,license_code,observation_id,quality_grade,latitude,longitude,label
-lythrum_tribracteatum_001.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/522790916/medium.jpg,cc-by-nc,290600649,research,42.14372,-122.61968,introduced non-invasive
-lythrum_tribracteatum_002.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/522790944/medium.jpg,cc-by-nc,290600649,research,42.14372,-122.61968,introduced non-invasive
-lythrum_tribracteatum_003.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/522790918/medium.jpg,cc-by-nc,290600649,research,42.14372,-122.61968,introduced non-invasive
-lythrum_tribracteatum_004.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/522790929/medium.jpg,cc-by-nc,290600649,research,42.14372,-122.61968,introduced non-invasive
-lythrum_tribracteatum_005.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/522790940/medium.jpg,cc-by-nc,290600649,research,42.14372,-122.61968,introduced non-invasive
-lythrum_tribracteatum_006.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/522790927/medium.jpg,cc-by-nc,290600649,research,42.14372,-122.61968,introduced non-invasive
-lythrum_tribracteatum_007.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/522790936/medium.jpg,cc-by-nc,290600649,research,42.14372,-122.61968,introduced non-invasive
-lythrum_tribracteatum_008.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/522790928/medium.jpg,cc-by-nc,290600649,research,42.14372,-122.61968,introduced non-invasive
-lythrum_tribracteatum_009.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/522727440/medium.jpg,cc-by-nc,290561562,needs_id,43.7759611111,-118.0475833333,introduced non-invasive
-lythrum_tribracteatum_010.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/522727501/medium.jpg,cc-by-nc,290561562,needs_id,43.7759611111,-118.0475833333,introduced non-invasive
-lythrum_tribracteatum_011.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/522727540/medium.jpg,cc-by-nc,290561562,needs_id,43.7759611111,-118.0475833333,introduced non-invasive
-lythrum_tribracteatum_012.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/522730062/medium.jpg,cc-by-nc,290561562,needs_id,43.7759611111,-118.0475833333,introduced non-invasive
-lythrum_tribracteatum_013.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/522730125/medium.jpg,cc-by-nc,290561562,needs_id,43.7759611111,-118.0475833333,introduced non-invasive
-lythrum_tribracteatum_014.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/522730208/medium.jpg,cc-by-nc,290561562,needs_id,43.7759611111,-118.0475833333,introduced non-invasive
-lythrum_tribracteatum_015.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/521484340/medium.jpg,cc-by-nc,289916178,needs_id,43.453212378,-116.1328194644,introduced non-invasive
-lythrum_tribracteatum_016.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/516293235/medium.jpg,cc-by-nc,287151067,needs_id,37.2191283333,-8.0480616667,native
-lythrum_tribracteatum_017.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/516293288/medium.jpg,cc-by-nc,287151067,needs_id,37.2191283333,-8.0480616667,native
-lythrum_tribracteatum_018.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/515568230/medium.jpg,cc-by-nc,286763828,needs_id,43.49620901,4.67608746,native
-lythrum_tribracteatum_019.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/515568228/medium.jpg,cc-by-nc,286763828,needs_id,43.49620901,4.67608746,native
-lythrum_tribracteatum_020.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/515568218/medium.jpg,cc-by-nc,286763828,needs_id,43.49620901,4.67608746,native
-lythrum_tribracteatum_021.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/515568240/medium.jpg,cc-by-nc,286763828,needs_id,43.49620901,4.67608746,native
-lythrum_tribracteatum_022.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/514154648/medium.jpg,cc-by,286028175,needs_id,38.5636194444,-121.6344111111,introduced non-invasive
-lythrum_tribracteatum_023.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/514154685/medium.jpg,cc-by,286028175,needs_id,38.5636194444,-121.6344111111,introduced non-invasive
-lythrum_tribracteatum_024.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/514042690/medium.jpg,cc-by,286004741,needs_id,32.4112587425,34.9007722993,native
-lythrum_tribracteatum_025.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/514042704/medium.jpg,cc-by,286004741,needs_id,32.4112587425,34.9007722993,native
-lythrum_tribracteatum_026.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/514042763/medium.jpg,cc-by,286004741,needs_id,32.4112587425,34.9007722993,native
-lythrum_tribracteatum_027.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513566021/medium.jpg,cc-by-nc,285715656,needs_id,43.496185,4.6761516667,native
-lythrum_tribracteatum_028.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513565981/medium.jpg,cc-by-nc,285715656,needs_id,43.496185,4.6761516667,native
-lythrum_tribracteatum_029.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513566016/medium.jpg,cc-by-nc,285715656,needs_id,43.496185,4.6761516667,native
-lythrum_tribracteatum_030.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513566036/medium.jpg,cc-by-nc,285715656,needs_id,43.496185,4.6761516667,native
-lythrum_tribracteatum_031.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513565964/medium.jpg,cc-by-nc,285715656,needs_id,43.496185,4.6761516667,native
-lythrum_tribracteatum_032.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513565965/medium.jpg,cc-by-nc,285715656,needs_id,43.496185,4.6761516667,native
-lythrum_tribracteatum_033.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513565941/medium.jpg,cc-by-nc,285715656,needs_id,43.496185,4.6761516667,native
-lythrum_tribracteatum_034.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513565931/medium.jpg,cc-by-nc,285715656,needs_id,43.496185,4.6761516667,native
-lythrum_tribracteatum_035.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513565884/medium.jpg,cc-by-nc,285715656,needs_id,43.496185,4.6761516667,native
-lythrum_tribracteatum_036.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513565865/medium.jpg,cc-by-nc,285715656,needs_id,43.496185,4.6761516667,native
-lythrum_tribracteatum_037.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/515737100/medium.jpg,cc-by,285663900,needs_id,43.4958457833,4.67524495,native
-lythrum_tribracteatum_038.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/515737583/medium.jpg,cc-by,285663900,needs_id,43.4958457833,4.67524495,native
-lythrum_tribracteatum_039.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513474044/medium.jpg,cc-by,285663900,needs_id,43.4958457833,4.67524495,native
-lythrum_tribracteatum_040.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513865598/medium.jpg,cc-by-nc,285566058,needs_id,43.49649641,4.67674336,native
-lythrum_tribracteatum_041.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513865608/medium.jpg,cc-by-nc,285566058,needs_id,43.49649641,4.67674336,native
-lythrum_tribracteatum_042.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513865621/medium.jpg,cc-by-nc,285566058,needs_id,43.49649641,4.67674336,native
-lythrum_tribracteatum_043.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513082084/medium.jpg,cc-by-nc,285450891,needs_id,38.41631702,-121.49360597,introduced non-invasive
-lythrum_tribracteatum_044.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513082153/medium.jpg,cc-by-nc,285450891,needs_id,38.41631702,-121.49360597,introduced non-invasive
-lythrum_tribracteatum_045.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/511107428/medium.jpg,cc-by-nc,284400753,needs_id,38.5620583333,-121.6307533333,introduced non-invasive
-lythrum_tribracteatum_046.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/511107581/medium.jpg,cc-by-nc,284400753,needs_id,38.5620583333,-121.6307533333,introduced non-invasive
-lythrum_tribracteatum_047.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/507869214/medium.jpg,cc-by-nc,282672358,needs_id,38.5902996252,-121.6318870892,introduced non-invasive
-lythrum_tribracteatum_048.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/506742644/medium.jpg,cc-by-nc-nd,282067511,needs_id,45.17284467,68.26598422,native
-lythrum_tribracteatum_049.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/505113491/medium.jpg,cc-by-nc,281195830,research,38.2684833333,-121.4236,introduced non-invasive
-lythrum_tribracteatum_050.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/505113513/medium.jpg,cc-by-nc,281195830,research,38.2684833333,-121.4236,introduced non-invasive
-lythrum_tribracteatum_051.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/505113529/medium.jpg,cc-by-nc,281195830,research,38.2684833333,-121.4236,introduced non-invasive
-lythrum_tribracteatum_052.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/505113567/medium.jpg,cc-by-nc,281195830,research,38.2684833333,-121.4236,introduced non-invasive
-lythrum_tribracteatum_055.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/500358588/medium.jpeg,cc-by-nc,278657883,research,37.4891128,-121.96116526,introduced non-invasive
-lythrum_tribracteatum_056.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/500358612/medium.jpeg,cc-by-nc,278657883,research,37.4891128,-121.96116526,introduced non-invasive
-lythrum_tribracteatum_057.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/500358629/medium.jpeg,cc-by-nc,278657883,research,37.4891128,-121.96116526,introduced non-invasive
-lythrum_tribracteatum_058.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/500358653/medium.jpeg,cc-by-nc,278657883,research,37.4891128,-121.96116526,introduced non-invasive
-lythrum_tribracteatum_059.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/466127768/medium.jpeg,cc-by-nc,259642229,research,43.7635706176,3.707156076,native
-lythrum_tribracteatum_060.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/466127782/medium.jpeg,cc-by-nc,259642229,research,43.7635706176,3.707156076,native
-lythrum_tribracteatum_061.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/466127784/medium.jpeg,cc-by-nc,259642229,research,43.7635706176,3.707156076,native
-lythrum_tribracteatum_062.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/466127792/medium.jpeg,cc-by-nc,259642229,research,43.7635706176,3.707156076,native
-lythrum_tribracteatum_063.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/466127809/medium.jpeg,cc-by-nc,259642229,research,43.7635706176,3.707156076,native
-lythrum_tribracteatum_064.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/464996702/medium.jpeg,cc-by-nc,259084380,research,43.2917763172,3.4616732723,native
-lythrum_tribracteatum_065.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/460924591/medium.jpeg,cc-by,256997501,research,37.1288083333,-8.45259,native
-lythrum_tribracteatum_066.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/460910683/medium.jpeg,cc-by,256990454,research,37.1288383333,-8.4526316667,native
-lythrum_tribracteatum_067.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/460910686/medium.jpeg,cc-by,256990454,research,37.1288383333,-8.4526316667,native
-lythrum_tribracteatum_068.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/460910718/medium.jpeg,cc-by,256990454,research,37.1288383333,-8.4526316667,native
-lythrum_tribracteatum_069.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/460907937/medium.jpeg,cc-by,256989316,research,37.128225,-8.4515233333,native
-lythrum_tribracteatum_070.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/457723784/medium.jpg,cc-by-nc,255412968,research,41.1706813457,-0.0303377542,native
-lythrum_tribracteatum_071.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/454522773/medium.jpg,cc-by-nc,253807407,needs_id,46.765,19.105,native
-lythrum_tribracteatum_072.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/450727050/medium.jpg,cc-by-nc,251854534,needs_id,38.5610432154,-121.6326444349,introduced non-invasive
-lythrum_tribracteatum_073.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/450727121/medium.jpg,cc-by-nc,251854534,needs_id,38.5610432154,-121.6326444349,introduced non-invasive
-lythrum_tribracteatum_074.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/450675503/medium.jpg,cc-by-nc,251853298,research,38.5610432154,-121.6326444349,introduced non-invasive
-lythrum_tribracteatum_075.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/436299256/medium.jpeg,cc-by-nc,244584312,needs_id,39.6369361111,-3.4093027778,native
-lythrum_tribracteatum_076.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/436300055/medium.jpeg,cc-by-nc,244584312,needs_id,39.6369361111,-3.4093027778,native
-lythrum_tribracteatum_077.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/436300093/medium.jpeg,cc-by-nc,244584312,needs_id,39.6369361111,-3.4093027778,native
-lythrum_tribracteatum_078.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/436300135/medium.jpeg,cc-by-nc,244584312,needs_id,39.6369361111,-3.4093027778,native
-lythrum_tribracteatum_079.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/436300184/medium.jpeg,cc-by-nc,244584312,needs_id,39.6369361111,-3.4093027778,native
-lythrum_tribracteatum_080.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/435548633/medium.jpeg,cc-by-nc,244191228,needs_id,43.2929222761,3.462719239,native
-lythrum_tribracteatum_081.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/434671272/medium.jpeg,cc-by,243743677,research,43.7636316667,3.7069416667,native
-lythrum_tribracteatum_082.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/434671274/medium.jpeg,cc-by,243743677,research,43.7636316667,3.7069416667,native
-lythrum_tribracteatum_083.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/434671273/medium.jpeg,cc-by,243743677,research,43.7636316667,3.7069416667,native
-lythrum_tribracteatum_084.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/434328738/medium.jpeg,cc-by,243568196,research,43.4681966667,3.65875,native
-lythrum_tribracteatum_085.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/434328747/medium.jpeg,cc-by,243568196,research,43.4681966667,3.65875,native
-lythrum_tribracteatum_086.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/434328746/medium.jpeg,cc-by,243568196,research,43.4681966667,3.65875,native
-lythrum_tribracteatum_087.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/433407374/medium.jpeg,cc-by-nc,243081590,research,32.2921993892,34.8477151191,native
-lythrum_tribracteatum_088.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/432189886/medium.jpeg,cc-by,242419548,research,43.733949974,-118.456312297,introduced non-invasive
-lythrum_tribracteatum_089.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/432189904/medium.jpeg,cc-by,242419548,research,43.733949974,-118.456312297,introduced non-invasive
-lythrum_tribracteatum_090.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/432189917/medium.jpeg,cc-by,242419548,research,43.733949974,-118.456312297,introduced non-invasive
-lythrum_tribracteatum_091.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/432189929/medium.jpeg,cc-by,242419548,research,43.733949974,-118.456312297,introduced non-invasive
-lythrum_tribracteatum_092.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/432189936/medium.jpeg,cc-by,242419548,research,43.733949974,-118.456312297,introduced non-invasive
-lythrum_tribracteatum_093.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/432189928/medium.jpeg,cc-by,242419548,research,43.733949974,-118.456312297,introduced non-invasive
-lythrum_tribracteatum_094.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/432189924/medium.jpeg,cc-by,242419548,research,43.733949974,-118.456312297,introduced non-invasive
-lythrum_tribracteatum_095.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/428111740/medium.jpeg,cc-by,240308882,research,43.7062383333,3.7933033333,native
-lythrum_tribracteatum_096.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/428111762/medium.jpeg,cc-by,240308882,research,43.7062383333,3.7933033333,native
-lythrum_tribracteatum_097.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/428111735/medium.jpeg,cc-by,240308882,research,43.7062383333,3.7933033333,native
-lythrum_tribracteatum_098.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/428111736/medium.jpeg,cc-by,240308882,research,43.7062383333,3.7933033333,native
-lythrum_tribracteatum_100.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/424830569/medium.jpeg,cc-by-nc,238610884,research,43.0316166667,-115.3103333333,introduced non-invasive
-lythrum_tribracteatum_101.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/424830648/medium.jpeg,cc-by-nc,238610884,research,43.0316166667,-115.3103333333,introduced non-invasive
-lythrum_tribracteatum_102.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/424830709/medium.jpeg,cc-by-nc,238610884,research,43.0316166667,-115.3103333333,introduced non-invasive
-lythrum_tribracteatum_103.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/424830820/medium.jpeg,cc-by-nc,238610884,research,43.0316166667,-115.3103333333,introduced non-invasive
-lythrum_tribracteatum_104.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/424746770/medium.jpeg,cc-by-nc,238567013,research,43.76360084,3.70715,native
-lythrum_tribracteatum_105.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/424746772/medium.jpeg,cc-by-nc,238567013,research,43.76360084,3.70715,native
-lythrum_tribracteatum_106.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/424746787/medium.jpeg,cc-by-nc,238567013,research,43.76360084,3.70715,native
-lythrum_tribracteatum_110.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/422857366/medium.jpeg,cc-by-nc,237587551,research,37.9157944444,-122.2321944444,introduced non-invasive
-lythrum_tribracteatum_111.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/422857349/medium.jpeg,cc-by-nc,237587551,research,37.9157944444,-122.2321944444,introduced non-invasive
-lythrum_tribracteatum_112.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/422857352/medium.jpeg,cc-by-nc,237587551,research,37.9157944444,-122.2321944444,introduced non-invasive
-lythrum_tribracteatum_113.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/422857353/medium.jpeg,cc-by-nc,237587551,research,37.9157944444,-122.2321944444,introduced non-invasive
-lythrum_tribracteatum_114.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421500407/medium.jpeg,cc-by-nc,236882523,research,40.210597237,-3.774262704,native
-lythrum_tribracteatum_115.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421500429/medium.jpeg,cc-by-nc,236882523,research,40.210597237,-3.774262704,native
-lythrum_tribracteatum_116.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421500450/medium.jpeg,cc-by-nc,236882523,research,40.210597237,-3.774262704,native
-lythrum_tribracteatum_117.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421500469/medium.jpeg,cc-by-nc,236882523,research,40.210597237,-3.774262704,native
-lythrum_tribracteatum_118.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421500486/medium.jpeg,cc-by-nc,236882523,research,40.210597237,-3.774262704,native
-lythrum_tribracteatum_119.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421500504/medium.jpeg,cc-by-nc,236882523,research,40.210597237,-3.774262704,native
-lythrum_tribracteatum_120.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421500524/medium.jpeg,cc-by-nc,236882523,research,40.210597237,-3.774262704,native
-lythrum_tribracteatum_121.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421499910/medium.jpeg,cc-by-nc,236882307,research,40.2100244675,-3.7741453573,native
-lythrum_tribracteatum_122.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421499940/medium.jpeg,cc-by-nc,236882307,research,40.2100244675,-3.7741453573,native
-lythrum_tribracteatum_123.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421499960/medium.jpeg,cc-by-nc,236882307,research,40.2100244675,-3.7741453573,native
-lythrum_tribracteatum_124.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421499983/medium.jpeg,cc-by-nc,236882307,research,40.2100244675,-3.7741453573,native
-lythrum_tribracteatum_125.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421500015/medium.jpeg,cc-by-nc,236882307,research,40.2100244675,-3.7741453573,native
-lythrum_tribracteatum_126.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421500043/medium.jpeg,cc-by-nc,236882307,research,40.2100244675,-3.7741453573,native
-lythrum_tribracteatum_127.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421131222/medium.jpeg,cc-by-nc,236694283,research,40.2121227214,-3.7529237196,native
-lythrum_tribracteatum_128.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421131243/medium.jpeg,cc-by-nc,236694283,research,40.2121227214,-3.7529237196,native
-lythrum_tribracteatum_129.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421131270/medium.jpeg,cc-by-nc,236694283,research,40.2121227214,-3.7529237196,native
-lythrum_tribracteatum_130.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421131299/medium.jpeg,cc-by-nc,236694283,research,40.2121227214,-3.7529237196,native
-lythrum_tribracteatum_131.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/420417699/medium.jpeg,cc-by-nc,236323396,research,40.2490610604,-3.8006586581,native
-lythrum_tribracteatum_132.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/420417746/medium.jpeg,cc-by-nc,236323396,research,40.2490610604,-3.8006586581,native
-lythrum_tribracteatum_133.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/420417804/medium.jpeg,cc-by-nc,236323396,research,40.2490610604,-3.8006586581,native
-lythrum_tribracteatum_136.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/410598082/medium.jpeg,cc-by,231198476,research,43.76371,3.707145,native
-lythrum_tribracteatum_137.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/410598081/medium.jpeg,cc-by,231198476,research,43.76371,3.707145,native
-lythrum_tribracteatum_138.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/410597957/medium.jpeg,cc-by,231198476,research,43.76371,3.707145,native
-lythrum_tribracteatum_139.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/410598103/medium.jpeg,cc-by,231198476,research,43.76371,3.707145,native
-lythrum_tribracteatum_140.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/409947072/medium.jpeg,cc-by-nc,230857052,research,43.763653,3.707055,native
-lythrum_tribracteatum_141.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/409947031/medium.jpeg,cc-by-nc,230857052,research,43.763653,3.707055,native
-lythrum_tribracteatum_142.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/409947071/medium.jpeg,cc-by-nc,230857052,research,43.763653,3.707055,native
-lythrum_tribracteatum_143.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/409947038/medium.jpeg,cc-by-nc,230857052,research,43.763653,3.707055,native
-lythrum_tribracteatum_144.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/409947037/medium.jpeg,cc-by-nc,230857052,research,43.763653,3.707055,native
-lythrum_tribracteatum_145.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/409829292/medium.jpeg,cc-by-nc,230795099,research,42.4109268859,-122.7645021008,introduced non-invasive
-lythrum_tribracteatum_146.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/409829415/medium.jpeg,cc-by-nc,230795099,research,42.4109268859,-122.7645021008,introduced non-invasive
-lythrum_tribracteatum_147.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/409507650/medium.jpeg,cc-by-nc,230623064,research,43.4524800809,-116.1314521118,introduced non-invasive
-lythrum_tribracteatum_148.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/408267924/medium.jpeg,cc-by-nc,229967128,research,40.2542495556,-3.7659849722,native
-lythrum_tribracteatum_149.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/408267980/medium.jpeg,cc-by-nc,229967128,research,40.2542495556,-3.7659849722,native
-lythrum_tribracteatum_150.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/408268027/medium.jpeg,cc-by-nc,229967128,research,40.2542495556,-3.7659849722,native
-lythrum_tribracteatum_151.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/397967403/medium.jpeg,cc-by-nc,224542023,research,37.49036388,-121.9701248,introduced non-invasive
-lythrum_tribracteatum_152.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/397967395/medium.jpeg,cc-by-nc,224542023,research,37.49036388,-121.9701248,introduced non-invasive
-lythrum_tribracteatum_153.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/397967406/medium.jpeg,cc-by-nc,224542023,research,37.49036388,-121.9701248,introduced non-invasive
-lythrum_tribracteatum_154.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/395401686/medium.jpeg,cc-by-nc,223173995,research,40.2526168611,-3.7690648889,native
-lythrum_tribracteatum_155.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/395401738/medium.jpeg,cc-by-nc,223173995,research,40.2526168611,-3.7690648889,native
-lythrum_tribracteatum_156.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/395401785/medium.jpeg,cc-by-nc,223173995,research,40.2526168611,-3.7690648889,native
-lythrum_tribracteatum_157.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/395401843/medium.jpeg,cc-by-nc,223173995,research,40.2526168611,-3.7690648889,native
-lythrum_tribracteatum_158.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/387631254/medium.jpeg,cc-by-nc,219024482,research,38.3784770986,-121.3531668437,introduced non-invasive
-lythrum_tribracteatum_159.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/387631246/medium.jpeg,cc-by-nc,219024482,research,38.3784770986,-121.3531668437,introduced non-invasive
-lythrum_tribracteatum_160.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/387631236/medium.jpeg,cc-by-nc,219024482,research,38.3784770986,-121.3531668437,introduced non-invasive
-lythrum_tribracteatum_161.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/387631235/medium.jpeg,cc-by-nc,219024482,research,38.3784770986,-121.3531668437,introduced non-invasive
-lythrum_tribracteatum_162.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/387628139/medium.jpeg,cc-by-nc,219024482,research,38.3784770986,-121.3531668437,introduced non-invasive
-lythrum_tribracteatum_163.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/387620724/medium.jpeg,cc-by-nc,219024482,research,38.3784770986,-121.3531668437,introduced non-invasive
-lythrum_tribracteatum_164.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/387620647/medium.jpeg,cc-by-nc,219024482,research,38.3784770986,-121.3531668437,introduced non-invasive
-lythrum_tribracteatum_165.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/387620631/medium.jpeg,cc-by-nc,219024482,research,38.3784770986,-121.3531668437,introduced non-invasive
-lythrum_tribracteatum_166.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/387620733/medium.jpeg,cc-by-nc,219024482,research,38.3784770986,-121.3531668437,introduced non-invasive
-lythrum_tribracteatum_167.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/387620651/medium.jpeg,cc-by-nc,219024482,research,38.3784770986,-121.3531668437,introduced non-invasive
-lythrum_tribracteatum_168.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/387620661/medium.jpeg,cc-by-nc,219024482,research,38.3784770986,-121.3531668437,introduced non-invasive
-lythrum_tribracteatum_169.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/387620673/medium.jpeg,cc-by-nc,219024482,research,38.3784770986,-121.3531668437,introduced non-invasive
-lythrum_tribracteatum_170.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/386208540/medium.jpeg,cc-by-nc,218267310,research,37.5939166774,-121.9564957249,introduced non-invasive
-lythrum_tribracteatum_171.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/386208539/medium.jpeg,cc-by-nc,218267310,research,37.5939166774,-121.9564957249,introduced non-invasive
-lythrum_tribracteatum_172.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/386208546/medium.jpeg,cc-by-nc,218267310,research,37.5939166774,-121.9564957249,introduced non-invasive
-lythrum_tribracteatum_173.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/386208572/medium.jpeg,cc-by-nc,218267310,research,37.5939166774,-121.9564957249,introduced non-invasive
-lythrum_tribracteatum_174.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/386157911/medium.jpg,cc-by-nc,218236671,needs_id,37.4961616667,-121.9637833333,introduced non-invasive
-lythrum_tribracteatum_175.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/386157759/medium.jpg,cc-by-nc,218236580,needs_id,37.4978533333,-121.9616383333,introduced non-invasive
-lythrum_tribracteatum_176.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/385317815/medium.jpeg,cc-by-nc,217793207,research,38.4285722222,-121.9916916667,introduced non-invasive
-lythrum_tribracteatum_177.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/385317813/medium.jpeg,cc-by-nc,217793207,research,38.4285722222,-121.9916916667,introduced non-invasive
-lythrum_tribracteatum_178.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/385317823/medium.jpeg,cc-by-nc,217793207,research,38.4285722222,-121.9916916667,introduced non-invasive
-lythrum_tribracteatum_179.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/385317828/medium.jpeg,cc-by-nc,217793207,research,38.4285722222,-121.9916916667,introduced non-invasive
-lythrum_tribracteatum_180.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/385317804/medium.jpeg,cc-by-nc,217793207,research,38.4285722222,-121.9916916667,introduced non-invasive
-lythrum_tribracteatum_181.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/385317839/medium.jpeg,cc-by-nc,217793207,research,38.4285722222,-121.9916916667,introduced non-invasive
-lythrum_tribracteatum_182.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/385317845/medium.jpeg,cc-by-nc,217793207,research,38.4285722222,-121.9916916667,introduced non-invasive
-lythrum_tribracteatum_183.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/382901749/medium.jpeg,cc-by-nc,216499496,research,40.2097464023,-3.7737923115,native
-lythrum_tribracteatum_184.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/382901784/medium.jpeg,cc-by-nc,216499496,research,40.2097464023,-3.7737923115,native
-lythrum_tribracteatum_185.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/382901818/medium.jpeg,cc-by-nc,216499496,research,40.2097464023,-3.7737923115,native
-lythrum_tribracteatum_186.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/369711643/medium.jpeg,cc-by-nc,208934889,research,47.7059597471,17.9878302573,native
-lythrum_tribracteatum_187.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/369712789/medium.jpeg,cc-by-nc,208934889,research,47.7059597471,17.9878302573,native
-lythrum_tribracteatum_188.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/369712820/medium.jpeg,cc-by-nc,208934889,research,47.7059597471,17.9878302573,native
-lythrum_tribracteatum_189.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/369713300/medium.jpeg,cc-by-nc,208934889,research,47.7059597471,17.9878302573,native
-lythrum_tribracteatum_190.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/369713335/medium.jpeg,cc-by-nc,208934889,research,47.7059597471,17.9878302573,native
-lythrum_tribracteatum_191.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/369713345/medium.jpeg,cc-by-nc,208934889,research,47.7059597471,17.9878302573,native
-lythrum_tribracteatum_192.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/367739681/medium.jpeg,cc-by-nc,207874411,research,44.92405572,34.14898654,native
-lythrum_tribracteatum_193.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/367739702/medium.jpeg,cc-by-nc,207874411,research,44.92405572,34.14898654,native
-lythrum_tribracteatum_194.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/367739648/medium.jpeg,cc-by-nc,207874408,research,44.92435917,34.14788347,native
-lythrum_tribracteatum_195.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/367739650/medium.jpeg,cc-by-nc,207874408,research,44.92435917,34.14788347,native
-lythrum_tribracteatum_196.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/367739634/medium.jpeg,cc-by-nc,207874405,research,44.92436235,34.14760336,native
-lythrum_tribracteatum_197.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/367646150/medium.jpeg,cc-by-nc,207871609,research,44.65183652,33.76382208,native
-lythrum_tribracteatum_198.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/367646184/medium.jpeg,cc-by-nc,207871609,research,44.65183652,33.76382208,native
-lythrum_tribracteatum_199.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/367646185/medium.jpeg,cc-by-nc,207871609,research,44.65183652,33.76382208,native
-lythrum_tribracteatum_200.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/367646188/medium.jpeg,cc-by-nc,207871609,research,44.65183652,33.76382208,native
-lythrum_tribracteatum_201.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/367646226/medium.jpeg,cc-by-nc,207871609,research,44.65183652,33.76382208,native
-lythrum_tribracteatum_202.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/367646228/medium.jpeg,cc-by-nc,207871609,research,44.65183652,33.76382208,native
-lythrum_tribracteatum_203.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/341594867/medium.jpeg,cc-by-nc,194346438,research,43.2924495036,3.461406676,native
-lythrum_tribracteatum_204.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/330330161/medium.jpeg,cc-by-nc,188695774,research,43.5892438781,4.7109882499,native
-lythrum_tribracteatum_205.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/329270340/medium.jpg,cc-by-nc-nd,188177458,research,37.1995710533,-121.878089505,introduced non-invasive
-lythrum_tribracteatum_206.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/329270341/medium.jpg,cc-by-nc-nd,188177458,research,37.1995710533,-121.878089505,introduced non-invasive
-lythrum_tribracteatum_207.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/329270363/medium.jpg,cc-by-nc-nd,188177458,research,37.1995710533,-121.878089505,introduced non-invasive
-lythrum_tribracteatum_208.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/329270375/medium.jpg,cc-by-nc-nd,188177458,research,37.1995710533,-121.878089505,introduced non-invasive
-lythrum_tribracteatum_209.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/329270272/medium.jpg,cc-by-nc-nd,188177458,research,37.1995710533,-121.878089505,introduced non-invasive
-lythrum_tribracteatum_210.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/325791409/medium.jpeg,cc-by-nc,186425909,research,44.9243965,34.1476534,native
-lythrum_tribracteatum_211.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/325792284/medium.jpg,cc-by-nc,186425909,research,44.9243965,34.1476534,native
-lythrum_tribracteatum_212.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/325792293/medium.jpg,cc-by-nc,186425909,research,44.9243965,34.1476534,native
-lythrum_tribracteatum_213.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/325792301/medium.jpg,cc-by-nc,186425909,research,44.9243965,34.1476534,native
-lythrum_tribracteatum_214.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/325792303/medium.jpg,cc-by-nc,186425909,research,44.9243965,34.1476534,native
-lythrum_tribracteatum_215.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/325792313/medium.jpg,cc-by-nc,186425909,research,44.9243965,34.1476534,native
-lythrum_tribracteatum_216.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/325789539/medium.jpeg,cc-by-nc,186424950,research,44.9243694997,34.1478636,native
-lythrum_tribracteatum_217.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/325789569/medium.jpeg,cc-by-nc,186424950,research,44.9243694997,34.1478636,native
-lythrum_tribracteatum_218.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/325789595/medium.jpeg,cc-by-nc,186424950,research,44.9243694997,34.1478636,native
-lythrum_tribracteatum_219.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/315299084/medium.jpeg,cc-by,180956110,research,43.706117,3.793381,native
-lythrum_tribracteatum_220.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/315299023/medium.jpeg,cc-by,180956110,research,43.706117,3.793381,native
-lythrum_tribracteatum_221.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/315299097/medium.jpeg,cc-by,180956110,research,43.706117,3.793381,native
-lythrum_tribracteatum_222.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/314464296/medium.jpeg,cc-by-nc,180522464,research,38.2778639338,-121.8238859361,introduced non-invasive
-lythrum_tribracteatum_223.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/314464361/medium.jpeg,cc-by-nc,180522464,research,38.2778639338,-121.8238859361,introduced non-invasive
-lythrum_tribracteatum_224.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/314464426/medium.jpeg,cc-by-nc,180522464,research,38.2778639338,-121.8238859361,introduced non-invasive
-lythrum_tribracteatum_225.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/314464362/medium.jpeg,cc-by-nc,180522464,research,38.2778639338,-121.8238859361,introduced non-invasive
-lythrum_tribracteatum_226.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/314464442/medium.jpeg,cc-by-nc,180522464,research,38.2778639338,-121.8238859361,introduced non-invasive
-lythrum_tribracteatum_228.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/306907924/medium.jpeg,cc-by-nc,176526868,research,38.1143833333,-122.65117,introduced non-invasive
-lythrum_tribracteatum_229.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/293291332/medium.jpg,cc-by-nc,169185099,research,37.4352239937,-121.9279447429,introduced non-invasive
-lythrum_tribracteatum_230.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/286626053/medium.jpg,cc-by-nc,165575067,research,38.2833216667,-121.453155,introduced non-invasive
-lythrum_tribracteatum_231.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/286626097/medium.jpg,cc-by-nc,165575067,research,38.2833216667,-121.453155,introduced non-invasive
-lythrum_tribracteatum_232.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/286626144/medium.jpg,cc-by-nc,165575067,research,38.2833216667,-121.453155,introduced non-invasive
-lythrum_tribracteatum_233.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/286626203/medium.jpg,cc-by-nc,165575067,research,38.2833216667,-121.453155,introduced non-invasive
-lythrum_tribracteatum_234.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/284198923/medium.jpg,cc-by-nc,164267577,research,38.5563083333,-121.6326666667,introduced non-invasive
-lythrum_tribracteatum_235.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/284198954/medium.jpg,cc-by-nc,164267577,research,38.5563083333,-121.6326666667,introduced non-invasive
-lythrum_tribracteatum_236.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/282819341/medium.jpeg,cc-by-nc,163515676,research,37.2727305556,-120.9040361111,introduced non-invasive
-lythrum_tribracteatum_237.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/282819318/medium.jpg,cc-by-nc,163515676,research,37.2727305556,-120.9040361111,introduced non-invasive
-lythrum_tribracteatum_238.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/282819340/medium.jpg,cc-by-nc,163515676,research,37.2727305556,-120.9040361111,introduced non-invasive
-lythrum_tribracteatum_239.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/282819345/medium.jpg,cc-by-nc,163515676,research,37.2727305556,-120.9040361111,introduced non-invasive
-lythrum_tribracteatum_240.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/280515138/medium.jpg,cc-by-nc,162240565,research,38.4374866667,-121.4353866667,introduced non-invasive
-lythrum_tribracteatum_241.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/280515178/medium.jpg,cc-by-nc,162240565,research,38.4374866667,-121.4353866667,introduced non-invasive
-lythrum_tribracteatum_242.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/280515223/medium.jpg,cc-by-nc,162240565,research,38.4374866667,-121.4353866667,introduced non-invasive
-lythrum_tribracteatum_243.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/280515254/medium.jpg,cc-by-nc,162240565,research,38.4374866667,-121.4353866667,introduced non-invasive
-lythrum_tribracteatum_244.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/271028727/medium.jpeg,cc-by-nc,156721503,research,32.0358772589,34.9516655697,native
-lythrum_tribracteatum_245.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/271028834/medium.jpeg,cc-by-nc,156721503,research,32.0358772589,34.9516655697,native
-lythrum_tribracteatum_246.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/239647617/medium.jpeg,cc-by-nc,140040160,research,43.4682416667,3.6587983333,native
-lythrum_tribracteatum_247.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/239647608/medium.jpeg,cc-by-nc,140040160,research,43.4682416667,3.6587983333,native
-lythrum_tribracteatum_248.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/239647602/medium.jpeg,cc-by-nc,140040160,research,43.4682416667,3.6587983333,native
-lythrum_tribracteatum_249.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/239647598/medium.jpeg,cc-by-nc,140040160,research,43.4682416667,3.6587983333,native
-lythrum_tribracteatum_250.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/239647591/medium.jpeg,cc-by-nc,140040160,research,43.4682416667,3.6587983333,native
-lythrum_tribracteatum_251.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/239647584/medium.jpeg,cc-by-nc,140040160,research,43.4682416667,3.6587983333,native
-lythrum_tribracteatum_252.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/226901851/medium.jpeg,cc-by-nc,133230110,research,43.4681816458,3.6587434746,native
-lythrum_tribracteatum_253.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/226901887/medium.jpeg,cc-by-nc,133230110,research,43.4681816458,3.6587434746,native
-lythrum_tribracteatum_254.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/226901909/medium.jpeg,cc-by-nc,133230110,research,43.4681816458,3.6587434746,native
-lythrum_tribracteatum_255.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/226901931/medium.jpeg,cc-by-nc,133230110,research,43.4681816458,3.6587434746,native
-lythrum_tribracteatum_256.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/226901945/medium.jpg,cc-by-nc,133230110,research,43.4681816458,3.6587434746,native
-lythrum_tribracteatum_257.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/214903695/medium.jpeg,cc-by-nc,126644248,research,49.1443771055,33.6760766716,native
-lythrum_tribracteatum_258.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/214904374/medium.jpeg,cc-by-nc,126644248,research,49.1443771055,33.6760766716,native
-lythrum_tribracteatum_259.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/206333192/medium.jpeg,cc-by-nc,121905194,research,32.4151410996,34.8982086936,native
-lythrum_tribracteatum_260.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/206333202/medium.jpeg,cc-by-nc,121905194,research,32.4151410996,34.8982086936,native
-lythrum_tribracteatum_261.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/206333163/medium.jpeg,cc-by-nc,121905190,research,32.4133558234,34.9008315473,native
-lythrum_tribracteatum_262.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/206333175/medium.jpeg,cc-by-nc,121905190,research,32.4133558234,34.9008315473,native
-lythrum_tribracteatum_264.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/187625702/medium.jpg,cc-by-nc,111163044,research,38.4354633333,-121.4191883333,introduced non-invasive
-lythrum_tribracteatum_265.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/187625724/medium.jpg,cc-by-nc,111163044,research,38.4354633333,-121.4191883333,introduced non-invasive
-lythrum_tribracteatum_266.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/187625742/medium.jpg,cc-by-nc,111163044,research,38.4354633333,-121.4191883333,introduced non-invasive
-lythrum_tribracteatum_267.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/174178526/medium.jpg,cc-by-nc,103990944,research,41.4923883333,-120.4833366667,introduced non-invasive
-lythrum_tribracteatum_268.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/174178572/medium.jpg,cc-by-nc,103990944,research,41.4923883333,-120.4833366667,introduced non-invasive
-lythrum_tribracteatum_269.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/159982805/medium.jpeg,cc-by-nc,96310200,research,38.5146704,-122.1925195,introduced non-invasive
-lythrum_tribracteatum_270.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/159982833/medium.jpeg,cc-by-nc,96310200,research,38.5146704,-122.1925195,introduced non-invasive
-lythrum_tribracteatum_271.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/159326894/medium.jpeg,cc-by-nc,95936473,research,43.705952,3.781659,native
-lythrum_tribracteatum_272.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/159326902/medium.jpeg,cc-by-nc,95936473,research,43.705952,3.781659,native
-lythrum_tribracteatum_273.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/159326883/medium.jpeg,cc-by-nc,95936473,research,43.705952,3.781659,native
-lythrum_tribracteatum_274.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/159326877/medium.jpeg,cc-by-nc,95936473,research,43.705952,3.781659,native
-lythrum_tribracteatum_275.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/159326872/medium.jpeg,cc-by-nc,95936473,research,43.705952,3.781659,native
-lythrum_tribracteatum_276.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/159326863/medium.jpeg,cc-by-nc,95936473,research,43.705952,3.781659,native
-lythrum_tribracteatum_277.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/159326910/medium.jpeg,cc-by-nc,95936473,research,43.705952,3.781659,native
-lythrum_tribracteatum_278.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/154120736/medium.jpeg,cc-by-nc,93032132,research,43.269435,3.225202,native
-lythrum_tribracteatum_279.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/154120746/medium.jpeg,cc-by-nc,93032132,research,43.269435,3.225202,native
-lythrum_tribracteatum_280.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/154120723/medium.jpeg,cc-by-nc,93032132,research,43.269435,3.225202,native
-lythrum_tribracteatum_281.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/154120760/medium.jpeg,cc-by-nc,93032132,research,43.269435,3.225202,native
-lythrum_tribracteatum_282.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/154120715/medium.jpeg,cc-by-nc,93032132,research,43.269435,3.225202,native
-lythrum_tribracteatum_283.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/144187002/medium.jpg,cc-by,87453008,research,37.9088383333,-122.225425,introduced non-invasive
-lythrum_tribracteatum_284.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/144186923/medium.jpg,cc-by,87453008,research,37.9088383333,-122.225425,introduced non-invasive
-lythrum_tribracteatum_285.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/140251843/medium.jpeg,cc-by,85260535,research,43.7688683333,3.7226683333,native
-lythrum_tribracteatum_286.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/140251809/medium.jpeg,cc-by,85260535,research,43.7688683333,3.7226683333,native
-lythrum_tribracteatum_287.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/140251887/medium.jpeg,cc-by,85260535,research,43.7688683333,3.7226683333,native
-lythrum_tribracteatum_288.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/139588801/medium.jpeg,cc-by-nc-sa,84894288,research,43.2956335877,3.395087374,native
-lythrum_tribracteatum_289.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/139588821/medium.jpeg,cc-by-nc-sa,84894288,research,43.2956335877,3.395087374,native
-lythrum_tribracteatum_290.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/139588826/medium.jpeg,cc-by-nc-sa,84894288,research,43.2956335877,3.395087374,native
-lythrum_tribracteatum_291.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/139588840/medium.jpeg,cc-by-nc-sa,84894288,research,43.2956335877,3.395087374,native
-lythrum_tribracteatum_292.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/139588841/medium.jpeg,cc-by-nc-sa,84894288,research,43.2956335877,3.395087374,native
-lythrum_tribracteatum_294.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/135101156/medium.jpg,cc-by-nc,82323920,research,33.7736111111,-117.1995805556,introduced non-invasive
-lythrum_tribracteatum_295.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/135101181/medium.jpg,cc-by-nc,82323920,research,33.7736111111,-117.1995805556,introduced non-invasive
-lythrum_tribracteatum_296.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/129191305/medium.jpg,cc-by,78909852,research,39.4297983,-122.1862251,introduced non-invasive
-lythrum_tribracteatum_297.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/129191307/medium.jpg,cc-by,78909852,research,39.4297983,-122.1862251,introduced non-invasive
-lythrum_tribracteatum_298.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/129191313/medium.jpg,cc-by,78909852,research,39.4297983,-122.1862251,introduced non-invasive
-lythrum_tribracteatum_299.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/129191338/medium.jpg,cc-by,78909852,research,39.4297983,-122.1862251,introduced non-invasive
-lythrum_tribracteatum_300.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/125359061/medium.jpeg,cc-by-nc,76647404,research,32.4107756701,34.9004730676,native
-lythrum_tribracteatum_301.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/125359109/medium.jpeg,cc-by-nc,76647404,research,32.4107756701,34.9004730676,native
-lythrum_tribracteatum_302.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/123994908/medium.jpeg,cc-by-nc,75772859,research,31.8972396276,34.7593629599,native
-lythrum_tribracteatum_303.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/123996108/medium.jpeg,cc-by-nc,75772859,research,31.8972396276,34.7593629599,native
-lythrum_tribracteatum_304.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/107935802/medium.jpeg,cc-by-nc,66890248,research,38.2253991361,-122.5860778289,introduced non-invasive
-lythrum_tribracteatum_313.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/76158479/medium.jpeg,cc-by-nc,48013334,research,32.5267592004,34.9194589691,native
-lythrum_tribracteatum_314.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/76158491/medium.jpeg,cc-by-nc,48013334,research,32.5267592004,34.9194589691,native
-lythrum_tribracteatum_315.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/74654702/medium.jpg,cc-by-nc,47071869,research,38.53124167,-121.62312167,introduced non-invasive
-lythrum_tribracteatum_316.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/66110631/medium.jpeg,cc-by-nc,41671492,research,49.1433992873,33.6731708776,native
-lythrum_tribracteatum_317.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/66110703/medium.jpeg,cc-by-nc,41671492,research,49.1433992873,33.6731708776,native
-lythrum_tribracteatum_318.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/66110711/medium.jpeg,cc-by-nc,41671492,research,49.1433992873,33.6731708776,native
-lythrum_tribracteatum_319.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/66110715/medium.jpeg,cc-by-nc,41671492,research,49.1433992873,33.6731708776,native
-lythrum_tribracteatum_320.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/66110718/medium.jpeg,cc-by-nc,41671492,research,49.1433992873,33.6731708776,native
-lythrum_tribracteatum_321.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/40984796/medium.jpeg,cc0,26395459,research,38.2901616667,-121.79819,introduced non-invasive
-lythrum_tribracteatum_322.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/40984800/medium.jpeg,cc0,26395459,research,38.2901616667,-121.79819,introduced non-invasive
-lythrum_tribracteatum_323.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/40984804/medium.jpeg,cc0,26395459,research,38.2901616667,-121.79819,introduced non-invasive
-lythrum_tribracteatum_324.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/40984807/medium.jpeg,cc0,26395459,research,38.2901616667,-121.79819,introduced non-invasive
-lythrum_tribracteatum_325.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/40984814/medium.jpeg,cc0,26395459,research,38.2901616667,-121.79819,introduced non-invasive
-lythrum_tribracteatum_326.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/40354701/medium.jpeg,cc-by-nc,26013745,research,43.4938480556,4.6753530556,native
-lythrum_tribracteatum_327.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/40354810/medium.jpeg,cc-by-nc,26013745,research,43.4938480556,4.6753530556,native
-lythrum_tribracteatum_337.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/20713830/medium.jpeg,cc-by-nc,14004228,research,37.4905548096,-121.9619445801,introduced non-invasive
-lythrum_tribracteatum_338.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/20713833/medium.jpg,cc-by-nc,14004228,research,37.4905548096,-121.9619445801,introduced non-invasive
-lythrum_tribracteatum_339.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/20713844/medium.jpeg,cc-by-nc,14004228,research,37.4905548096,-121.9619445801,introduced non-invasive
-lythrum_tribracteatum_342.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/11618449/medium.jpeg,cc-by-nc,8672299,research,33.186446,-115.58719,introduced non-invasive
-lythrum_tribracteatum_343.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/11618461/medium.jpeg,cc-by-nc,8672299,research,33.186446,-115.58719,introduced non-invasive
-lythrum_tribracteatum_344.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/11618485/medium.jpeg,cc-by-nc,8672299,research,33.186446,-115.58719,introduced non-invasive
-lythrum_tribracteatum_345.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/11618510/medium.jpeg,cc-by-nc,8672299,research,33.186446,-115.58719,introduced non-invasive
-lythrum_tribracteatum_350.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/9012459/medium.jpg,cc-by-nc,7027176,research,42.4097222222,-122.7736111111,introduced non-invasive
-lythrum_tribracteatum_351.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/9003400/medium.jpg,cc-by-nc,7021315,research,42.1433333333,-122.5858333333,introduced non-invasive
-lythrum_tribracteatum_352.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/9003401/medium.jpg,cc-by-nc,7021315,research,42.1433333333,-122.5858333333,introduced non-invasive
-lythrum_tribracteatum_353.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/9003403/medium.jpg,cc-by-nc,7021315,research,42.1433333333,-122.5858333333,introduced non-invasive
-lythrum_tribracteatum_354.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/9003245/medium.jpg,cc-by-nc,7021062,research,42.1433333333,-122.6208333333,introduced non-invasive
-lythrum_tribracteatum_355.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/9003247/medium.jpg,cc-by-nc,7021062,research,42.1433333333,-122.6208333333,introduced non-invasive
-lythrum_tribracteatum_356.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/9003250/medium.jpg,cc-by-nc,7021062,research,42.1433333333,-122.6208333333,introduced non-invasive
-lythrum_tribracteatum_357.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/9003252/medium.jpg,cc-by-nc,7021062,research,42.1433333333,-122.6208333333,introduced non-invasive
-lythrum_tribracteatum_360.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/7330983/medium.jpg,cc-by-nc,5882440,research,42.1394444444,-122.6205555556,introduced non-invasive
-lythrum_tribracteatum_361.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/7330985/medium.jpg,cc-by-nc,5882440,research,42.1394444444,-122.6205555556,introduced non-invasive
-lythrum_tribracteatum_362.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/7330988/medium.jpg,cc-by-nc,5882440,research,42.1394444444,-122.6205555556,introduced non-invasive
+lythrum_tribracteatum_001.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/522790916/medium.jpg,cc-by-nc,290600649,research,42.14372,-122.61968,Non Invasive
+lythrum_tribracteatum_002.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/522790944/medium.jpg,cc-by-nc,290600649,research,42.14372,-122.61968,Non Invasive
+lythrum_tribracteatum_003.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/522790918/medium.jpg,cc-by-nc,290600649,research,42.14372,-122.61968,Non Invasive
+lythrum_tribracteatum_004.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/522790929/medium.jpg,cc-by-nc,290600649,research,42.14372,-122.61968,Non Invasive
+lythrum_tribracteatum_005.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/522790940/medium.jpg,cc-by-nc,290600649,research,42.14372,-122.61968,Non Invasive
+lythrum_tribracteatum_006.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/522790927/medium.jpg,cc-by-nc,290600649,research,42.14372,-122.61968,Non Invasive
+lythrum_tribracteatum_007.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/522790936/medium.jpg,cc-by-nc,290600649,research,42.14372,-122.61968,Non Invasive
+lythrum_tribracteatum_008.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/522790928/medium.jpg,cc-by-nc,290600649,research,42.14372,-122.61968,Non Invasive
+lythrum_tribracteatum_009.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/522727440/medium.jpg,cc-by-nc,290561562,needs_id,43.7759611111,-118.0475833333,Non Invasive
+lythrum_tribracteatum_010.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/522727501/medium.jpg,cc-by-nc,290561562,needs_id,43.7759611111,-118.0475833333,Non Invasive
+lythrum_tribracteatum_011.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/522727540/medium.jpg,cc-by-nc,290561562,needs_id,43.7759611111,-118.0475833333,Non Invasive
+lythrum_tribracteatum_012.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/522730062/medium.jpg,cc-by-nc,290561562,needs_id,43.7759611111,-118.0475833333,Non Invasive
+lythrum_tribracteatum_013.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/522730125/medium.jpg,cc-by-nc,290561562,needs_id,43.7759611111,-118.0475833333,Non Invasive
+lythrum_tribracteatum_014.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/522730208/medium.jpg,cc-by-nc,290561562,needs_id,43.7759611111,-118.0475833333,Non Invasive
+lythrum_tribracteatum_015.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/521484340/medium.jpg,cc-by-nc,289916178,needs_id,43.453212378,-116.1328194644,Non Invasive
+lythrum_tribracteatum_016.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/516293235/medium.jpg,cc-by-nc,287151067,needs_id,37.2191283333,-8.0480616667,Non Invasive
+lythrum_tribracteatum_017.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/516293288/medium.jpg,cc-by-nc,287151067,needs_id,37.2191283333,-8.0480616667,Non Invasive
+lythrum_tribracteatum_018.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/515568230/medium.jpg,cc-by-nc,286763828,needs_id,43.49620901,4.67608746,Non Invasive
+lythrum_tribracteatum_019.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/515568228/medium.jpg,cc-by-nc,286763828,needs_id,43.49620901,4.67608746,Non Invasive
+lythrum_tribracteatum_020.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/515568218/medium.jpg,cc-by-nc,286763828,needs_id,43.49620901,4.67608746,Non Invasive
+lythrum_tribracteatum_021.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/515568240/medium.jpg,cc-by-nc,286763828,needs_id,43.49620901,4.67608746,Non Invasive
+lythrum_tribracteatum_022.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/514154648/medium.jpg,cc-by,286028175,needs_id,38.5636194444,-121.6344111111,Non Invasive
+lythrum_tribracteatum_023.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/514154685/medium.jpg,cc-by,286028175,needs_id,38.5636194444,-121.6344111111,Non Invasive
+lythrum_tribracteatum_024.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/514042690/medium.jpg,cc-by,286004741,needs_id,32.4112587425,34.9007722993,Non Invasive
+lythrum_tribracteatum_025.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/514042704/medium.jpg,cc-by,286004741,needs_id,32.4112587425,34.9007722993,Non Invasive
+lythrum_tribracteatum_026.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/514042763/medium.jpg,cc-by,286004741,needs_id,32.4112587425,34.9007722993,Non Invasive
+lythrum_tribracteatum_027.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513566021/medium.jpg,cc-by-nc,285715656,needs_id,43.496185,4.6761516667,Non Invasive
+lythrum_tribracteatum_028.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513565981/medium.jpg,cc-by-nc,285715656,needs_id,43.496185,4.6761516667,Non Invasive
+lythrum_tribracteatum_029.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513566016/medium.jpg,cc-by-nc,285715656,needs_id,43.496185,4.6761516667,Non Invasive
+lythrum_tribracteatum_030.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513566036/medium.jpg,cc-by-nc,285715656,needs_id,43.496185,4.6761516667,Non Invasive
+lythrum_tribracteatum_031.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513565964/medium.jpg,cc-by-nc,285715656,needs_id,43.496185,4.6761516667,Non Invasive
+lythrum_tribracteatum_032.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513565965/medium.jpg,cc-by-nc,285715656,needs_id,43.496185,4.6761516667,Non Invasive
+lythrum_tribracteatum_033.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513565941/medium.jpg,cc-by-nc,285715656,needs_id,43.496185,4.6761516667,Non Invasive
+lythrum_tribracteatum_034.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513565931/medium.jpg,cc-by-nc,285715656,needs_id,43.496185,4.6761516667,Non Invasive
+lythrum_tribracteatum_035.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513565884/medium.jpg,cc-by-nc,285715656,needs_id,43.496185,4.6761516667,Non Invasive
+lythrum_tribracteatum_036.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513565865/medium.jpg,cc-by-nc,285715656,needs_id,43.496185,4.6761516667,Non Invasive
+lythrum_tribracteatum_037.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/515737100/medium.jpg,cc-by,285663900,needs_id,43.4958457833,4.67524495,Non Invasive
+lythrum_tribracteatum_038.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/515737583/medium.jpg,cc-by,285663900,needs_id,43.4958457833,4.67524495,Non Invasive
+lythrum_tribracteatum_039.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513474044/medium.jpg,cc-by,285663900,needs_id,43.4958457833,4.67524495,Non Invasive
+lythrum_tribracteatum_040.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513865598/medium.jpg,cc-by-nc,285566058,needs_id,43.49649641,4.67674336,Non Invasive
+lythrum_tribracteatum_041.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513865608/medium.jpg,cc-by-nc,285566058,needs_id,43.49649641,4.67674336,Non Invasive
+lythrum_tribracteatum_042.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513865621/medium.jpg,cc-by-nc,285566058,needs_id,43.49649641,4.67674336,Non Invasive
+lythrum_tribracteatum_043.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513082084/medium.jpg,cc-by-nc,285450891,needs_id,38.41631702,-121.49360597,Non Invasive
+lythrum_tribracteatum_044.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/513082153/medium.jpg,cc-by-nc,285450891,needs_id,38.41631702,-121.49360597,Non Invasive
+lythrum_tribracteatum_045.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/511107428/medium.jpg,cc-by-nc,284400753,needs_id,38.5620583333,-121.6307533333,Non Invasive
+lythrum_tribracteatum_046.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/511107581/medium.jpg,cc-by-nc,284400753,needs_id,38.5620583333,-121.6307533333,Non Invasive
+lythrum_tribracteatum_047.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/507869214/medium.jpg,cc-by-nc,282672358,needs_id,38.5902996252,-121.6318870892,Non Invasive
+lythrum_tribracteatum_048.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/506742644/medium.jpg,cc-by-nc-nd,282067511,needs_id,45.17284467,68.26598422,Non Invasive
+lythrum_tribracteatum_049.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/505113491/medium.jpg,cc-by-nc,281195830,research,38.2684833333,-121.4236,Non Invasive
+lythrum_tribracteatum_050.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/505113513/medium.jpg,cc-by-nc,281195830,research,38.2684833333,-121.4236,Non Invasive
+lythrum_tribracteatum_051.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/505113529/medium.jpg,cc-by-nc,281195830,research,38.2684833333,-121.4236,Non Invasive
+lythrum_tribracteatum_052.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/505113567/medium.jpg,cc-by-nc,281195830,research,38.2684833333,-121.4236,Non Invasive
+lythrum_tribracteatum_053.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/501338246/medium.jpeg,cc-by-nc,279189419,needs_id,38.7056133333,1.4382083333,Non Invasive
+lythrum_tribracteatum_054.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/501338286/medium.jpeg,cc-by-nc,279189419,needs_id,38.7056133333,1.4382083333,Non Invasive
+lythrum_tribracteatum_055.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/500358588/medium.jpeg,cc-by-nc,278657883,research,37.4891128,-121.96116526,Non Invasive
+lythrum_tribracteatum_056.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/500358612/medium.jpeg,cc-by-nc,278657883,research,37.4891128,-121.96116526,Non Invasive
+lythrum_tribracteatum_057.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/500358629/medium.jpeg,cc-by-nc,278657883,research,37.4891128,-121.96116526,Non Invasive
+lythrum_tribracteatum_058.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/500358653/medium.jpeg,cc-by-nc,278657883,research,37.4891128,-121.96116526,Non Invasive
+lythrum_tribracteatum_059.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/466127768/medium.jpeg,cc-by-nc,259642229,research,43.7635706176,3.707156076,Non Invasive
+lythrum_tribracteatum_060.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/466127782/medium.jpeg,cc-by-nc,259642229,research,43.7635706176,3.707156076,Non Invasive
+lythrum_tribracteatum_061.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/466127784/medium.jpeg,cc-by-nc,259642229,research,43.7635706176,3.707156076,Non Invasive
+lythrum_tribracteatum_062.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/466127792/medium.jpeg,cc-by-nc,259642229,research,43.7635706176,3.707156076,Non Invasive
+lythrum_tribracteatum_063.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/466127809/medium.jpeg,cc-by-nc,259642229,research,43.7635706176,3.707156076,Non Invasive
+lythrum_tribracteatum_064.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/464996702/medium.jpeg,cc-by-nc,259084380,research,43.2917763172,3.4616732723,Non Invasive
+lythrum_tribracteatum_065.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/460924591/medium.jpeg,cc-by,256997501,research,37.1288083333,-8.45259,Non Invasive
+lythrum_tribracteatum_066.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/460910683/medium.jpeg,cc-by,256990454,research,37.1288383333,-8.4526316667,Non Invasive
+lythrum_tribracteatum_067.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/460910686/medium.jpeg,cc-by,256990454,research,37.1288383333,-8.4526316667,Non Invasive
+lythrum_tribracteatum_068.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/460910718/medium.jpeg,cc-by,256990454,research,37.1288383333,-8.4526316667,Non Invasive
+lythrum_tribracteatum_069.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/460907937/medium.jpeg,cc-by,256989316,research,37.128225,-8.4515233333,Non Invasive
+lythrum_tribracteatum_070.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/457723784/medium.jpg,cc-by-nc,255412968,research,41.1706813457,-0.0303377542,Non Invasive
+lythrum_tribracteatum_071.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/454522773/medium.jpg,cc-by-nc,253807407,needs_id,46.765,19.105,Non Invasive
+lythrum_tribracteatum_072.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/450727050/medium.jpg,cc-by-nc,251854534,needs_id,38.5610432154,-121.6326444349,Non Invasive
+lythrum_tribracteatum_073.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/450727121/medium.jpg,cc-by-nc,251854534,needs_id,38.5610432154,-121.6326444349,Non Invasive
+lythrum_tribracteatum_074.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/450675503/medium.jpg,cc-by-nc,251853298,research,38.5610432154,-121.6326444349,Non Invasive
+lythrum_tribracteatum_075.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/436299256/medium.jpeg,cc-by-nc,244584312,needs_id,39.6369361111,-3.4093027778,Non Invasive
+lythrum_tribracteatum_076.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/436300055/medium.jpeg,cc-by-nc,244584312,needs_id,39.6369361111,-3.4093027778,Non Invasive
+lythrum_tribracteatum_077.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/436300093/medium.jpeg,cc-by-nc,244584312,needs_id,39.6369361111,-3.4093027778,Non Invasive
+lythrum_tribracteatum_078.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/436300135/medium.jpeg,cc-by-nc,244584312,needs_id,39.6369361111,-3.4093027778,Non Invasive
+lythrum_tribracteatum_079.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/436300184/medium.jpeg,cc-by-nc,244584312,needs_id,39.6369361111,-3.4093027778,Non Invasive
+lythrum_tribracteatum_080.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/435548633/medium.jpeg,cc-by-nc,244191228,needs_id,43.2929222761,3.462719239,Non Invasive
+lythrum_tribracteatum_081.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/434671272/medium.jpeg,cc-by,243743677,research,43.7636316667,3.7069416667,Non Invasive
+lythrum_tribracteatum_082.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/434671274/medium.jpeg,cc-by,243743677,research,43.7636316667,3.7069416667,Non Invasive
+lythrum_tribracteatum_083.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/434671273/medium.jpeg,cc-by,243743677,research,43.7636316667,3.7069416667,Non Invasive
+lythrum_tribracteatum_084.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/434328738/medium.jpeg,cc-by,243568196,research,43.4681966667,3.65875,Non Invasive
+lythrum_tribracteatum_085.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/434328747/medium.jpeg,cc-by,243568196,research,43.4681966667,3.65875,Non Invasive
+lythrum_tribracteatum_086.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/434328746/medium.jpeg,cc-by,243568196,research,43.4681966667,3.65875,Non Invasive
+lythrum_tribracteatum_087.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/433407374/medium.jpeg,cc-by-nc,243081590,research,32.2921993892,34.8477151191,Non Invasive
+lythrum_tribracteatum_088.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/432189886/medium.jpeg,cc-by,242419548,research,43.733949974,-118.456312297,Non Invasive
+lythrum_tribracteatum_089.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/432189904/medium.jpeg,cc-by,242419548,research,43.733949974,-118.456312297,Non Invasive
+lythrum_tribracteatum_090.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/432189917/medium.jpeg,cc-by,242419548,research,43.733949974,-118.456312297,Non Invasive
+lythrum_tribracteatum_091.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/432189929/medium.jpeg,cc-by,242419548,research,43.733949974,-118.456312297,Non Invasive
+lythrum_tribracteatum_092.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/432189936/medium.jpeg,cc-by,242419548,research,43.733949974,-118.456312297,Non Invasive
+lythrum_tribracteatum_093.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/432189928/medium.jpeg,cc-by,242419548,research,43.733949974,-118.456312297,Non Invasive
+lythrum_tribracteatum_094.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/432189924/medium.jpeg,cc-by,242419548,research,43.733949974,-118.456312297,Non Invasive
+lythrum_tribracteatum_095.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/428111740/medium.jpeg,cc-by,240308882,research,43.7062383333,3.7933033333,Non Invasive
+lythrum_tribracteatum_096.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/428111762/medium.jpeg,cc-by,240308882,research,43.7062383333,3.7933033333,Non Invasive
+lythrum_tribracteatum_097.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/428111735/medium.jpeg,cc-by,240308882,research,43.7062383333,3.7933033333,Non Invasive
+lythrum_tribracteatum_098.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/428111736/medium.jpeg,cc-by,240308882,research,43.7062383333,3.7933033333,Non Invasive
+lythrum_tribracteatum_099.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/425382242/medium.jpeg,cc-by-nc,238893941,research,,,Non Invasive
+lythrum_tribracteatum_100.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/424830569/medium.jpeg,cc-by-nc,238610884,research,43.0316166667,-115.3103333333,Non Invasive
+lythrum_tribracteatum_101.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/424830648/medium.jpeg,cc-by-nc,238610884,research,43.0316166667,-115.3103333333,Non Invasive
+lythrum_tribracteatum_102.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/424830709/medium.jpeg,cc-by-nc,238610884,research,43.0316166667,-115.3103333333,Non Invasive
+lythrum_tribracteatum_103.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/424830820/medium.jpeg,cc-by-nc,238610884,research,43.0316166667,-115.3103333333,Non Invasive
+lythrum_tribracteatum_104.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/424746770/medium.jpeg,cc-by-nc,238567013,research,43.76360084,3.70715,Non Invasive
+lythrum_tribracteatum_105.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/424746772/medium.jpeg,cc-by-nc,238567013,research,43.76360084,3.70715,Non Invasive
+lythrum_tribracteatum_106.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/424746787/medium.jpeg,cc-by-nc,238567013,research,43.76360084,3.70715,Non Invasive
+lythrum_tribracteatum_107.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/423029881/medium.jpg,cc-by-nc,237680320,research,33.1316021975,35.6488571816,Non Invasive
+lythrum_tribracteatum_108.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/423029889/medium.jpg,cc-by-nc,237680320,research,33.1316021975,35.6488571816,Non Invasive
+lythrum_tribracteatum_109.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/423029883/medium.jpg,cc-by-nc,237680320,research,33.1316021975,35.6488571816,Non Invasive
+lythrum_tribracteatum_110.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/422857366/medium.jpeg,cc-by-nc,237587551,research,37.9157944444,-122.2321944444,Non Invasive
+lythrum_tribracteatum_111.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/422857349/medium.jpeg,cc-by-nc,237587551,research,37.9157944444,-122.2321944444,Non Invasive
+lythrum_tribracteatum_112.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/422857352/medium.jpeg,cc-by-nc,237587551,research,37.9157944444,-122.2321944444,Non Invasive
+lythrum_tribracteatum_113.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/422857353/medium.jpeg,cc-by-nc,237587551,research,37.9157944444,-122.2321944444,Non Invasive
+lythrum_tribracteatum_114.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421500407/medium.jpeg,cc-by-nc,236882523,research,40.210597237,-3.774262704,Non Invasive
+lythrum_tribracteatum_115.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421500429/medium.jpeg,cc-by-nc,236882523,research,40.210597237,-3.774262704,Non Invasive
+lythrum_tribracteatum_116.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421500450/medium.jpeg,cc-by-nc,236882523,research,40.210597237,-3.774262704,Non Invasive
+lythrum_tribracteatum_117.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421500469/medium.jpeg,cc-by-nc,236882523,research,40.210597237,-3.774262704,Non Invasive
+lythrum_tribracteatum_118.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421500486/medium.jpeg,cc-by-nc,236882523,research,40.210597237,-3.774262704,Non Invasive
+lythrum_tribracteatum_119.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421500504/medium.jpeg,cc-by-nc,236882523,research,40.210597237,-3.774262704,Non Invasive
+lythrum_tribracteatum_120.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421500524/medium.jpeg,cc-by-nc,236882523,research,40.210597237,-3.774262704,Non Invasive
+lythrum_tribracteatum_121.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421499910/medium.jpeg,cc-by-nc,236882307,research,40.2100244675,-3.7741453573,Non Invasive
+lythrum_tribracteatum_122.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421499940/medium.jpeg,cc-by-nc,236882307,research,40.2100244675,-3.7741453573,Non Invasive
+lythrum_tribracteatum_123.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421499960/medium.jpeg,cc-by-nc,236882307,research,40.2100244675,-3.7741453573,Non Invasive
+lythrum_tribracteatum_124.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421499983/medium.jpeg,cc-by-nc,236882307,research,40.2100244675,-3.7741453573,Non Invasive
+lythrum_tribracteatum_125.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421500015/medium.jpeg,cc-by-nc,236882307,research,40.2100244675,-3.7741453573,Non Invasive
+lythrum_tribracteatum_126.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421500043/medium.jpeg,cc-by-nc,236882307,research,40.2100244675,-3.7741453573,Non Invasive
+lythrum_tribracteatum_127.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421131222/medium.jpeg,cc-by-nc,236694283,research,40.2121227214,-3.7529237196,Non Invasive
+lythrum_tribracteatum_128.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421131243/medium.jpeg,cc-by-nc,236694283,research,40.2121227214,-3.7529237196,Non Invasive
+lythrum_tribracteatum_129.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421131270/medium.jpeg,cc-by-nc,236694283,research,40.2121227214,-3.7529237196,Non Invasive
+lythrum_tribracteatum_130.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/421131299/medium.jpeg,cc-by-nc,236694283,research,40.2121227214,-3.7529237196,Non Invasive
+lythrum_tribracteatum_131.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/420417699/medium.jpeg,cc-by-nc,236323396,research,40.2490610604,-3.8006586581,Non Invasive
+lythrum_tribracteatum_132.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/420417746/medium.jpeg,cc-by-nc,236323396,research,40.2490610604,-3.8006586581,Non Invasive
+lythrum_tribracteatum_133.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/420417804/medium.jpeg,cc-by-nc,236323396,research,40.2490610604,-3.8006586581,Non Invasive
+lythrum_tribracteatum_134.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/417533746/medium.jpg,cc-by-nc,234824422,research,32.7310897801,35.0944459917,Non Invasive
+lythrum_tribracteatum_135.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/418137460/medium.jpg,cc-by-nc,234824422,research,32.7310897801,35.0944459917,Non Invasive
+lythrum_tribracteatum_136.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/410598082/medium.jpeg,cc-by,231198476,research,43.76371,3.707145,Non Invasive
+lythrum_tribracteatum_137.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/410598081/medium.jpeg,cc-by,231198476,research,43.76371,3.707145,Non Invasive
+lythrum_tribracteatum_138.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/410597957/medium.jpeg,cc-by,231198476,research,43.76371,3.707145,Non Invasive
+lythrum_tribracteatum_139.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/410598103/medium.jpeg,cc-by,231198476,research,43.76371,3.707145,Non Invasive
+lythrum_tribracteatum_140.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/409947072/medium.jpeg,cc-by-nc,230857052,research,43.763653,3.707055,Non Invasive
+lythrum_tribracteatum_141.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/409947031/medium.jpeg,cc-by-nc,230857052,research,43.763653,3.707055,Non Invasive
+lythrum_tribracteatum_142.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/409947071/medium.jpeg,cc-by-nc,230857052,research,43.763653,3.707055,Non Invasive
+lythrum_tribracteatum_143.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/409947038/medium.jpeg,cc-by-nc,230857052,research,43.763653,3.707055,Non Invasive
+lythrum_tribracteatum_144.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/409947037/medium.jpeg,cc-by-nc,230857052,research,43.763653,3.707055,Non Invasive
+lythrum_tribracteatum_145.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/409829292/medium.jpeg,cc-by-nc,230795099,research,42.4109268859,-122.7645021008,Non Invasive
+lythrum_tribracteatum_146.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/409829415/medium.jpeg,cc-by-nc,230795099,research,42.4109268859,-122.7645021008,Non Invasive
+lythrum_tribracteatum_147.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/409507650/medium.jpeg,cc-by-nc,230623064,research,43.4524800809,-116.1314521118,Non Invasive
+lythrum_tribracteatum_148.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/408267924/medium.jpeg,cc-by-nc,229967128,research,40.2542495556,-3.7659849722,Non Invasive
+lythrum_tribracteatum_149.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/408267980/medium.jpeg,cc-by-nc,229967128,research,40.2542495556,-3.7659849722,Non Invasive
+lythrum_tribracteatum_150.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/408268027/medium.jpeg,cc-by-nc,229967128,research,40.2542495556,-3.7659849722,Non Invasive
+lythrum_tribracteatum_151.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/397967403/medium.jpeg,cc-by-nc,224542023,research,37.49036388,-121.9701248,Non Invasive
+lythrum_tribracteatum_152.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/397967395/medium.jpeg,cc-by-nc,224542023,research,37.49036388,-121.9701248,Non Invasive
+lythrum_tribracteatum_153.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/397967406/medium.jpeg,cc-by-nc,224542023,research,37.49036388,-121.9701248,Non Invasive
+lythrum_tribracteatum_154.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/395401686/medium.jpeg,cc-by-nc,223173995,research,40.2526168611,-3.7690648889,Non Invasive
+lythrum_tribracteatum_155.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/395401738/medium.jpeg,cc-by-nc,223173995,research,40.2526168611,-3.7690648889,Non Invasive
+lythrum_tribracteatum_156.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/395401785/medium.jpeg,cc-by-nc,223173995,research,40.2526168611,-3.7690648889,Non Invasive
+lythrum_tribracteatum_157.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/395401843/medium.jpeg,cc-by-nc,223173995,research,40.2526168611,-3.7690648889,Non Invasive
+lythrum_tribracteatum_158.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/387631254/medium.jpeg,cc-by-nc,219024482,research,38.3784770986,-121.3531668437,Non Invasive
+lythrum_tribracteatum_159.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/387631246/medium.jpeg,cc-by-nc,219024482,research,38.3784770986,-121.3531668437,Non Invasive
+lythrum_tribracteatum_160.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/387631236/medium.jpeg,cc-by-nc,219024482,research,38.3784770986,-121.3531668437,Non Invasive
+lythrum_tribracteatum_161.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/387631235/medium.jpeg,cc-by-nc,219024482,research,38.3784770986,-121.3531668437,Non Invasive
+lythrum_tribracteatum_162.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/387628139/medium.jpeg,cc-by-nc,219024482,research,38.3784770986,-121.3531668437,Non Invasive
+lythrum_tribracteatum_163.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/387620724/medium.jpeg,cc-by-nc,219024482,research,38.3784770986,-121.3531668437,Non Invasive
+lythrum_tribracteatum_164.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/387620647/medium.jpeg,cc-by-nc,219024482,research,38.3784770986,-121.3531668437,Non Invasive
+lythrum_tribracteatum_165.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/387620631/medium.jpeg,cc-by-nc,219024482,research,38.3784770986,-121.3531668437,Non Invasive
+lythrum_tribracteatum_166.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/387620733/medium.jpeg,cc-by-nc,219024482,research,38.3784770986,-121.3531668437,Non Invasive
+lythrum_tribracteatum_167.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/387620651/medium.jpeg,cc-by-nc,219024482,research,38.3784770986,-121.3531668437,Non Invasive
+lythrum_tribracteatum_168.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/387620661/medium.jpeg,cc-by-nc,219024482,research,38.3784770986,-121.3531668437,Non Invasive
+lythrum_tribracteatum_169.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/387620673/medium.jpeg,cc-by-nc,219024482,research,38.3784770986,-121.3531668437,Non Invasive
+lythrum_tribracteatum_170.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/386208540/medium.jpeg,cc-by-nc,218267310,research,37.5939166774,-121.9564957249,Non Invasive
+lythrum_tribracteatum_171.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/386208539/medium.jpeg,cc-by-nc,218267310,research,37.5939166774,-121.9564957249,Non Invasive
+lythrum_tribracteatum_172.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/386208546/medium.jpeg,cc-by-nc,218267310,research,37.5939166774,-121.9564957249,Non Invasive
+lythrum_tribracteatum_173.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/386208572/medium.jpeg,cc-by-nc,218267310,research,37.5939166774,-121.9564957249,Non Invasive
+lythrum_tribracteatum_174.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/386157911/medium.jpg,cc-by-nc,218236671,needs_id,37.4961616667,-121.9637833333,Non Invasive
+lythrum_tribracteatum_175.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/386157759/medium.jpg,cc-by-nc,218236580,needs_id,37.4978533333,-121.9616383333,Non Invasive
+lythrum_tribracteatum_176.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/385317815/medium.jpeg,cc-by-nc,217793207,research,38.4285722222,-121.9916916667,Non Invasive
+lythrum_tribracteatum_177.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/385317813/medium.jpeg,cc-by-nc,217793207,research,38.4285722222,-121.9916916667,Non Invasive
+lythrum_tribracteatum_178.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/385317823/medium.jpeg,cc-by-nc,217793207,research,38.4285722222,-121.9916916667,Non Invasive
+lythrum_tribracteatum_179.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/385317828/medium.jpeg,cc-by-nc,217793207,research,38.4285722222,-121.9916916667,Non Invasive
+lythrum_tribracteatum_180.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/385317804/medium.jpeg,cc-by-nc,217793207,research,38.4285722222,-121.9916916667,Non Invasive
+lythrum_tribracteatum_181.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/385317839/medium.jpeg,cc-by-nc,217793207,research,38.4285722222,-121.9916916667,Non Invasive
+lythrum_tribracteatum_182.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/385317845/medium.jpeg,cc-by-nc,217793207,research,38.4285722222,-121.9916916667,Non Invasive
+lythrum_tribracteatum_183.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/382901749/medium.jpeg,cc-by-nc,216499496,research,40.2097464023,-3.7737923115,Non Invasive
+lythrum_tribracteatum_184.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/382901784/medium.jpeg,cc-by-nc,216499496,research,40.2097464023,-3.7737923115,Non Invasive
+lythrum_tribracteatum_185.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/382901818/medium.jpeg,cc-by-nc,216499496,research,40.2097464023,-3.7737923115,Non Invasive
+lythrum_tribracteatum_186.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/369711643/medium.jpeg,cc-by-nc,208934889,research,47.7059597471,17.9878302573,Non Invasive
+lythrum_tribracteatum_187.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/369712789/medium.jpeg,cc-by-nc,208934889,research,47.7059597471,17.9878302573,Non Invasive
+lythrum_tribracteatum_188.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/369712820/medium.jpeg,cc-by-nc,208934889,research,47.7059597471,17.9878302573,Non Invasive
+lythrum_tribracteatum_189.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/369713300/medium.jpeg,cc-by-nc,208934889,research,47.7059597471,17.9878302573,Non Invasive
+lythrum_tribracteatum_190.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/369713335/medium.jpeg,cc-by-nc,208934889,research,47.7059597471,17.9878302573,Non Invasive
+lythrum_tribracteatum_191.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/369713345/medium.jpeg,cc-by-nc,208934889,research,47.7059597471,17.9878302573,Non Invasive
+lythrum_tribracteatum_192.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/367739681/medium.jpeg,cc-by-nc,207874411,research,44.92405572,34.14898654,Non Invasive
+lythrum_tribracteatum_193.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/367739702/medium.jpeg,cc-by-nc,207874411,research,44.92405572,34.14898654,Non Invasive
+lythrum_tribracteatum_194.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/367739648/medium.jpeg,cc-by-nc,207874408,research,44.92435917,34.14788347,Non Invasive
+lythrum_tribracteatum_195.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/367739650/medium.jpeg,cc-by-nc,207874408,research,44.92435917,34.14788347,Non Invasive
+lythrum_tribracteatum_196.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/367739634/medium.jpeg,cc-by-nc,207874405,research,44.92436235,34.14760336,Non Invasive
+lythrum_tribracteatum_197.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/367646150/medium.jpeg,cc-by-nc,207871609,research,44.65183652,33.76382208,Non Invasive
+lythrum_tribracteatum_198.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/367646184/medium.jpeg,cc-by-nc,207871609,research,44.65183652,33.76382208,Non Invasive
+lythrum_tribracteatum_199.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/367646185/medium.jpeg,cc-by-nc,207871609,research,44.65183652,33.76382208,Non Invasive
+lythrum_tribracteatum_200.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/367646188/medium.jpeg,cc-by-nc,207871609,research,44.65183652,33.76382208,Non Invasive
+lythrum_tribracteatum_201.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/367646226/medium.jpeg,cc-by-nc,207871609,research,44.65183652,33.76382208,Non Invasive
+lythrum_tribracteatum_202.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/367646228/medium.jpeg,cc-by-nc,207871609,research,44.65183652,33.76382208,Non Invasive
+lythrum_tribracteatum_203.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/341594867/medium.jpeg,cc-by-nc,194346438,research,43.2924495036,3.461406676,Non Invasive
+lythrum_tribracteatum_204.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/330330161/medium.jpeg,cc-by-nc,188695774,research,43.5892438781,4.7109882499,Non Invasive
+lythrum_tribracteatum_205.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/329270340/medium.jpg,cc-by-nc-nd,188177458,research,37.1995710533,-121.878089505,Non Invasive
+lythrum_tribracteatum_206.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/329270341/medium.jpg,cc-by-nc-nd,188177458,research,37.1995710533,-121.878089505,Non Invasive
+lythrum_tribracteatum_207.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/329270363/medium.jpg,cc-by-nc-nd,188177458,research,37.1995710533,-121.878089505,Non Invasive
+lythrum_tribracteatum_208.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/329270375/medium.jpg,cc-by-nc-nd,188177458,research,37.1995710533,-121.878089505,Non Invasive
+lythrum_tribracteatum_209.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/329270272/medium.jpg,cc-by-nc-nd,188177458,research,37.1995710533,-121.878089505,Non Invasive
+lythrum_tribracteatum_210.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/325791409/medium.jpeg,cc-by-nc,186425909,research,44.9243965,34.1476534,Non Invasive
+lythrum_tribracteatum_211.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/325792284/medium.jpg,cc-by-nc,186425909,research,44.9243965,34.1476534,Non Invasive
+lythrum_tribracteatum_212.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/325792293/medium.jpg,cc-by-nc,186425909,research,44.9243965,34.1476534,Non Invasive
+lythrum_tribracteatum_213.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/325792301/medium.jpg,cc-by-nc,186425909,research,44.9243965,34.1476534,Non Invasive
+lythrum_tribracteatum_214.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/325792303/medium.jpg,cc-by-nc,186425909,research,44.9243965,34.1476534,Non Invasive
+lythrum_tribracteatum_215.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/325792313/medium.jpg,cc-by-nc,186425909,research,44.9243965,34.1476534,Non Invasive
+lythrum_tribracteatum_216.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/325789539/medium.jpeg,cc-by-nc,186424950,research,44.9243694997,34.1478636,Non Invasive
+lythrum_tribracteatum_217.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/325789569/medium.jpeg,cc-by-nc,186424950,research,44.9243694997,34.1478636,Non Invasive
+lythrum_tribracteatum_218.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/325789595/medium.jpeg,cc-by-nc,186424950,research,44.9243694997,34.1478636,Non Invasive
+lythrum_tribracteatum_219.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/315299084/medium.jpeg,cc-by,180956110,research,43.706117,3.793381,Non Invasive
+lythrum_tribracteatum_220.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/315299023/medium.jpeg,cc-by,180956110,research,43.706117,3.793381,Non Invasive
+lythrum_tribracteatum_221.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/315299097/medium.jpeg,cc-by,180956110,research,43.706117,3.793381,Non Invasive
+lythrum_tribracteatum_222.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/314464296/medium.jpeg,cc-by-nc,180522464,research,38.2778639338,-121.8238859361,Non Invasive
+lythrum_tribracteatum_223.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/314464361/medium.jpeg,cc-by-nc,180522464,research,38.2778639338,-121.8238859361,Non Invasive
+lythrum_tribracteatum_224.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/314464426/medium.jpeg,cc-by-nc,180522464,research,38.2778639338,-121.8238859361,Non Invasive
+lythrum_tribracteatum_225.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/314464362/medium.jpeg,cc-by-nc,180522464,research,38.2778639338,-121.8238859361,Non Invasive
+lythrum_tribracteatum_226.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/314464442/medium.jpeg,cc-by-nc,180522464,research,38.2778639338,-121.8238859361,Non Invasive
+lythrum_tribracteatum_227.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/312949728/medium.jpeg,cc-by-nc,179732707,research,43.8206903702,15.7767961467,Non Invasive
+lythrum_tribracteatum_228.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/306907924/medium.jpeg,cc-by-nc,176526868,research,38.1143833333,-122.65117,Non Invasive
+lythrum_tribracteatum_229.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/293291332/medium.jpg,cc-by-nc,169185099,research,37.4352239937,-121.9279447429,Non Invasive
+lythrum_tribracteatum_230.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/286626053/medium.jpg,cc-by-nc,165575067,research,38.2833216667,-121.453155,Non Invasive
+lythrum_tribracteatum_231.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/286626097/medium.jpg,cc-by-nc,165575067,research,38.2833216667,-121.453155,Non Invasive
+lythrum_tribracteatum_232.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/286626144/medium.jpg,cc-by-nc,165575067,research,38.2833216667,-121.453155,Non Invasive
+lythrum_tribracteatum_233.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/286626203/medium.jpg,cc-by-nc,165575067,research,38.2833216667,-121.453155,Non Invasive
+lythrum_tribracteatum_234.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/284198923/medium.jpg,cc-by-nc,164267577,research,38.5563083333,-121.6326666667,Non Invasive
+lythrum_tribracteatum_235.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/284198954/medium.jpg,cc-by-nc,164267577,research,38.5563083333,-121.6326666667,Non Invasive
+lythrum_tribracteatum_236.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/282819341/medium.jpeg,cc-by-nc,163515676,research,37.2727305556,-120.9040361111,Non Invasive
+lythrum_tribracteatum_237.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/282819318/medium.jpg,cc-by-nc,163515676,research,37.2727305556,-120.9040361111,Non Invasive
+lythrum_tribracteatum_238.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/282819340/medium.jpg,cc-by-nc,163515676,research,37.2727305556,-120.9040361111,Non Invasive
+lythrum_tribracteatum_239.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/282819345/medium.jpg,cc-by-nc,163515676,research,37.2727305556,-120.9040361111,Non Invasive
+lythrum_tribracteatum_240.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/280515138/medium.jpg,cc-by-nc,162240565,research,38.4374866667,-121.4353866667,Non Invasive
+lythrum_tribracteatum_241.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/280515178/medium.jpg,cc-by-nc,162240565,research,38.4374866667,-121.4353866667,Non Invasive
+lythrum_tribracteatum_242.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/280515223/medium.jpg,cc-by-nc,162240565,research,38.4374866667,-121.4353866667,Non Invasive
+lythrum_tribracteatum_243.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/280515254/medium.jpg,cc-by-nc,162240565,research,38.4374866667,-121.4353866667,Non Invasive
+lythrum_tribracteatum_244.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/271028727/medium.jpeg,cc-by-nc,156721503,research,32.0358772589,34.9516655697,Non Invasive
+lythrum_tribracteatum_245.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/271028834/medium.jpeg,cc-by-nc,156721503,research,32.0358772589,34.9516655697,Non Invasive
+lythrum_tribracteatum_246.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/239647617/medium.jpeg,cc-by-nc,140040160,research,43.4682416667,3.6587983333,Non Invasive
+lythrum_tribracteatum_247.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/239647608/medium.jpeg,cc-by-nc,140040160,research,43.4682416667,3.6587983333,Non Invasive
+lythrum_tribracteatum_248.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/239647602/medium.jpeg,cc-by-nc,140040160,research,43.4682416667,3.6587983333,Non Invasive
+lythrum_tribracteatum_249.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/239647598/medium.jpeg,cc-by-nc,140040160,research,43.4682416667,3.6587983333,Non Invasive
+lythrum_tribracteatum_250.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/239647591/medium.jpeg,cc-by-nc,140040160,research,43.4682416667,3.6587983333,Non Invasive
+lythrum_tribracteatum_251.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/239647584/medium.jpeg,cc-by-nc,140040160,research,43.4682416667,3.6587983333,Non Invasive
+lythrum_tribracteatum_252.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/226901851/medium.jpeg,cc-by-nc,133230110,research,43.4681816458,3.6587434746,Non Invasive
+lythrum_tribracteatum_253.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/226901887/medium.jpeg,cc-by-nc,133230110,research,43.4681816458,3.6587434746,Non Invasive
+lythrum_tribracteatum_254.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/226901909/medium.jpeg,cc-by-nc,133230110,research,43.4681816458,3.6587434746,Non Invasive
+lythrum_tribracteatum_255.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/226901931/medium.jpeg,cc-by-nc,133230110,research,43.4681816458,3.6587434746,Non Invasive
+lythrum_tribracteatum_256.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/226901945/medium.jpg,cc-by-nc,133230110,research,43.4681816458,3.6587434746,Non Invasive
+lythrum_tribracteatum_257.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/214903695/medium.jpeg,cc-by-nc,126644248,research,49.1443771055,33.6760766716,Non Invasive
+lythrum_tribracteatum_258.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/214904374/medium.jpeg,cc-by-nc,126644248,research,49.1443771055,33.6760766716,Non Invasive
+lythrum_tribracteatum_259.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/206333192/medium.jpeg,cc-by-nc,121905194,research,32.4151410996,34.8982086936,Non Invasive
+lythrum_tribracteatum_260.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/206333202/medium.jpeg,cc-by-nc,121905194,research,32.4151410996,34.8982086936,Non Invasive
+lythrum_tribracteatum_261.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/206333163/medium.jpeg,cc-by-nc,121905190,research,32.4133558234,34.9008315473,Non Invasive
+lythrum_tribracteatum_262.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/206333175/medium.jpeg,cc-by-nc,121905190,research,32.4133558234,34.9008315473,Non Invasive
+lythrum_tribracteatum_263.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/199062147/medium.jpeg,cc-by-nc,117848853,research,33.2696757555,35.6323047344,Non Invasive
+lythrum_tribracteatum_264.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/187625702/medium.jpg,cc-by-nc,111163044,research,38.4354633333,-121.4191883333,Non Invasive
+lythrum_tribracteatum_265.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/187625724/medium.jpg,cc-by-nc,111163044,research,38.4354633333,-121.4191883333,Non Invasive
+lythrum_tribracteatum_266.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/187625742/medium.jpg,cc-by-nc,111163044,research,38.4354633333,-121.4191883333,Non Invasive
+lythrum_tribracteatum_267.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/174178526/medium.jpg,cc-by-nc,103990944,research,41.4923883333,-120.4833366667,Non Invasive
+lythrum_tribracteatum_268.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/174178572/medium.jpg,cc-by-nc,103990944,research,41.4923883333,-120.4833366667,Non Invasive
+lythrum_tribracteatum_269.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/159982805/medium.jpeg,cc-by-nc,96310200,research,38.5146704,-122.1925195,Non Invasive
+lythrum_tribracteatum_270.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/159982833/medium.jpeg,cc-by-nc,96310200,research,38.5146704,-122.1925195,Non Invasive
+lythrum_tribracteatum_271.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/159326894/medium.jpeg,cc-by-nc,95936473,research,43.705952,3.781659,Non Invasive
+lythrum_tribracteatum_272.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/159326902/medium.jpeg,cc-by-nc,95936473,research,43.705952,3.781659,Non Invasive
+lythrum_tribracteatum_273.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/159326883/medium.jpeg,cc-by-nc,95936473,research,43.705952,3.781659,Non Invasive
+lythrum_tribracteatum_274.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/159326877/medium.jpeg,cc-by-nc,95936473,research,43.705952,3.781659,Non Invasive
+lythrum_tribracteatum_275.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/159326872/medium.jpeg,cc-by-nc,95936473,research,43.705952,3.781659,Non Invasive
+lythrum_tribracteatum_276.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/159326863/medium.jpeg,cc-by-nc,95936473,research,43.705952,3.781659,Non Invasive
+lythrum_tribracteatum_277.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/159326910/medium.jpeg,cc-by-nc,95936473,research,43.705952,3.781659,Non Invasive
+lythrum_tribracteatum_278.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/154120736/medium.jpeg,cc-by-nc,93032132,research,43.269435,3.225202,Non Invasive
+lythrum_tribracteatum_279.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/154120746/medium.jpeg,cc-by-nc,93032132,research,43.269435,3.225202,Non Invasive
+lythrum_tribracteatum_280.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/154120723/medium.jpeg,cc-by-nc,93032132,research,43.269435,3.225202,Non Invasive
+lythrum_tribracteatum_281.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/154120760/medium.jpeg,cc-by-nc,93032132,research,43.269435,3.225202,Non Invasive
+lythrum_tribracteatum_282.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/154120715/medium.jpeg,cc-by-nc,93032132,research,43.269435,3.225202,Non Invasive
+lythrum_tribracteatum_283.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/144187002/medium.jpg,cc-by,87453008,research,37.9088383333,-122.225425,Non Invasive
+lythrum_tribracteatum_284.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/144186923/medium.jpg,cc-by,87453008,research,37.9088383333,-122.225425,Non Invasive
+lythrum_tribracteatum_285.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/140251843/medium.jpeg,cc-by,85260535,research,43.7688683333,3.7226683333,Non Invasive
+lythrum_tribracteatum_286.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/140251809/medium.jpeg,cc-by,85260535,research,43.7688683333,3.7226683333,Non Invasive
+lythrum_tribracteatum_287.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/140251887/medium.jpeg,cc-by,85260535,research,43.7688683333,3.7226683333,Non Invasive
+lythrum_tribracteatum_288.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/139588801/medium.jpeg,cc-by-nc-sa,84894288,research,43.2956335877,3.395087374,Non Invasive
+lythrum_tribracteatum_289.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/139588821/medium.jpeg,cc-by-nc-sa,84894288,research,43.2956335877,3.395087374,Non Invasive
+lythrum_tribracteatum_290.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/139588826/medium.jpeg,cc-by-nc-sa,84894288,research,43.2956335877,3.395087374,Non Invasive
+lythrum_tribracteatum_291.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/139588840/medium.jpeg,cc-by-nc-sa,84894288,research,43.2956335877,3.395087374,Non Invasive
+lythrum_tribracteatum_292.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/139588841/medium.jpeg,cc-by-nc-sa,84894288,research,43.2956335877,3.395087374,Non Invasive
+lythrum_tribracteatum_293.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/138162337/medium.jpeg,cc-by-nc-sa,84084758,research,33.0188407675,35.8247026143,Non Invasive
+lythrum_tribracteatum_294.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/135101156/medium.jpg,cc-by-nc,82323920,research,33.7736111111,-117.1995805556,Non Invasive
+lythrum_tribracteatum_295.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/135101181/medium.jpg,cc-by-nc,82323920,research,33.7736111111,-117.1995805556,Non Invasive
+lythrum_tribracteatum_296.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/129191305/medium.jpg,cc-by,78909852,research,39.4297983,-122.1862251,Non Invasive
+lythrum_tribracteatum_297.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/129191307/medium.jpg,cc-by,78909852,research,39.4297983,-122.1862251,Non Invasive
+lythrum_tribracteatum_298.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/129191313/medium.jpg,cc-by,78909852,research,39.4297983,-122.1862251,Non Invasive
+lythrum_tribracteatum_299.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/129191338/medium.jpg,cc-by,78909852,research,39.4297983,-122.1862251,Non Invasive
+lythrum_tribracteatum_300.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/125359061/medium.jpeg,cc-by-nc,76647404,research,32.4107756701,34.9004730676,Non Invasive
+lythrum_tribracteatum_301.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/125359109/medium.jpeg,cc-by-nc,76647404,research,32.4107756701,34.9004730676,Non Invasive
+lythrum_tribracteatum_302.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/123994908/medium.jpeg,cc-by-nc,75772859,research,31.8972396276,34.7593629599,Non Invasive
+lythrum_tribracteatum_303.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/123996108/medium.jpeg,cc-by-nc,75772859,research,31.8972396276,34.7593629599,Non Invasive
+lythrum_tribracteatum_304.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/107935802/medium.jpeg,cc-by-nc,66890248,research,38.2253991361,-122.5860778289,Non Invasive
+lythrum_tribracteatum_305.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/89368924/medium.jpeg,cc-by-nc-sa,56096954,research,33.1294584858,35.8135446247,Non Invasive
+lythrum_tribracteatum_306.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/89368932/medium.jpeg,cc-by-nc-sa,56096954,research,33.1294584858,35.8135446247,Non Invasive
+lythrum_tribracteatum_307.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/89267461/medium.jpeg,cc-by-nc-sa,56036449,research,32.937767239,35.8715661702,Non Invasive
+lythrum_tribracteatum_308.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/80787387/medium.jpeg,cc-by-nc-sa,50862941,research,32.8844457194,35.7991250691,Non Invasive
+lythrum_tribracteatum_309.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/80787389/medium.jpeg,cc-by-nc-sa,50862941,research,32.8844457194,35.7991250691,Non Invasive
+lythrum_tribracteatum_310.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/78439267/medium.jpeg,cc-by-nc,49411109,research,33.0936455337,35.7685197263,Non Invasive
+lythrum_tribracteatum_311.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/78438250/medium.jpeg,cc-by-nc,49410487,research,33.0932774432,35.7695255547,Non Invasive
+lythrum_tribracteatum_312.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/76643777/medium.jpeg,cc-by-nc-sa,48307371,research,33.061975202,35.8138450322,Non Invasive
+lythrum_tribracteatum_313.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/76158479/medium.jpeg,cc-by-nc,48013334,research,32.5267592004,34.9194589691,Non Invasive
+lythrum_tribracteatum_314.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/76158491/medium.jpeg,cc-by-nc,48013334,research,32.5267592004,34.9194589691,Non Invasive
+lythrum_tribracteatum_315.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/74654702/medium.jpg,cc-by-nc,47071869,research,38.53124167,-121.62312167,Non Invasive
+lythrum_tribracteatum_316.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/66110631/medium.jpeg,cc-by-nc,41671492,research,49.1433992873,33.6731708776,Non Invasive
+lythrum_tribracteatum_317.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/66110703/medium.jpeg,cc-by-nc,41671492,research,49.1433992873,33.6731708776,Non Invasive
+lythrum_tribracteatum_318.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/66110711/medium.jpeg,cc-by-nc,41671492,research,49.1433992873,33.6731708776,Non Invasive
+lythrum_tribracteatum_319.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/66110715/medium.jpeg,cc-by-nc,41671492,research,49.1433992873,33.6731708776,Non Invasive
+lythrum_tribracteatum_320.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/66110718/medium.jpeg,cc-by-nc,41671492,research,49.1433992873,33.6731708776,Non Invasive
+lythrum_tribracteatum_321.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/40984796/medium.jpeg,cc0,26395459,research,38.2901616667,-121.79819,Non Invasive
+lythrum_tribracteatum_322.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/40984800/medium.jpeg,cc0,26395459,research,38.2901616667,-121.79819,Non Invasive
+lythrum_tribracteatum_323.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/40984804/medium.jpeg,cc0,26395459,research,38.2901616667,-121.79819,Non Invasive
+lythrum_tribracteatum_324.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/40984807/medium.jpeg,cc0,26395459,research,38.2901616667,-121.79819,Non Invasive
+lythrum_tribracteatum_325.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/40984814/medium.jpeg,cc0,26395459,research,38.2901616667,-121.79819,Non Invasive
+lythrum_tribracteatum_326.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/40354701/medium.jpeg,cc-by-nc,26013745,research,43.4938480556,4.6753530556,Non Invasive
+lythrum_tribracteatum_327.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/40354810/medium.jpeg,cc-by-nc,26013745,research,43.4938480556,4.6753530556,Non Invasive
+lythrum_tribracteatum_328.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/23708783/medium.jpeg,cc-by-nc,15858592,research,33.290258,-114.689339,Non Invasive
+lythrum_tribracteatum_329.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/23708820/medium.jpeg,cc-by-nc,15858592,research,33.290258,-114.689339,Non Invasive
+lythrum_tribracteatum_330.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/23708849/medium.jpeg,cc-by-nc,15858592,research,33.290258,-114.689339,Non Invasive
+lythrum_tribracteatum_331.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/23708878/medium.jpeg,cc-by-nc,15858592,research,33.290258,-114.689339,Non Invasive
+lythrum_tribracteatum_332.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/22068814/medium.jpeg,cc-by-nc-sa,14787114,research,32.8961395715,35.789447659,Non Invasive
+lythrum_tribracteatum_333.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/22068838/medium.jpeg,cc-by-nc-sa,14787114,research,32.8961395715,35.789447659,Non Invasive
+lythrum_tribracteatum_334.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/22062235/medium.jpeg,cc-by-nc-sa,14783556,research,32.964848027,35.8359893498,Non Invasive
+lythrum_tribracteatum_335.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/22055606/medium.jpeg,cc-by-nc-sa,14779741,research,32.9608872596,35.8357104001,Non Invasive
+lythrum_tribracteatum_336.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/22055611/medium.jpeg,cc-by-nc-sa,14779741,research,32.9608872596,35.8357104001,Non Invasive
+lythrum_tribracteatum_337.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/20713830/medium.jpeg,cc-by-nc,14004228,research,37.4905548096,-121.9619445801,Non Invasive
+lythrum_tribracteatum_338.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/20713833/medium.jpg,cc-by-nc,14004228,research,37.4905548096,-121.9619445801,Non Invasive
+lythrum_tribracteatum_339.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/20713844/medium.jpeg,cc-by-nc,14004228,research,37.4905548096,-121.9619445801,Non Invasive
+lythrum_tribracteatum_340.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/19103745/medium.jpeg,cc-by-nc,13107263,research,32.8982467651,35.7887649536,Non Invasive
+lythrum_tribracteatum_341.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/19102915/medium.jpeg,cc-by-nc,13107255,research,32.8973045349,35.7883796692,Non Invasive
+lythrum_tribracteatum_342.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/11618449/medium.jpeg,cc-by-nc,8672299,research,33.186446,-115.58719,Non Invasive
+lythrum_tribracteatum_343.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/11618461/medium.jpeg,cc-by-nc,8672299,research,33.186446,-115.58719,Non Invasive
+lythrum_tribracteatum_344.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/11618485/medium.jpeg,cc-by-nc,8672299,research,33.186446,-115.58719,Non Invasive
+lythrum_tribracteatum_345.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/11618510/medium.jpeg,cc-by-nc,8672299,research,33.186446,-115.58719,Non Invasive
+lythrum_tribracteatum_346.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/10731350/medium.jpeg,cc-by-nc-sa,8092066,research,33.1349210336,35.7857354817,Non Invasive
+lythrum_tribracteatum_347.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/10731351/medium.jpeg,cc-by-nc-sa,8092066,research,33.1349210336,35.7857354817,Non Invasive
+lythrum_tribracteatum_348.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/10449117/medium.jpeg,cc-by-nc-sa,7917696,research,33.130770247,35.813201302,Non Invasive
+lythrum_tribracteatum_349.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/10449125/medium.jpeg,cc-by-nc-sa,7917696,research,33.130770247,35.813201302,Non Invasive
+lythrum_tribracteatum_350.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/9012459/medium.jpg,cc-by-nc,7027176,research,42.4097222222,-122.7736111111,Non Invasive
+lythrum_tribracteatum_351.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/9003400/medium.jpg,cc-by-nc,7021315,research,42.1433333333,-122.5858333333,Non Invasive
+lythrum_tribracteatum_352.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/9003401/medium.jpg,cc-by-nc,7021315,research,42.1433333333,-122.5858333333,Non Invasive
+lythrum_tribracteatum_353.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/9003403/medium.jpg,cc-by-nc,7021315,research,42.1433333333,-122.5858333333,Non Invasive
+lythrum_tribracteatum_354.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/9003245/medium.jpg,cc-by-nc,7021062,research,42.1433333333,-122.6208333333,Non Invasive
+lythrum_tribracteatum_355.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/9003247/medium.jpg,cc-by-nc,7021062,research,42.1433333333,-122.6208333333,Non Invasive
+lythrum_tribracteatum_356.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/9003250/medium.jpg,cc-by-nc,7021062,research,42.1433333333,-122.6208333333,Non Invasive
+lythrum_tribracteatum_357.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/9003252/medium.jpg,cc-by-nc,7021062,research,42.1433333333,-122.6208333333,Non Invasive
+lythrum_tribracteatum_358.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/7812252/medium.jpeg,cc-by-nc,6218366,research,32.884098053,35.7982254028,Non Invasive
+lythrum_tribracteatum_359.jpeg,https://inaturalist-open-data.s3.amazonaws.com/photos/7812834/medium.jpeg,cc-by-nc,6218366,research,32.884098053,35.7982254028,Non Invasive
+lythrum_tribracteatum_360.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/7330983/medium.jpg,cc-by-nc,5882440,research,42.1394444444,-122.6205555556,Non Invasive
+lythrum_tribracteatum_361.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/7330985/medium.jpg,cc-by-nc,5882440,research,42.1394444444,-122.6205555556,Non Invasive
+lythrum_tribracteatum_362.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/7330988/medium.jpg,cc-by-nc,5882440,research,42.1394444444,-122.6205555556,Non Invasive
