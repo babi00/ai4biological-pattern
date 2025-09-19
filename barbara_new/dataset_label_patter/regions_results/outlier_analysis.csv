@@ -1,0 +1,2 @@
+sample_size,accuracy,true_invasive_rate,pred_invasive_rate,accuracy_deviation,prediction_bias
+121,0.0,1.0,0.0,-0.7803266529426011,-1.0
