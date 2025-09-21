@@ -1,0 +1,21 @@
+trait_combo,n_images,tp_frac,tn_frac,fp_frac,fn_frac,asymmetry_score
+"floral_tube_cylindrical, getting_narrower_at_the_base, inflorescence_spikelike_to_raceme",1147,0.5396687009590235,0.0,0.0,0.46033129904097647,1.0
+"leaves_opposite, stamens_5_8, linear",1209,0.0,0.9627791563275434,0.03722084367245657,0.0,1.0
+"leaves_opposite, stamens_5_8, prostrate_and_spreading",1108,0.0,0.9756317689530686,0.024368231046931407,0.0,1.0
+"leaves_opposite, petals_white_to_pink, sessile_base_narrowly_attenuate",1251,0.0,0.9776179056754596,0.02238209432454037,0.0,1.0
+"leaves_opposite, petals_white_to_pink, prostrate_and_spreading",1108,0.0,0.9756317689530686,0.024368231046931407,0.0,1.0
+"leaves_opposite, petals_white_to_pink, stamens_5_8",1251,0.0,0.9776179056754596,0.02238209432454037,0.0,1.0
+"leaves_opposite, floral_tube_campanulate, sessile_base_narrowly_attenuate",1251,0.0,0.9776179056754596,0.02238209432454037,0.0,1.0
+"leaves_opposite, floral_tube_campanulate, prostrate_and_spreading",1108,0.0,0.9756317689530686,0.024368231046931407,0.0,1.0
+"leaves_opposite, floral_tube_campanulate, stamens_5_8",1251,0.0,0.9776179056754596,0.02238209432454037,0.0,1.0
+"leaves_opposite, floral_tube_campanulate, petals_white_to_pink",1251,0.0,0.9776179056754596,0.02238209432454037,0.0,1.0
+"leaves_opposite, a_discernible_gap_between_the_stem_and_the_base_of_the_blade, creeping_to_weakly_erect",230,0.0,1.0,0.0,0.0,1.0
+"leaves_opposite, base_rounded, creeping_to_weakly_erect",230,0.0,1.0,0.0,0.0,1.0
+"leaves_opposite, base_rounded, a_discernible_gap_between_the_stem_and_the_base_of_the_blade",256,0.0,1.0,0.0,0.0,1.0
+"leaves_opposite, petiolated, creeping_to_weakly_erect",230,0.0,1.0,0.0,0.0,1.0
+"leaves_opposite, petiolated, a_discernible_gap_between_the_stem_and_the_base_of_the_blade",256,0.0,1.0,0.0,0.0,1.0
+"leaves_opposite, petiolated, base_rounded",256,0.0,1.0,0.0,0.0,1.0
+"leaves_opposite, stamens_6, becoming_alternate_distally",5733,0.0,0.8496424210709925,0.1503575789290075,0.0,1.0
+"leaves_opposite, stamens_5_8, sessile_base_narrowly_attenuate",1251,0.0,0.9776179056754596,0.02238209432454037,0.0,1.0
+"leaves_opposite, prostrate_and_spreading, sessile_base_narrowly_attenuate",1790,0.0,0.982122905027933,0.017877094972067038,0.0,1.0
+"leaves_opposite, stamens_6, petals_pale_purple_or_whitish",245,0.0,0.9673469387755103,0.0326530612244898,0.0,1.0
