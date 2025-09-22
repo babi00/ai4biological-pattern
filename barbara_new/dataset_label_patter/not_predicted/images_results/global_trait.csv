@@ -1,0 +1,740 @@
+trait,n_images_impact,impact,p_value_impact,p_value_adj_impact,significant_impact,error_dist_impact,stratified_impact,quartile_effect,logit_coef,p_value_intensity,low_quartile_acc,high_quartile_acc,stratified_intensity
+getting_narrower_at_the_base,1715,0.2513766436635778,6.556206430390686e-131,3.324933261126705e-130,Yes,"error_type                                  False Negative  False Positive  \
+trait_getting_narrower_at_the_base_present                                   
+0                                                 0.242989         0.54658   
+1                                                 0.538192         0.00000   
+
+error_type                                  True Negative  True Positive  
+trait_getting_narrower_at_the_base_present                                
+0                                                0.055411       0.155020  
+1                                                0.000000       0.461808  ","{0: {'with': 0.4618075801749271, 'without': 0.38948911869115604, 'impact': 0.07231846148377108}, 1: {'with': nan, 'without': 0.09204551252614929, 'impact': nan}}",-0.012854976564653953,-0.052189521333288566,0.7912120296017717,0.4637096774193548,0.45085470085470086,"{0: {'low_quartile_acc': 0.4637096774193548, 'high_quartile_acc': 0.45085470085470086, 'quartile_effect': -0.012854976564653953}}"
+stamens_10_14,1191,0.2465138427873816,2.2864976473282636e-89,6.49365331841227e-89,Yes,"error_type                   False Negative  False Positive  True Negative  \
+trait_stamens_10_14_present                                                  
+0                                  0.247635        0.537922       0.054533   
+1                                  0.539043        0.000000       0.000000   
+
+error_type                   True Positive  
+trait_stamens_10_14_present                 
+0                                 0.159911  
+1                                 0.460957  ","{0: {'with': 0.4609571788413098, 'without': 0.39237501854324286, 'impact': 0.06858216029806696}, 1: {'with': nan, 'without': 0.09204551252614929, 'impact': nan}}",0.02304441823899367,0.22627373420370592,0.38721919085063894,0.4557291666666667,0.47877358490566035,"{0: {'low_quartile_acc': 0.4557291666666667, 'high_quartile_acc': 0.47877358490566035, 'quartile_effect': 0.02304441823899367}}"
+petals_rose_to_purple,1191,0.2465138427873816,2.2864976473282636e-89,6.49365331841227e-89,Yes,"error_type                           False Negative  False Positive  \
+trait_petals_rose_to_purple_present                                   
+0                                          0.247635        0.537922   
+1                                          0.539043        0.000000   
+
+error_type                           True Negative  True Positive  
+trait_petals_rose_to_purple_present                                
+0                                         0.054533       0.159911  
+1                                         0.000000       0.460957  ","{0: {'with': 0.4609571788413098, 'without': 0.39237501854324286, 'impact': 0.06858216029806696}, 1: {'with': nan, 'without': 0.09204551252614929, 'impact': nan}}",0.02304441823899367,0.22627373420370592,0.38721919085063894,0.4557291666666667,0.47877358490566035,"{0: {'low_quartile_acc': 0.4557291666666667, 'high_quartile_acc': 0.47877358490566035, 'quartile_effect': 0.02304441823899367}}"
+inflorescence_spikelike_to_raceme,1191,0.2465138427873816,2.2864976473282636e-89,6.49365331841227e-89,Yes,"error_type                                       False Negative  \
+trait_inflorescence_spikelike_to_raceme_present                   
+0                                                      0.247635   
+1                                                      0.539043   
+
+error_type                                       False Positive  \
+trait_inflorescence_spikelike_to_raceme_present                   
+0                                                      0.537922   
+1                                                      0.000000   
+
+error_type                                       True Negative  True Positive  
+trait_inflorescence_spikelike_to_raceme_present                                
+0                                                     0.054533       0.159911  
+1                                                     0.000000       0.460957  ","{0: {'with': 0.4609571788413098, 'without': 0.39237501854324286, 'impact': 0.06858216029806696}, 1: {'with': nan, 'without': 0.09204551252614929, 'impact': nan}}",0.02304441823899367,0.22627373420370592,0.38721919085063894,0.4557291666666667,0.47877358490566035,"{0: {'low_quartile_acc': 0.4557291666666667, 'high_quartile_acc': 0.47877358490566035, 'quartile_effect': 0.02304441823899367}}"
+alternate_distally,10735,0.23831693389268543,0.0,0.0,Yes,"error_type                        False Negative  False Positive  \
+trait_alternate_distally_present                                   
+0                                       0.095594        0.756044   
+1                                       0.613321        0.000000   
+
+error_type                        True Negative  True Positive  
+trait_alternate_distally_present                                
+0                                      0.075541       0.072822  
+1                                      0.002422       0.384257  ","{0: {'with': 0.38519002708002614, 'without': 0.43239152371342077, 'impact': -0.047201496633394624}, 1: {'with': 1.0, 'without': 0.0908394216522761, 'impact': 0.9091605783477239}}",0.001989458630030916,0.02396122292705294,0.7669214080360275,0.3965461062235256,0.3985355648535565,"{0: {'low_quartile_acc': 0.39457338999673097, 'high_quartile_acc': 0.3968531468531469, 'quartile_effect': 0.0022797568564159043}, 1: {'low_quartile_acc': 1.0, 'high_quartile_acc': 1.0, 'quartile_effect': 0.0}}"
+rounded_at_the_base,10739,0.23814768820433907,0.0,0.0,Yes,"error_type                         False Negative  False Positive  \
+trait_rounded_at_the_base_present                                   
+0                                        0.095610        0.756002   
+1                                        0.613092        0.000372   
+
+error_type                         True Negative  True Positive  
+trait_rounded_at_the_base_present                                
+0                                       0.075553       0.072834  
+1                                       0.002421       0.384114  ","{0: {'with': 0.38519002708002614, 'without': 0.43239152371342077, 'impact': -0.047201496633394624}, 1: {'with': 0.8666666666666667, 'without': 0.09085798967755122, 'impact': 0.7758086769891155}}",0.002247710734377073,0.025764871258117387,0.7499031622577725,0.39628785411917944,0.3985355648535565,"{0: {'low_quartile_acc': 0.39457338999673097, 'high_quartile_acc': 0.3968531468531469, 'quartile_effect': 0.0022797568564159043}, 1: {'low_quartile_acc': 0.8, 'high_quartile_acc': 1.0, 'quartile_effect': 0.19999999999999996}}"
+with_flowers_in_whorled_clusters,8776,0.23647204101438757,0.0,0.0,Yes,"error_type                                      False Negative  \
+trait_with_flowers_in_whorled_clusters_present                   
+0                                                     0.139591   
+1                                                     0.601071   
+
+error_type                                      False Positive  True Negative  \
+trait_with_flowers_in_whorled_clusters_present                                  
+0                                                     0.697953       0.070089   
+1                                                     0.000000       0.001937   
+
+error_type                                      True Positive  
+trait_with_flowers_in_whorled_clusters_present                 
+0                                                    0.092367  
+1                                                    0.396992  ","{0: {'with': 0.39776230163260645, 'without': 0.3982076428812986, 'impact': -0.00044534124869216596}, 1: {'with': 1.0, 'without': 0.09125727709120621, 'impact': 0.9087427229087938}}",0.005675356485574101,0.03506400380365523,0.7190932879155219,0.40101867572156197,0.40669403220713607,"{0: {'low_quartile_acc': 0.39938712972420837, 'high_quartile_acc': 0.40537974683544303, 'quartile_effect': 0.005992617111234666}, 1: {'low_quartile_acc': 1.0, 'high_quartile_acc': 1.0, 'quartile_effect': 0.0}}"
+base_rounded,252,-0.22466196355085244,2.6712056976037286e-17,5.578106015584258e-17,Yes,"error_type                  False Negative  False Positive  True Negative  \
+trait_base_rounded_present                                                  
+0                                 0.259671        0.515667       0.053028   
+1                                 0.000000        1.000000       0.000000   
+
+error_type                  True Positive  
+trait_base_rounded_present                 
+0                                0.171634  
+1                                0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.0, 'without': 0.09324443066108441, 'impact': -0.09324443066108441}}",0.0,-1.1502606970575429,0.9999860502080476,0.0,0.0,"{1: {'low_quartile_acc': 0.0, 'high_quartile_acc': 0.0, 'quartile_effect': 0.0}}"
+a_discernible_gap_between_the_stem_and_the_base_of_the_blade,245,-0.22461574631909953,7.505731489902081e-17,1.4802970438417994e-16,Yes,"error_type                                          False Negative  \
+trait_a_discernible_gap_between_the_stem_and_th...                   
+0                                                         0.259617   
+1                                                         0.000000   
+
+error_type                                          False Positive  \
+trait_a_discernible_gap_between_the_stem_and_th...                   
+0                                                         0.515767   
+1                                                         1.000000   
+
+error_type                                          True Negative  \
+trait_a_discernible_gap_between_the_stem_and_th...                  
+0                                                        0.053017   
+1                                                        0.000000   
+
+error_type                                          True Positive  
+trait_a_discernible_gap_between_the_stem_and_th...                 
+0                                                        0.171599  
+1                                                        0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.0, 'without': 0.09321070579725121, 'impact': -0.09321070579725121}}",0.0,2.825333504707214,0.9993438995358529,0.0,0.0,"{1: {'low_quartile_acc': 0.0, 'high_quartile_acc': 0.0, 'quartile_effect': 0.0}}"
+petiolated,245,-0.22461574631909953,7.505731489902081e-17,1.4802970438417994e-16,Yes,"error_type                False Negative  False Positive  True Negative  \
+trait_petiolated_present                                                  
+0                               0.259617        0.515767       0.053017   
+1                               0.000000        1.000000       0.000000   
+
+error_type                True Positive  
+trait_petiolated_present                 
+0                              0.171599  
+1                              0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.0, 'without': 0.09321070579725121, 'impact': -0.09321070579725121}}",0.0,2.825333504707214,0.9993438995358529,0.0,0.0,"{1: {'low_quartile_acc': 0.0, 'high_quartile_acc': 0.0, 'quartile_effect': 0.0}}"
+creeping_to_weakly_erect,225,-0.22448380180338942,1.4365913205785809e-15,2.7567022638129525e-15,Yes,"error_type                              False Negative  False Positive  \
+trait_creeping_to_weakly_erect_present                                   
+0                                             0.259465        0.516051   
+1                                             0.000000        1.000000   
+
+error_type                              True Negative  True Positive  
+trait_creeping_to_weakly_erect_present                                
+0                                            0.052986       0.171498  
+1                                            0.000000       0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.0, 'without': 0.09311448332817178, 'impact': -0.09311448332817178}}",0.0,-6.3572756922949525,0.9999869194955029,0.0,0.0,"{1: {'low_quartile_acc': 0.0, 'high_quartile_acc': 0.0, 'quartile_effect': 0.0}}"
+floral_tube_narrowly_obconic_without_red_dots,165,-0.22408889670742077,1.0132929106690427e-11,1.712947539464334e-11,Yes,"error_type                                          False Negative  \
+trait_floral_tube_narrowly_obconic_without_red_...                   
+0                                                         0.259008   
+1                                                         0.000000   
+
+error_type                                          False Positive  \
+trait_floral_tube_narrowly_obconic_without_red_...                   
+0                                                         0.516903   
+1                                                         1.000000   
+
+error_type                                          True Negative  \
+trait_floral_tube_narrowly_obconic_without_red_...                  
+0                                                        0.052892   
+1                                                        0.000000   
+
+error_type                                          True Positive  
+trait_floral_tube_narrowly_obconic_without_red_...                 
+0                                                        0.171197  
+1                                                        0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.0, 'without': 0.09282700421940929, 'impact': -0.09282700421940929}}",0.0,-15.664072236438372,0.9999376274786901,0.0,0.0,"{1: {'low_quartile_acc': 0.0, 'high_quartile_acc': 0.0, 'quartile_effect': 0.0}}"
+petals_pale_purple_to_purple,165,-0.22408889670742077,1.0132929106690427e-11,1.712947539464334e-11,Yes,"error_type                                  False Negative  False Positive  \
+trait_petals_pale_purple_to_purple_present                                   
+0                                                 0.259008        0.516903   
+1                                                 0.000000        1.000000   
+
+error_type                                  True Negative  True Positive  
+trait_petals_pale_purple_to_purple_present                                
+0                                                0.052892       0.171197  
+1                                                0.000000       0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.0, 'without': 0.09282700421940929, 'impact': -0.09282700421940929}}",0.0,-15.664072236438372,0.9999376274786901,0.0,0.0,"{1: {'low_quartile_acc': 0.0, 'high_quartile_acc': 0.0, 'quartile_effect': 0.0}}"
+rounded_base,88,-0.22358413292768547,9.392949349901326e-07,1.2824988535442195e-06,Yes,"error_type                  False Negative  False Positive  True Negative  \
+trait_rounded_base_present                                                  
+0                                 0.258425        0.517991       0.052773   
+1                                 0.000000        1.000000       0.000000   
+
+error_type                  True Positive  
+trait_rounded_base_present                 
+0                                0.170811  
+1                                0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.0, 'without': 0.09246066321562196, 'impact': -0.09246066321562196}}",0.0,-2.9785355012830244,0.9999172341045185,0.0,0.0,"{1: {'low_quartile_acc': 0.0, 'high_quartile_acc': 0.0, 'quartile_effect': 0.0}}"
+stamens_2_3,80,-0.22353182030884416,3.116919985508918e-06,3.951809267341664e-06,Yes,"error_type                 False Negative  False Positive  True Negative  \
+trait_stamens_2_3_present                                                  
+0                                0.258365        0.518104       0.052761   
+1                                0.000000        1.000000       0.000000   
+
+error_type                 True Positive  
+trait_stamens_2_3_present                 
+0                               0.170771  
+1                               0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.0, 'without': 0.09242276755981352, 'impact': -0.09242276755981352}}",0.0,-1.9948077393501535,0.9999265048602066,0.0,0.0,"{1: {'low_quartile_acc': 0.0, 'high_quartile_acc': 0.0, 'quartile_effect': 0.0}}"
+one_or_few_flowers_in_the_axil_of_leaves,80,-0.22353182030884416,3.116919985508918e-06,3.951809267341664e-06,Yes,"error_type                                          False Negative  \
+trait_one_or_few_flowers_in_the_axil_of_leaves_...                   
+0                                                         0.258365   
+1                                                         0.000000   
+
+error_type                                          False Positive  \
+trait_one_or_few_flowers_in_the_axil_of_leaves_...                   
+0                                                         0.518104   
+1                                                         1.000000   
+
+error_type                                          True Negative  \
+trait_one_or_few_flowers_in_the_axil_of_leaves_...                  
+0                                                        0.052761   
+1                                                        0.000000   
+
+error_type                                          True Positive  
+trait_one_or_few_flowers_in_the_axil_of_leaves_...                 
+0                                                        0.170771  
+1                                                        0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.0, 'without': 0.09242276755981352, 'impact': -0.09242276755981352}}",0.0,-1.9948077393501535,0.9999265048602066,0.0,0.0,"{1: {'low_quartile_acc': 0.0, 'high_quartile_acc': 0.0, 'quartile_effect': 0.0}}"
+petals_pinkish_to_white,58,-0.2233880867481148,8.648443842772988e-05,0.00010407449370116646,Yes,"error_type                             False Negative  False Positive  \
+trait_petals_pinkish_to_white_present                                   
+0                                            0.258198        0.518414   
+1                                            0.000000        1.000000   
+
+error_type                             True Negative  True Positive  
+trait_petals_pinkish_to_white_present                                
+0                                           0.052727       0.170661  
+1                                           0.000000       0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.0, 'without': 0.09231871449772273, 'impact': -0.09231871449772273}}",0.0,,,0.0,0.0,"{1: {'low_quartile_acc': 0.0, 'high_quartile_acc': 0.0, 'quartile_effect': 0.0}}"
+sometimes_alternate_distally,18,-0.22312722601739943,0.04655110797490031,0.04790041545243365,Yes,"error_type                                  False Negative  False Positive  \
+trait_sometimes_alternate_distally_present                                   
+0                                                 0.257897        0.518976   
+1                                                 0.000000        1.000000   
+
+error_type                                  True Negative  True Positive  
+trait_sometimes_alternate_distally_present                                
+0                                                0.052665       0.170462  
+1                                                0.000000       0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.0, 'without': 0.09213012614268934, 'impact': -0.09213012614268934}}",0.0,-6.836157298642942,0.9999999379027773,0.0,0.0,"{1: {'low_quartile_acc': 0.0, 'high_quartile_acc': 0.0, 'quartile_effect': 0.0}}"
+leaves_with_petiole,10,-0.22307512696281595,0.18867375430933359,0.18867375430933359,No,"error_type                         False Negative  False Positive  \
+trait_leaves_with_petiole_present                                   
+0                                        0.257837        0.519088   
+1                                        0.000000        1.000000   
+
+error_type                         True Negative  True Positive  
+trait_leaves_with_petiole_present                                
+0                                       0.052653       0.170422  
+1                                       0.000000       0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.0, 'without': 0.09209250089335852, 'impact': -0.09209250089335852}}",0.0,-4.72148439576296,0.9999984029411226,0.0,0.0,"{1: {'low_quartile_acc': 0.0, 'high_quartile_acc': 0.0, 'quartile_effect': 0.0}}"
+sessile_base_narrowly_attenuate,1921,-0.21639932346061438,2.5865987357450715e-108,1.0202695013216671e-107,Yes,"error_type                                     False Negative  False Positive  \
+trait_sessile_base_narrowly_attenuate_present                                   
+0                                                    0.273067        0.491793   
+1                                                    0.000000        0.981260   
+
+error_type                                     True Negative  True Positive  
+trait_sessile_base_narrowly_attenuate_present                                
+0                                                   0.054651       0.180489  
+1                                                   0.018740       0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.018740239458615304, 'without': 0.10001131349700193, 'impact': -0.08127107403838663}}",-0.017343897598875228,-1.6977722524531145,0.024497316708800117,0.02636916835699797,0.009025270758122744,"{1: {'low_quartile_acc': 0.02636916835699797, 'high_quartile_acc': 0.009025270758122744, 'quartile_effect': -0.017343897598875228}}"
+subsessile,2847,-0.2152499847010587,1.4983937385959393e-153,1.0638595544031168e-152,Yes,"error_type                False Negative  False Positive  True Negative  \
+trait_subsessile_present                                                  
+0                               0.281114        0.477995       0.055084   
+1                               0.000000        0.974359       0.025641   
+
+error_type                True Positive  
+trait_subsessile_present                 
+0                              0.185807  
+1                              0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.02564102564102564, 'without': 0.10333094555873926, 'impact': -0.07768991991771362}}",-0.0016190933077476627,-0.20179483457043285,0.6812071837869444,0.022727272727272728,0.021108179419525065,"{1: {'low_quartile_acc': 0.022727272727272728, 'high_quartile_acc': 0.021108179419525065, 'quartile_effect': -0.0016190933077476627}}"
+leaves_alternate,2755,-0.21447996808912564,5.034498888928099e-148,2.978745175949125e-147,Yes,"error_type                      False Negative  False Positive  True Negative  \
+trait_leaves_alternate_present                                                  
+0                                     0.280293        0.479456       0.054986   
+1                                     0.000000        0.974229       0.025771   
+
+error_type                      True Positive  
+trait_leaves_alternate_present                 
+0                                    0.185265  
+1                                    0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.025771324863883848, 'without': 0.10288530040370458, 'impact': -0.07711397553982073}}",-0.004020688879200009,-0.27505535272696624,0.5821852404494468,0.024484536082474227,0.020463847203274217,"{1: {'low_quartile_acc': 0.024484536082474227, 'high_quartile_acc': 0.020463847203274217, 'quartile_effect': -0.004020688879200009}}"
+prostrate_and_spreading,1738,-0.2143156883658155,7.639979375686542e-97,2.8549396614407607e-96,Yes,"error_type                             False Negative  False Positive  \
+trait_prostrate_and_spreading_present                                   
+0                                            0.271531        0.494590   
+1                                            0.000000        0.980437   
+
+error_type                             True Negative  True Positive  
+trait_prostrate_and_spreading_present                                
+0                                           0.054405       0.179474  
+1                                           0.019563       0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.019562715765247412, 'without': 0.09909859470354404, 'impact': -0.07953587893829663}}",-0.016083669608625912,-1.2680434216472545,0.10683241965073749,0.025830258302583026,0.009746588693957114,"{1: {'low_quartile_acc': 0.025830258302583026, 'high_quartile_acc': 0.009746588693957114, 'quartile_effect': -0.016083669608625912}}"
+base_obtuse_to_truncate,2686,-0.2136970633520539,1.2409815749424985e-143,6.77766860160903e-143,Yes,"error_type                             False Negative  False Positive  \
+trait_base_obtuse_to_truncate_present                                   
+0                                            0.279681        0.480561   
+1                                            0.000000        0.973939   
+
+error_type                             True Negative  True Positive  
+trait_base_obtuse_to_truncate_present                                
+0                                           0.054898        0.18486  
+1                                           0.026061        0.00000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.026061057334326135, 'without': 0.10252468515343227, 'impact': -0.07646362781910614}}",-0.0027990503551930217,-0.2198078597265865,0.6618465221416401,0.023778071334214,0.02097902097902098,"{1: {'low_quartile_acc': 0.023778071334214, 'high_quartile_acc': 0.02097902097902098, 'quartile_effect': -0.0027990503551930217}}"
+sprawling_or_ascending,2422,-0.21153474106405568,3.683035056438302e-128,1.6343468062944965e-127,Yes,"error_type                            False Negative  False Positive  \
+trait_sprawling_or_ascending_present                                   
+0                                           0.277363        0.484678   
+1                                           0.000000        0.973576   
+
+error_type                            True Negative  True Positive  
+trait_sprawling_or_ascending_present                                
+0                                          0.054631       0.183328  
+1                                          0.026424       0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.026424442609413706, 'without': 0.1012982476567503, 'impact': -0.0748738050473366}}",-0.007644420031126982,-0.41134669930810436,0.45464065526531794,0.030303030303030304,0.022658610271903322,"{1: {'low_quartile_acc': 0.030303030303030304, 'high_quartile_acc': 0.022658610271903322, 'quartile_effect': -0.007644420031126982}}"
+floral_tube_campanulate,1324,-0.21075936924502842,1.1330479677875087e-72,2.6815468570971037e-72,Yes,"error_type                             False Negative  False Positive  \
+trait_floral_tube_campanulate_present                                   
+0                                            0.268119        0.500728   
+1                                            0.000000        0.979607   
+
+error_type                             True Negative  True Positive  
+trait_floral_tube_campanulate_present                                
+0                                           0.053933       0.177219  
+1                                           0.020393       0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.02039274924471299, 'without': 0.09723666210670315, 'impact': -0.07684391286199016}}",-0.021735591012699448,-1.0404051290313103,0.29264264209505897,0.033783783783783786,0.012048192771084338,"{1: {'low_quartile_acc': 0.033783783783783786, 'high_quartile_acc': 0.012048192771084338, 'quartile_effect': -0.021735591012699448}}"
+petals_white_to_pink,1323,-0.21073693977272234,1.3208660125316304e-72,3.025209254507928e-72,Yes,"error_type                          False Negative  False Positive  \
+trait_petals_white_to_pink_present                                   
+0                                         0.268111        0.500744   
+1                                         0.000000        0.979592   
+
+error_type                          True Negative  True Positive  
+trait_petals_white_to_pink_present                                
+0                                        0.053932       0.177213  
+1                                        0.020408       0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.02040816326530612, 'without': 0.0972313416502517, 'impact': -0.07682317838494558}}",-0.021735591012699448,-1.0411438581869172,0.29216847711286587,0.033783783783783786,0.012048192771084338,"{1: {'low_quartile_acc': 0.033783783783783786, 'high_quartile_acc': 0.012048192771084338, 'quartile_effect': -0.021735591012699448}}"
+calyx_with_alternate_long_and_small_teeth,7693,0.20756796886963344,0.0,0.0,Yes,"error_type                                          False Negative  \
+trait_calyx_with_alternate_long_and_small_teeth...                   
+0                                                         0.158057   
+1                                                         0.602236   
+
+error_type                                          False Positive  \
+trait_calyx_with_alternate_long_and_small_teeth...                   
+0                                                         0.665525   
+1                                                         0.013779   
+
+error_type                                          True Negative  \
+trait_calyx_with_alternate_long_and_small_teeth...                  
+0                                                        0.067158   
+1                                                        0.002470   
+
+error_type                                          True Positive  
+trait_calyx_with_alternate_long_and_small_teeth...                 
+0                                                        0.109259  
+1                                                        0.381516  ","{0: {'with': 0.3878171247357294, 'without': 0.4087262491203378, 'impact': -0.020909124384608402}, 1: {'with': 0.152, 'without': 0.0916606757728253, 'impact': 0.060339324227174695}}",0.0020671807470943326,0.006504628471392895,0.9505668710183459,0.38781804163454126,0.3898852223816356,"{0: {'low_quartile_acc': 0.390912651782217, 'high_quartile_acc': 0.39400584795321636, 'quartile_effect': 0.003093196170999346}, 1: {'low_quartile_acc': 0.1951219512195122, 'high_quartile_acc': 0.17307692307692307, 'quartile_effect': -0.02204502814258913}}"
+leaves_mostly_alternate,122,-0.20735472721599502,7.313287422711888e-08,1.0596804224745797e-07,Yes,"error_type                             False Negative  False Positive  \
+trait_leaves_mostly_alternate_present                                   
+0                                            0.258682        0.517570   
+1                                            0.000000        0.983607   
+
+error_type                             True Negative  True Positive  
+trait_leaves_mostly_alternate_present                                
+0                                           0.052767       0.170981  
+1                                           0.016393       0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.01639344262295082, 'without': 0.09251938183498486, 'impact': -0.07612593921203403}}",0.0,-0.23908982036490395,0.9351144153732478,0.0,0.0,"{1: {'low_quartile_acc': 0.0, 'high_quartile_acc': 0.0, 'quartile_effect': 0.0}}"
+sometimes_creeping,60,-0.20670524962001638,0.0002261556441239456,0.0002589846892387119,Yes,"error_type                        False Negative  False Positive  \
+trait_sometimes_creeping_present                                   
+0                                       0.258213        0.518415   
+1                                       0.000000        0.983333   
+
+error_type                        True Negative  True Positive  
+trait_sometimes_creeping_present                                
+0                                      0.052701       0.170671  
+1                                      0.016667       0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.016666666666666666, 'without': 0.09227698449255335, 'impact': -0.07561031782588669}}",-0.047619047619047616,-4.48476661846694,0.48829632566132364,0.047619047619047616,0.0,"{1: {'low_quartile_acc': 0.047619047619047616, 'high_quartile_acc': 0.0, 'quartile_effect': -0.047619047619047616}}"
+stamens_5_8,2550,-0.20661875039404828,3.189897791662451e-128,1.5098849547202269e-127,Yes,"error_type                 False Negative  False Positive  True Negative  \
+trait_stamens_5_8_present                                                  
+0                                0.278482        0.483135       0.054316   
+1                                0.000000        0.968235       0.031765   
+
+error_type                 True Positive  
+trait_stamens_5_8_present                 
+0                               0.184068  
+1                               0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.03176470588235294, 'without': 0.10106164584433104, 'impact': -0.06929693996197811}}",-0.0012605563835072012,-0.253536046070326,0.6375429673393874,0.03295454545454545,0.03169398907103825,"{1: {'low_quartile_acc': 0.03295454545454545, 'high_quartile_acc': 0.03169398907103825, 'quartile_effect': -0.0012605563835072012}}"
+red_dotted,1864,-0.2057679553503983,2.0745723739990807e-95,7.014030407330225e-95,Yes,"error_type                False Negative  False Positive  True Negative  \
+trait_red_dotted_present                                                  
+0                               0.272587        0.493212       0.054030   
+1                               0.000000        0.971567       0.028433   
+
+error_type                True Positive  
+trait_red_dotted_present                 
+0                              0.180172  
+1                              0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.028433476394849784, 'without': 0.09873132224414999, 'impact': -0.07029784584930021}}",-0.009007568489500052,-0.3380973890882306,0.6059596467134274,0.0330188679245283,0.02401129943502825,"{1: {'low_quartile_acc': 0.0330188679245283, 'high_quartile_acc': 0.02401129943502825, 'quartile_effect': -0.009007568489500052}}"
+solitary_in_leaf_axils,1864,-0.2057679553503983,2.0745723739990807e-95,7.014030407330225e-95,Yes,"error_type                            False Negative  False Positive  \
+trait_solitary_in_leaf_axils_present                                   
+0                                           0.272587        0.493212   
+1                                           0.000000        0.971567   
+
+error_type                            True Negative  True Positive  
+trait_solitary_in_leaf_axils_present                                
+0                                          0.054030       0.180172  
+1                                          0.028433       0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.028433476394849784, 'without': 0.09873132224414999, 'impact': -0.07029784584930021}}",-0.009007568489500052,-0.3380973890882306,0.6059596467134274,0.0330188679245283,0.02401129943502825,"{1: {'low_quartile_acc': 0.0330188679245283, 'high_quartile_acc': 0.02401129943502825, 'quartile_effect': -0.009007568489500052}}"
+erect_or_decumbent,111,-0.20565810387536917,3.7236246034354874e-07,5.183869545959208e-07,Yes,"error_type                        False Negative  False Positive  \
+trait_erect_or_decumbent_present                                   
+0                                       0.258599        0.517725   
+1                                       0.000000        0.981982   
+
+error_type                        True Negative  True Positive  
+trait_erect_or_decumbent_present                                
+0                                      0.052750       0.170926  
+1                                      0.018018       0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.018018018018018018, 'without': 0.09246715927750411, 'impact': -0.0744491412594861}}",-0.029411764705882353,-2.2509868826664485,0.561705880858201,0.029411764705882353,0.0,"{1: {'low_quartile_acc': 0.029411764705882353, 'high_quartile_acc': 0.0, 'quartile_effect': -0.029411764705882353}}"
+floral_tube_obconic,1870,-0.20533693206367734,2.6641384616462004e-95,8.597901398949102e-95,Yes,"error_type                         False Negative  False Positive  \
+trait_floral_tube_obconic_present                                   
+0                                        0.272637        0.493149   
+1                                        0.000000        0.971123   
+
+error_type                         True Negative  True Positive  
+trait_floral_tube_obconic_present                                
+0                                       0.054009       0.180205  
+1                                       0.028877       0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.028877005347593583, 'without': 0.09870833098313497, 'impact': -0.0698313256355414}}",-0.009057047031730579,-0.3713907030816827,0.5687945474651641,0.03296703296703297,0.02390998593530239,"{1: {'low_quartile_acc': 0.03296703296703297, 'high_quartile_acc': 0.02390998593530239, 'quartile_effect': -0.009057047031730579}}"
+prostrate,335,-0.20410963422566575,7.671091388497293e-19,1.6504469351009328e-18,Yes,"error_type               False Negative  False Positive  True Negative  \
+trait_prostrate_present                                                  
+0                              0.260306        0.514689       0.052951   
+1                              0.000000        0.979104       0.020896   
+
+error_type               True Positive  
+trait_prostrate_present                 
+0                             0.172054  
+1                             0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.020895522388059702, 'without': 0.0932828073089701, 'impact': -0.0723872849209104}}",-0.010098884914790657,-1.3440726694673697,0.4496736283890197,0.02040816326530612,0.010309278350515464,"{1: {'low_quartile_acc': 0.02040816326530612, 'high_quartile_acc': 0.010309278350515464, 'quartile_effect': -0.010098884914790657}}"
+needle_like_leaves,193,-0.20343024976863422,2.3339849776162242e-11,3.5258070938457854e-11,Yes,"error_type                        False Negative  False Positive  \
+trait_needle_like_leaves_present                                   
+0                                       0.259221        0.516623   
+1                                       0.000000        0.979275   
+
+error_type                        True Negative  True Positive  
+trait_needle_like_leaves_present                                
+0                                      0.052818       0.171337  
+1                                      0.020725       0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.02072538860103627, 'without': 0.09275481809749563, 'impact': -0.07202942949645935}}",0.016628873771730914,1.2170861876343217,0.5576770130389472,0.02040816326530612,0.037037037037037035,"{1: {'low_quartile_acc': 0.02040816326530612, 'high_quartile_acc': 0.037037037037037035, 'quartile_effect': 0.016628873771730914}}"
+petals_pale_purple_to_purple_sometimes_with_red_midribs,85,-0.19997659929212858,1.76122979224306e-05,2.1559881939527117e-05,Yes,"error_type                                          False Negative  \
+trait_petals_pale_purple_to_purple_sometimes_wi...                   
+0                                                         0.258402   
+1                                                         0.000000   
+
+error_type                                          False Positive  \
+trait_petals_pale_purple_to_purple_sometimes_wi...                   
+0                                                         0.518092   
+1                                                         0.976471   
+
+error_type                                          True Negative  \
+trait_petals_pale_purple_to_purple_sometimes_wi...                  
+0                                                        0.052710   
+1                                                        0.023529   
+
+error_type                                          True Positive  
+trait_petals_pale_purple_to_purple_sometimes_wi...                 
+0                                                        0.170796  
+1                                                        0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.023529411764705882, 'without': 0.092343958183868, 'impact': -0.06881454641916211}}",0.044444444444444446,2.2363935871086444,0.42885484237916693,0.0,0.044444444444444446,"{1: {'low_quartile_acc': 0.0, 'high_quartile_acc': 0.044444444444444446, 'quartile_effect': 0.044444444444444446}}"
+floral_tube_obconic_without_red_dots,85,-0.19997659929212858,1.76122979224306e-05,2.1559881939527117e-05,Yes,"error_type                                          False Negative  \
+trait_floral_tube_obconic_without_red_dots_present                   
+0                                                         0.258402   
+1                                                         0.000000   
+
+error_type                                          False Positive  \
+trait_floral_tube_obconic_without_red_dots_present                   
+0                                                         0.518092   
+1                                                         0.976471   
+
+error_type                                          True Negative  \
+trait_floral_tube_obconic_without_red_dots_present                  
+0                                                        0.052710   
+1                                                        0.023529   
+
+error_type                                          True Positive  
+trait_floral_tube_obconic_without_red_dots_present                 
+0                                                        0.170796  
+1                                                        0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.023529411764705882, 'without': 0.092343958183868, 'impact': -0.06881454641916211}}",0.044444444444444446,2.2363935871086444,0.42885484237916693,0.0,0.044444444444444446,"{1: {'low_quartile_acc': 0.0, 'high_quartile_acc': 0.044444444444444446, 'quartile_effect': 0.044444444444444446}}"
+flower_tube_narrowly_cylindrical_without_red_dots,203,-0.199561538905325,1.747217910909842e-11,2.6967928624912778e-11,Yes,"error_type                                          False Negative  \
+trait_flower_tube_narrowly_cylindrical_without_...                   
+0                                                         0.259297   
+1                                                         0.000000   
+
+error_type                                          False Positive  \
+trait_flower_tube_narrowly_cylindrical_without_...                   
+0                                                         0.516511   
+1                                                         0.975369   
+
+error_type                                          True Negative  \
+trait_flower_tube_narrowly_cylindrical_without_...                  
+0                                                        0.052805   
+1                                                        0.024631   
+
+error_type                                          True Positive  
+trait_flower_tube_narrowly_cylindrical_without_...                 
+0                                                        0.171387  
+1                                                        0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.024630541871921183, 'without': 0.09275108269746339, 'impact': -0.06812054082554221}}",0.03824942181106565,1.1731126666921972,0.4803635725765253,0.0136986301369863,0.05194805194805195,"{1: {'low_quartile_acc': 0.0136986301369863, 'high_quartile_acc': 0.05194805194805195, 'quartile_effect': 0.03824942181106565}}"
+petals_lavender,203,-0.199561538905325,1.747217910909842e-11,2.6967928624912778e-11,Yes,"error_type                     False Negative  False Positive  True Negative  \
+trait_petals_lavender_present                                                  
+0                                    0.259297        0.516511       0.052805   
+1                                    0.000000        0.975369       0.024631   
+
+error_type                     True Positive  
+trait_petals_lavender_present                 
+0                                   0.171387  
+1                                   0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.024630541871921183, 'without': 0.09275108269746339, 'impact': -0.06812054082554221}}",0.03824942181106565,1.1731126666921972,0.4803635725765253,0.0136986301369863,0.05194805194805195,"{1: {'low_quartile_acc': 0.0136986301369863, 'high_quartile_acc': 0.05194805194805195, 'quartile_effect': 0.03824942181106565}}"
+stamens_4_6,203,-0.199561538905325,1.747217910909842e-11,2.6967928624912778e-11,Yes,"error_type                 False Negative  False Positive  True Negative  \
+trait_stamens_4_6_present                                                  
+0                                0.259297        0.516511       0.052805   
+1                                0.000000        0.975369       0.024631   
+
+error_type                 True Positive  
+trait_stamens_4_6_present                 
+0                               0.171387  
+1                               0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.024630541871921183, 'without': 0.09275108269746339, 'impact': -0.06812054082554221}}",0.03824942181106565,1.1731126666921972,0.4803635725765253,0.0136986301369863,0.05194805194805195,"{1: {'low_quartile_acc': 0.0136986301369863, 'high_quartile_acc': 0.05194805194805195, 'quartile_effect': 0.03824942181106565}}"
+calyx_with_teeth_of_the_same_length,203,-0.199561538905325,1.747217910909842e-11,2.6967928624912778e-11,Yes,"error_type                                         False Negative  \
+trait_calyx_with_teeth_of_the_same_length_present                   
+0                                                        0.259297   
+1                                                        0.000000   
+
+error_type                                         False Positive  \
+trait_calyx_with_teeth_of_the_same_length_present                   
+0                                                        0.516511   
+1                                                        0.975369   
+
+error_type                                         True Negative  \
+trait_calyx_with_teeth_of_the_same_length_present                  
+0                                                       0.052805   
+1                                                       0.024631   
+
+error_type                                         True Positive  
+trait_calyx_with_teeth_of_the_same_length_present                 
+0                                                       0.171387  
+1                                                       0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.024630541871921183, 'without': 0.09275108269746339, 'impact': -0.06812054082554221}}",0.03824942181106565,1.1731126666921972,0.4803635725765253,0.0136986301369863,0.05194805194805195,"{1: {'low_quartile_acc': 0.0136986301369863, 'high_quartile_acc': 0.05194805194805195, 'quartile_effect': 0.03824942181106565}}"
+creeping,36,-0.19543755111578454,0.008916526461120776,0.009448856399098137,Yes,"error_type              False Negative  False Positive  True Negative  \
+trait_creeping_present                                                  
+0                             0.258032        0.518752       0.052664   
+1                             0.000000        0.972222       0.027778   
+
+error_type              True Positive  
+trait_creeping_present                 
+0                            0.170551  
+1                            0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.027777777777777776, 'without': 0.0921637785615703, 'impact': -0.06438600078379253}}",-0.05,-1018.6332253884478,0.9960575850018999,0.05,0.0,"{1: {'low_quartile_acc': 0.05, 'high_quartile_acc': 0.0, 'quartile_effect': -0.05}}"
+leaves_opposite_but_sometimes_alternate,70,-0.19483655926554003,0.00016433145578698466,0.0001912710387028838,Yes,"error_type                                          False Negative  \
+trait_leaves_opposite_but_sometimes_alternate_p...                   
+0                                                         0.258289   
+1                                                         0.000000   
+
+error_type                                          False Positive  \
+trait_leaves_opposite_but_sometimes_alternate_p...                   
+0                                                         0.518303   
+1                                                         0.971429   
+
+error_type                                          True Negative  \
+trait_leaves_opposite_but_sometimes_alternate_p...                  
+0                                                        0.052687   
+1                                                        0.028571   
+
+error_type                                          True Positive  
+trait_leaves_opposite_but_sometimes_alternate_p...                 
+0                                                        0.170721  
+1                                                        0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.02857142857142857, 'without': 0.09227302985303908, 'impact': -0.06370160128161051}}",-0.05263157894736842,-3.654184876026006,0.3822184432720954,0.05263157894736842,0.0,"{1: {'low_quartile_acc': 0.05263157894736842, 'high_quartile_acc': 0.0, 'quartile_effect': -0.05263157894736842}}"
+obovate,70,-0.19483655926554003,0.00016433145578698466,0.0001912710387028838,Yes,"error_type             False Negative  False Positive  True Negative  \
+trait_obovate_present                                                  
+0                            0.258289        0.518303       0.052687   
+1                            0.000000        0.971429       0.028571   
+
+error_type             True Positive  
+trait_obovate_present                 
+0                           0.170721  
+1                           0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.02857142857142857, 'without': 0.09227302985303908, 'impact': -0.06370160128161051}}",-0.05263157894736842,-3.654184876026006,0.3822184432720954,0.05263157894736842,0.0,"{1: {'low_quartile_acc': 0.05263157894736842, 'high_quartile_acc': 0.0, 'quartile_effect': -0.05263157894736842}}"
+distally_alternate,1866,-0.1939108374396945,5.146880534753048e-85,1.4054942998748708e-84,Yes,"error_type                        False Negative  False Positive  \
+trait_distally_alternate_present                                   
+0                                       0.272604        0.493828   
+1                                       0.000000        0.960343   
+
+error_type                        True Negative  True Positive  
+trait_distally_alternate_present                                
+0                                      0.053385       0.180183  
+1                                      0.039657       0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.03965702036441586, 'without': 0.09755822477866126, 'impact': -0.0579012044142454}}",0.02069509230668156,0.7653755111769299,0.10535048250609708,0.03225806451612903,0.05295315682281059,"{1: {'low_quartile_acc': 0.03225806451612903, 'high_quartile_acc': 0.05295315682281059, 'quartile_effect': 0.02069509230668156}}"
+sessile_or_subsessile,130,-0.19297278785885194,2.3401883295811287e-07,3.323067428005203e-07,Yes,"error_type                           False Negative  False Positive  \
+trait_sessile_or_subsessile_present                                   
+0                                          0.258743        0.517515   
+1                                          0.000000        0.969231   
+
+error_type                           True Negative  True Positive  
+trait_sessile_or_subsessile_present                                
+0                                         0.052721       0.171021  
+1                                         0.030769       0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.03076923076923077, 'without': 0.09245467152909755, 'impact': -0.061685440759866775}}",-0.02702702702702703,-0.7786497896699206,0.7120631839670373,0.02702702702702703,0.0,"{1: {'low_quartile_acc': 0.02702702702702703, 'high_quartile_acc': 0.0, 'quartile_effect': -0.02702702702702703}}"
+linear,1778,-0.19131551360905394,3.482513056105612e-79,9.15771951790735e-79,Yes,"error_type            False Negative  False Positive  True Negative  \
+trait_linear_present                                                  
+0                           0.271866        0.495199       0.053241   
+1                           0.000000        0.958380       0.041620   
+
+error_type            True Positive  
+trait_linear_present                 
+0                          0.179695  
+1                          0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.04161979752530934, 'without': 0.0970764828011896, 'impact': -0.05545668527588027}}",0.022425348829236517,0.8167243637082552,0.08563886539088875,0.03373015873015873,0.056155507559395246,"{1: {'low_quartile_acc': 0.03373015873015873, 'high_quartile_acc': 0.056155507559395246, 'quartile_effect': 0.022425348829236517}}"
+petals_pale_purple_or_whitish,264,-0.1903856846517397,2.328530859220238e-13,4.3506760790693926e-13,Yes,"error_type                                   False Negative  False Positive  \
+trait_petals_pale_purple_or_whitish_present                                   
+0                                                  0.259762        0.515761   
+1                                                  0.000000        0.965909   
+
+error_type                                   True Negative  True Positive  
+trait_petals_pale_purple_or_whitish_present                                
+0                                                 0.052782       0.171695  
+1                                                 0.034091       0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.03409090909090909, 'without': 0.09283682441168865, 'impact': -0.058745915320779565}}",-0.018744551002615517,-1.151218514917494,0.5376402371975921,0.03225806451612903,0.013513513513513514,"{1: {'low_quartile_acc': 0.03225806451612903, 'high_quartile_acc': 0.013513513513513514, 'quartile_effect': -0.018744551002615517}}"
+often_with_a_darker_midrib,113,-0.1882324382565965,2.7890620904631576e-06,3.6671001559793368e-06,Yes,"error_type                                False Negative  False Positive  \
+trait_often_with_a_darker_midrib_present                                   
+0                                               0.258614        0.517755   
+1                                               0.000000        0.964602   
+
+error_type                                True Negative  True Positive  
+trait_often_with_a_darker_midrib_present                                
+0                                              0.052695       0.170936  
+1                                              0.035398       0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.035398230088495575, 'without': 0.09237401211125937, 'impact': -0.05697578202276379}}",-0.013415892672858615,-1.7207518727955382,0.5136114005026097,0.05263157894736842,0.0392156862745098,"{1: {'low_quartile_acc': 0.05263157894736842, 'high_quartile_acc': 0.0392156862745098, 'quartile_effect': -0.013415892672858615}}"
+petals_pinkish,113,-0.1882324382565965,2.7890620904631576e-06,3.6671001559793368e-06,Yes,"error_type                    False Negative  False Positive  True Negative  \
+trait_petals_pinkish_present                                                  
+0                                   0.258614        0.517755       0.052695   
+1                                   0.000000        0.964602       0.035398   
+
+error_type                    True Positive  
+trait_petals_pinkish_present                 
+0                                  0.170936  
+1                                  0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.035398230088495575, 'without': 0.09237401211125937, 'impact': -0.05697578202276379}}",-0.013415892672858615,-1.7207518727955382,0.5136114005026097,0.05263157894736842,0.0392156862745098,"{1: {'low_quartile_acc': 0.05263157894736842, 'high_quartile_acc': 0.0392156862745098, 'quartile_effect': -0.013415892672858615}}"
+usually_with_a_darker_midrib,270,-0.18744975785738094,2.946666590342929e-13,5.364444305496101e-13,Yes,"error_type                                  False Negative  False Positive  \
+trait_usually_with_a_darker_midrib_present                                   
+0                                                 0.259808        0.515705   
+1                                                 0.000000        0.962963   
+
+error_type                                  True Negative  True Positive  
+trait_usually_with_a_darker_midrib_present                                
+0                                                0.052762       0.171725  
+1                                                0.037037       0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.037037037037037035, 'without': 0.09281390656526463, 'impact': -0.05577686952822759}}",-0.018927880630008286,-1.2568811770262247,0.48151104373086406,0.031914893617021274,0.012987012987012988,"{1: {'low_quartile_acc': 0.031914893617021274, 'high_quartile_acc': 0.012987012987012988, 'quartile_effect': -0.018927880630008286}}"
+prostrate_to_weakly_erect,271,-0.1838735804492835,7.521374875163778e-13,1.3350440403415706e-12,Yes,"error_type                               False Negative  False Positive  \
+trait_prostrate_to_weakly_erect_present                                   
+0                                              0.259816         0.51572   
+1                                              0.000000         0.95941   
+
+error_type                               True Negative  True Positive  
+trait_prostrate_to_weakly_erect_present                                
+0                                             0.052734        0.17173  
+1                                             0.040590        0.00000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.04059040590405904, 'without': 0.0927669701986755, 'impact': -0.05217656429461646}}",0.04645593869731801,1.919574159734856,0.10574340674045307,0.022988505747126436,0.06944444444444445,"{1: {'low_quartile_acc': 0.022988505747126436, 'high_quartile_acc': 0.06944444444444445, 'quartile_effect': 0.04645593869731801}}"
+petals_reddish,44,-0.1777837389909378,0.008049285462494633,0.008659079815713924,Yes,"error_type                    False Negative  False Positive  True Negative  \
+trait_petals_reddish_present                                                  
+0                                   0.258093        0.518669       0.052647   
+1                                   0.000000        0.954545       0.045455   
+
+error_type                    True Positive  
+trait_petals_reddish_present                 
+0                                  0.170591  
+1                                  0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.045454545454545456, 'without': 0.0921503451802608, 'impact': -0.046695799725715345}}",0.0,0.2880004706977597,0.9087210508483217,0.0,0.0,"{1: {'low_quartile_acc': 0.0, 'high_quartile_acc': 0.0, 'quartile_effect': 0.0}}"
+petals_minute,44,-0.1777837389909378,0.008049285462494633,0.008659079815713924,Yes,"error_type                   False Negative  False Positive  True Negative  \
+trait_petals_minute_present                                                  
+0                                  0.258093        0.518669       0.052647   
+1                                  0.000000        0.954545       0.045455   
+
+error_type                   True Positive  
+trait_petals_minute_present                 
+0                                 0.170591  
+1                                 0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.045454545454545456, 'without': 0.0921503451802608, 'impact': -0.046695799725715345}}",0.0,0.2880004706977597,0.9087210508483217,0.0,0.0,"{1: {'low_quartile_acc': 0.0, 'high_quartile_acc': 0.0, 'quartile_effect': 0.0}}"
+sessile,21709,0.1763895557619044,0.0,0.0,Yes,"error_type             False Negative  False Positive  True Negative  \
+trait_sessile_present                                                  
+0                            0.105628        0.783093       0.037889   
+1                            0.345801        0.366530       0.061173   
+
+error_type             True Positive  
+trait_sessile_present                 
+0                           0.073390  
+1                           0.226496  ","{0: {'with': 0.3957662588538313, 'without': 0.40995998221431745, 'impact': -0.014193723360486132}, 1: {'with': 0.14302638664512654, 'without': 0.046150862904789605, 'impact': 0.09687552374033694}}",-0.0015842528086648655,-0.008434099424594003,0.8902873224101742,0.2919625564880568,0.29037830367939194,"{0: {'low_quartile_acc': 0.40421940928270045, 'high_quartile_acc': 0.40444711538461536, 'quartile_effect': 0.00022770610191491514}, 1: {'low_quartile_acc': 0.1408557364634608, 'high_quartile_acc': 0.13612352702153596, 'quartile_effect': -0.004732209441924845}}"
+petals_pink,63,-0.1757139933935514,0.0013938299339422355,0.0015708242112682336,Yes,"error_type                 False Negative  False Positive  True Negative  \
+trait_petals_pink_present                                                  
+0                                0.258236        0.518431       0.052647   
+1                                0.000000        0.952381       0.047619   
+
+error_type                 True Positive  
+trait_petals_pink_present                 
+0                               0.170686  
+1                               0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.047619047619047616, 'without': 0.09218877968877968, 'impact': -0.04456973206973207}}",0.08695652173913043,2.5493912194872412,0.3022880479143365,0.0,0.08695652173913043,"{1: {'low_quartile_acc': 0.0, 'high_quartile_acc': 0.08695652173913043, 'quartile_effect': 0.08695652173913043}}"
+flowers_solitary,36,-0.16763056431826148,0.02678466585844494,0.027966342293376335,Yes,"error_type                      False Negative  False Positive  True Negative  \
+trait_flowers_solitary_present                                                  
+0                                     0.258032        0.518781       0.052635   
+1                                     0.000000        0.944444       0.055556   
+
+error_type                      True Positive  
+trait_flowers_solitary_present                 
+0                                    0.170551  
+1                                    0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.05555555555555555, 'without': 0.09211266165721003, 'impact': -0.03655710610165448}}",0.125,2.5631784241789055,0.4467270705698071,0.0,0.125,"{1: {'low_quartile_acc': 0.0, 'high_quartile_acc': 0.125, 'quartile_effect': 0.125}}"
+minute,51,-0.16443119721808247,0.008035957394924617,0.008659079815713924,Yes,"error_type            False Negative  False Positive  True Negative  \
+trait_minute_present                                                  
+0                           0.258146        0.518600       0.052629   
+1                           0.000000        0.941176       0.058824   
+
+error_type            True Positive  
+trait_minute_present                 
+0                          0.170626  
+1                          0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.058823529411764705, 'without': 0.09213218743605484, 'impact': -0.03330865802429013}}",0.1111111111111111,2.3285732402524655,0.32402515966277023,0.0,0.1111111111111111,"{1: {'low_quartile_acc': 0.0, 'high_quartile_acc': 0.1111111111111111, 'quartile_effect': 0.1111111111111111}}"
+inflorescence_raceme,9525,-0.1611233684891098,6.894701441679876e-226,8.158730039321186e-225,Yes,"error_type                          False Negative  False Positive  \
+trait_inflorescence_raceme_present                                   
+0                                         0.356973        0.375237   
+1                                         0.000000        0.893333   
+
+error_type                          True Negative  True Positive  
+trait_inflorescence_raceme_present                                
+0                                        0.031842       0.235948  
+1                                        0.106667       0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.10666666666666667, 'without': 0.07822116339090729, 'impact': 0.028445503275759385}}",0.00016398981412824032,0.04839781724728765,0.7464156455351727,0.10406958682820752,0.10423357664233576,"{1: {'low_quartile_acc': 0.10406958682820752, 'high_quartile_acc': 0.10423357664233576, 'quartile_effect': 0.00016398981412824032}}"
+purple,28,-0.15170540824670015,0.08902193569912635,0.0902936776376853,No,"error_type            False Negative  False Positive  True Negative  \
+trait_purple_present                                                  
+0                           0.257972        0.518894       0.052622   
+1                           0.000000        0.928571       0.071429   
+
+error_type            True Positive  
+trait_purple_present                 
+0                          0.170512  
+1                          0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.07142857142857142, 'without': 0.09207500894180165, 'impact': -0.020646437513230226}}",0.14285714285714285,2.0588680899477283,0.5397457689423804,0.0,0.14285714285714285,"{1: {'low_quartile_acc': 0.0, 'high_quartile_acc': 0.14285714285714285, 'quartile_effect': 0.14285714285714285}}"
+inflorescence_spikelike,9111,0.14234866805811405,6.015673046057564e-172,5.338909828376088e-171,Yes,"error_type                             False Negative  False Positive  \
+trait_inflorescence_spikelike_present                                   
+0                                            0.166965        0.647868   
+1                                            0.508506        0.163978   
+
+error_type                             True Negative  True Positive  
+trait_inflorescence_spikelike_present                                
+0                                           0.069751       0.115417  
+1                                           0.005378       0.322138  ","{0: {'with': 0.3878171247357294, 'without': 0.4087262491203378, 'impact': -0.020909124384608402}, 1: {'with': 0.031756318859364877, 'without': 0.09719760744350908, 'impact': -0.0654412885841442}}",-0.00201570499149889,-0.03390605421151384,0.7331761422587112,0.33203378817413903,0.33001808318264014,"{0: {'low_quartile_acc': 0.390912651782217, 'high_quartile_acc': 0.39400584795321636, 'quartile_effect': 0.003093196170999346}, 1: {'low_quartile_acc': 0.045714285714285714, 'high_quartile_acc': 0.029209621993127148, 'quartile_effect': -0.016504663721158566}}"
+stamens_12,9449,0.13118022386516434,1.15200265102487e-149,7.435653474796889e-149,Yes,"error_type                False Negative  False Positive  True Negative  \
+trait_stamens_12_present                                                  
+0                               0.169238        0.643919       0.069855   
+1                               0.490316        0.191660       0.007408   
+
+error_type                True Positive  
+trait_stamens_12_present                 
+0                              0.116988  
+1                              0.310615  ","{0: {'with': 0.3878171247357294, 'without': 0.4087262491203378, 'impact': -0.020909124384608402}, 1: {'with': 0.03721424774056353, 'without': 0.09786657636302065, 'impact': -0.06065232862245712}}",-0.0019109301524801725,-0.01713755349220412,0.8625222261444823,0.3212386612449171,0.31932773109243695,"{0: {'low_quartile_acc': 0.390912651782217, 'high_quartile_acc': 0.39400584795321636, 'quartile_effect': 0.003093196170999346}, 1: {'low_quartile_acc': 0.04503105590062112, 'high_quartile_acc': 0.033566433566433566, 'quartile_effect': -0.011464622334187553}}"
+floral_tube_cylindrical,14954,0.12719159337141334,5.309282358127249e-173,5.385129248957639e-172,Yes,"error_type                             False Negative  False Positive  \
+trait_floral_tube_cylindrical_present                                   
+0                                            0.184232        0.648256   
+1                                            0.352748        0.352548   
+
+error_type                             True Negative  True Positive  
+trait_floral_tube_cylindrical_present                                
+0                                           0.045605       0.121907  
+1                                           0.061723       0.232981  ","{0: {'with': 0.39776230163260645, 'without': 0.3982076428812986, 'impact': -0.00044534124869216596}, 1: {'with': 0.14899112187247782, 'without': 0.06572664876156371, 'impact': 0.0832644731109141}}",0.005014455770356863,0.05411925916557511,0.5002022005514051,0.2946677278153601,0.29968218358571697,"{0: {'low_quartile_acc': 0.39938712972420837, 'high_quartile_acc': 0.40537974683544303, 'quartile_effect': 0.005992617111234666}, 1: {'low_quartile_acc': 0.14743896601244616, 'high_quartile_acc': 0.14709913202375513, 'quartile_effect': -0.00033983398869102954}}"
+erect,21270,0.1253604468792802,5.107025919574569e-161,4.028876003219938e-160,Yes,"error_type           False Negative  False Positive  True Negative  \
+trait_erect_present                                                  
+0                          0.148362        0.706430       0.041686   
+1                          0.324636        0.404795       0.059332   
+
+error_type           True Positive  
+trait_erect_present                 
+0                         0.103523  
+1                         0.211236  ","{0: {'with': 0.39419196350236885, 'without': 0.41099236641221376, 'impact': -0.016800402909844914}, 1: {'with': 0.12783630470016208, 'without': 0.05572118844453583, 'impact': 0.07211511625562625}}",-0.006611923100362571,-0.03600844062593558,0.5730337841939099,0.2763833032866454,0.2697713801862828,"{0: {'low_quartile_acc': 0.4009674134419552, 'high_quartile_acc': 0.39631043256997456, 'quartile_effect': -0.004656980871980632}, 1: {'low_quartile_acc': 0.12732257081937254, 'high_quartile_acc': 0.1256791017747193, 'quartile_effect': -0.001643469044653234}}"
+base_attenuate,9258,-0.11301090702233324,3.5228964634379864e-110,1.4713273464946884e-109,Yes,"error_type                    False Negative  False Positive  True Negative  \
+trait_base_attenuate_present                                                  
+0                                   0.353162        0.393300       0.020109   
+1                                   0.000000        0.859473       0.140527   
+
+error_type                    True Positive  
+trait_base_attenuate_present                 
+0                                  0.233429  
+1                                  0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.14052711168718945, 'without': 0.04864133062566483, 'impact': 0.09188578106152462}}",-0.0034103082106622107,-0.022718850700276138,0.8523154864889162,0.13693419551160138,0.13352388730093917,"{1: {'low_quartile_acc': 0.13693419551160138, 'high_quartile_acc': 0.13352388730093917, 'quartile_effect': -0.0034103082106622107}}"
+stamens_6,6478,-0.10158072501960183,7.017012787032066e-70,1.5568997121227396e-69,Yes,"error_type               False Negative  False Positive  True Negative  \
+trait_stamens_6_present                                                  
+0                              0.317838        0.439951       0.032129   
+1                              0.000000        0.859370       0.140630   
+
+error_type               True Positive  
+trait_stamens_6_present                 
+0                             0.210081  
+1                             0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.14062982401975918, 'without': 0.0680588369788888, 'impact': 0.07257098704087038}}",-0.0012702521330649197,0.023113512525083018,0.8847078155108639,0.1388888888888889,0.13761863675582398,"{1: {'low_quartile_acc': 0.1388888888888889, 'high_quartile_acc': 0.13761863675582398, 'quartile_effect': -0.0012702521330649197}}"
+becoming_alternate_distally,8481,-0.09625842311074559,4.431938126508823e-76,1.123812882079023e-75,Yes,"error_type                                 False Negative  False Positive  \
+trait_becoming_alternate_distally_present                                   
+0                                                0.342523        0.410647   
+1                                                0.000000        0.849428   
+
+error_type                                 True Negative  True Positive  
+trait_becoming_alternate_distally_present                                
+0                                               0.020433       0.226397  
+1                                               0.150572       0.000000  ","{0: {'with': nan, 'without': 0.397941797860015, 'impact': nan}, 1: {'with': 0.15057186652517393, 'without': 0.047400611620795105, 'impact': 0.10317125490437883}}",-0.004403054733408407,-0.036721142967079026,0.7667553387687435,0.14764267990074442,0.14323962516733602,"{1: {'low_quartile_acc': 0.14764267990074442, 'high_quartile_acc': 0.14323962516733602, 'quartile_effect': -0.004403054733408407}}"
+leaves_opposite,25805,0.09446382294990865,2.9470442536838456e-73,7.215177310743208e-73,Yes,"error_type                     False Negative  False Positive  True Negative  \
+trait_leaves_opposite_present                                                  
+0                                    0.156726         0.69139       0.042990   
+1                                    0.290913         0.46274       0.055803   
+
+error_type                     True Positive  
+trait_leaves_opposite_present                 
+0                                   0.108893  
+1                                   0.190544  ","{0: {'with': 0.3957662588538313, 'without': 0.40995998221431745, 'impact': -0.014193723360486132}, 1: {'with': 0.10761527539047903, 'without': 0.05853972338372467, 'impact': 0.04907555200675436}}",-0.0048686945006763405,-0.04488952727974584,0.44558823896492183,0.2521262002743484,0.24725750577367206,"{0: {'low_quartile_acc': 0.40421940928270045, 'high_quartile_acc': 0.40444711538461536, 'quartile_effect': 0.00022770610191491514}, 1: {'low_quartile_acc': 0.1073627844712182, 'high_quartile_acc': 0.10194444444444445, 'quartile_effect': -0.0054183400267737575}}"
+petals_purple,16590,0.029939765677460733,3.110457972040294e-11,4.6008857503096015e-11,Yes,"error_type                   False Negative  False Positive  True Negative  \
+trait_petals_purple_present                                                  
+0                                  0.237586        0.553897       0.044282   
+1                                  0.279265        0.482278       0.061543   
+
+error_type                   True Positive  
+trait_petals_purple_present                 
+0                                 0.164235  
+1                                 0.176914  ","{0: {'with': 0.3878171247357294, 'without': 0.4087262491203378, 'impact': -0.020909124384608402}, 1: {'with': 0.11316781201507427, 'without': 0.07402855251961804, 'impact': 0.03913925949545623}}",0.0027605827449035947,0.04933856171900531,0.5471728657453054,0.23803593666607364,0.24079651941097724,"{0: {'low_quartile_acc': 0.390912651782217, 'high_quartile_acc': 0.39400584795321636, 'quartile_effect': 0.003093196170999346}, 1: {'low_quartile_acc': 0.11082138200782268, 'high_quartile_acc': 0.11141975308641976, 'quartile_effect': 0.0005983710785970736}}"

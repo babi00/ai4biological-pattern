@@ -1,0 +1,21 @@
+trait_combo,n_images,tp_frac,tn_frac,fp_frac,fn_frac,asymmetry_score
+"sessile, floral_tube_cylindrical, stamens_6",5456,0.0,0.14772727272727273,0.8522727272727273,0.0,1.0
+"inflorescence_spikelike, stamens_4_6, prostrate_to_weakly_erect",164,0.0,0.03048780487804878,0.9695121951219512,0.0,1.0
+"with_flowers_in_whorled_clusters, getting_narrower_at_the_base, petals_rose_to_purple",1039,0.4629451395572666,0.0,0.0,0.5370548604427334,1.0
+"with_flowers_in_whorled_clusters, getting_narrower_at_the_base, inflorescence_spikelike_to_raceme",1039,0.4629451395572666,0.0,0.0,0.5370548604427334,1.0
+"with_flowers_in_whorled_clusters, floral_tube_cylindrical, stamens_10_14",1191,0.4609571788413098,0.0,0.0,0.5390428211586902,1.0
+"with_flowers_in_whorled_clusters, floral_tube_cylindrical, petals_rose_to_purple",1191,0.4609571788413098,0.0,0.0,0.5390428211586902,1.0
+"with_flowers_in_whorled_clusters, floral_tube_cylindrical, inflorescence_spikelike_to_raceme",1191,0.4609571788413098,0.0,0.0,0.5390428211586902,1.0
+"with_flowers_in_whorled_clusters, floral_tube_cylindrical, getting_narrower_at_the_base",1039,0.4629451395572666,0.0,0.0,0.5370548604427334,1.0
+"inflorescence_spikelike, petals_lavender, prostrate_to_weakly_erect",164,0.0,0.03048780487804878,0.9695121951219512,0.0,1.0
+"with_flowers_in_whorled_clusters, inflorescence_spikelike_to_raceme, petals_rose_to_purple",1191,0.4609571788413098,0.0,0.0,0.5390428211586902,1.0
+"inflorescence_spikelike, petals_lavender, stamens_4_6",203,0.0,0.024630541871921183,0.9753694581280788,0.0,1.0
+"inflorescence_spikelike, calyx_with_teeth_of_the_same_length, prostrate_to_weakly_erect",164,0.0,0.03048780487804878,0.9695121951219512,0.0,1.0
+"inflorescence_spikelike, calyx_with_teeth_of_the_same_length, stamens_4_6",203,0.0,0.024630541871921183,0.9753694581280788,0.0,1.0
+"inflorescence_spikelike, calyx_with_teeth_of_the_same_length, petals_lavender",203,0.0,0.024630541871921183,0.9753694581280788,0.0,1.0
+"inflorescence_spikelike, flower_tube_narrowly_cylindrical_without_red_dots, prostrate_to_weakly_erect",164,0.0,0.03048780487804878,0.9695121951219512,0.0,1.0
+"inflorescence_spikelike, flower_tube_narrowly_cylindrical_without_red_dots, stamens_4_6",203,0.0,0.024630541871921183,0.9753694581280788,0.0,1.0
+"with_flowers_in_whorled_clusters, getting_narrower_at_the_base, stamens_10_14",1039,0.4629451395572666,0.0,0.0,0.5370548604427334,1.0
+"with_flowers_in_whorled_clusters, inflorescence_spikelike_to_raceme, stamens_10_14",1191,0.4609571788413098,0.0,0.0,0.5390428211586902,1.0
+"erect, base_attenuate, petals_pale_purple_or_whitish",216,0.0,0.041666666666666664,0.9583333333333334,0.0,1.0
+"calyx_with_alternate_long_and_small_teeth, creeping, purple",21,0.0,0.047619047619047616,0.9523809523809523,0.0,1.0
