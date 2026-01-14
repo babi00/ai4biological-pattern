@@ -11,4 +11,4 @@
         > *prefix_specie_place* where the specie is the spece of the observations, the place is the region of the observations (*n_a* for North America - incl. Ocean) and prefix follows this strategy:
         >    - `PROVA` for toy example - only to use at earlier stage to build models
         >    - `annotations` - data obtained via `download_observations.ipynb` only of observations with annotations
-        >    - `complete` - data obtained via `download_observations.ipynb` of observations with and without annotations
+        >    - `complete` - data obtained via `download_observations.ipynb` of observations with and without annotations.
