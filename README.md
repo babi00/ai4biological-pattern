@@ -1,6 +1,6 @@
 # Content of the branch 'guido-clean'
 
-This branch is meant to track the work of Guido Spina on the MSc thesis project "AI for Biological Patterns".
+This branch is meant to track the work of Guido Spina on the MSc thesis project "XAI tools to predict biological invasiveness: a case study in plants".
 
 ## guido_try_trait_analysis
 
