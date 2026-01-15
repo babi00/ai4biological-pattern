@@ -12,6 +12,23 @@ This folder includes the files used to study the "invasive"-"non invasive" compa
 
 **NOTE**: in the following files, often other files are used, for example the .csv database from which the locations are extracted or similar operations. Since they are often very large, they have not been uploaded to the repository.
 
+
+- `NEW_model_grid_search.ipynb`: this file contains preliminary tests on the two classes model, opposed to the previous (wrong) tests on the three classes model. It proves that BioCLIP is still the best performing model, but final tests have been performed in the file "final_model_training.ipynb"
+
+- `download_plant_images.ipynb`: this file is used to download the images present in the website [iNaturalist](https://www.inaturalist.org/home), using iNaturalist's API.  
+
+    **Note**: the file _invasive_plants_name_list.csv_ is used to retrieve the taxa of the species, but it is not present in the repository.
+
+- `analysis_of_prediction.ipynb`: after obtaining the prediction (invasive, non-invasive) for each sample utilizing the correct model, in this file we perform some analysis to extract metrics such as F1 score or accuracy.
+
+- `embeddings_UMAP.ipynb`: in this file we take the embeddings and we use UMAP to map them into a 2D space to observe the distance between different clusters of species.
+
+- `final_model_training.ipynb`: this file trains a model using the correct classifier logic, but does it without splitting the dataset into species. No LOSO, a single model trained with 80-20 split. It demonstrates that the classifier obtains good performances using a regular split.
+
+- `group_k_fold.ipynb`:
+
+-------------------------
+
 - `plant_zones_extraction.ipynb`: with this file we obtain, for each plant species, the regions in which they are native or non-native. 
     
     To do so, first we manually download from the database [Plants of the World Online](https://powo.science.kew.org) the dataset containing metadata related to all the species.
@@ -19,12 +36,6 @@ This folder includes the files used to study the "invasive"-"non invasive" compa
 
     **Note**: the files _species_list_lythrum.csv_, _wcvp_names.csv_, _wcvp_distribution.csv_ are used in the code but they are not present in the repository.
 
-
-- `download_plant_images.ipynb`: this file is used to download the images present in the website [iNaturalist](https://www.inaturalist.org/home), using iNaturalist's API.  
-
-    **Note**: the file _invasive_plants_name_list.csv_ is used to retrieve the taxa of the species, but it is not present in the repository. 
-
-- `NEW_model_grid_search.ipynb`: this file contains preliminary tests on the two classes model, opposed to the previous (wrong) tests on the three classes model. It proves that BioCLIP is still the best performing model, but final tests have been performed in the file "final_model_training.ipynb"
 
 - `classifier_bioclip_2.ipynb`: this file tracks an old version of the work when we were wrongly using 3 classes instead of 2. **TO BE IGNORED**
 
