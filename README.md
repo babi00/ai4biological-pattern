@@ -1,6 +1,6 @@
 # Content of the branch 'guido-clean'
 
-This branch is meant to track the work of Guido Spina on the MSc thesis project "XAI tools to predict biological invasiveness: a case study in plants".
+This branch is meant to track the work of Guido Spina on the MSc thesis project "XAI tools to predict biological invasiveness: a case study in plants". Not all files used to carry out the work are included in this sections: the code written by barbara can be found in the branch 'clean-barbara'.
 
 ## guido_try_trait_analysis
 
@@ -39,7 +39,7 @@ This folder includes the files used to study the "invasive"-"non invasive" compa
 
 - `region_labelling.ipynb`: generate a file by labeling each image with the morphological regions it contains, according to the clusters of single regions. Each region belongs to an image, therefore we generalize by going from labeled regions to labeled images.
 
-- 
+- `testing_strategies_training.ipynb`: a file where we perform some tests on the training, for example what happens if we augment the dataset or remove some species from it.
 
   
 ### Old files or files not taken into consideration for the final work
@@ -67,3 +67,6 @@ This has been modifyied for the "two classes" approach into "classify_photos_2_c
     Then we extract the ids of the plants we are interested in and from those we can obtain the native and non-native regions.
 
     **Note**: the files _species_list_lythrum.csv_, _wcvp_names.csv_, _wcvp_distribution.csv_ are used in the code but they are not present in the repository.
+
+- `regions_mapping.ipynb`: using an LLM to map all the regions for each sample to a normalized version of the region in order to determin
+ate if they are invasive, non-invasive or native. Since the three-classes classification has been abandoned, this is **TO BE IGNORED**
