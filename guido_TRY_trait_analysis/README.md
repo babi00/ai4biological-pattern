@@ -1,3 +1,1 @@
-This is just a placeholder to create the folder Guido is working in. 
-
-I'll update the README as I upload the files
+This folder contains files used for an initial version of the thesis, abandoned after a few weeks. They serve no purpose for the final work.
