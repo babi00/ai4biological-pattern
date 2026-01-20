@@ -51,7 +51,8 @@ This folder includes the files used to study the "invasive"-"non invasive" compa
 
 - `unique_traits.ipynb`: after biologist [Riccardo Ciarle](https://www.linkedin.com/in/riccardo-ciarle-b41a482b9/?originalSubdomain=nz=) kindly shared with us the list of specific morphological traits belonging to each species, we used this file to analyze which traits were exclusive for invasive species, which ones for non-invasive species and which ones were common to both. We also determined the traits that belonged to most species for all three categories.
   
-### Old files or files not taken into consideration for the final work
+### unused_files
+**Old files or files not taken into consideration for the final work**
 
 - `classifier_bioclip_2.ipynb`: this file tracks an old version of the work when we were wrongly using 3 classes instead of 2. **TO BE IGNORED**
 
