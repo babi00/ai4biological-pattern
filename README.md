@@ -10,8 +10,6 @@ This folder tracks an older version of the project that has been abandoned. It i
 
 This folder includes the files used to study the "invasive"-"non invasive" comparison of plant species. In particular we focus on the genus "Lythrum", studying 40 species of this genus to understand why some of them are invasive (in certain regions) and some are not.
 
-**NOTE**: in the following files, often other files are used, for example the .csv database from which the locations are extracted or similar operations. Since they are often very large, they have not been uploaded to the repository.
-
 - `LOSO_training_no_hyssopifolia`: this file trains the models for each species using LOSO validation, excluding *L. hyssopifolia* from the dataset.
 
 - `NEW_group_k_fold.ipynb`: in this file we perform the LOSO validation to obtain the first results that prompt us to reflect on the role of L. hyssopifolia (which obtained terrible results) and finally to exclude it from the dataset (together with 'embeddings_UMAP.ipynb').
